@@ -30,9 +30,10 @@
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
 
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=immanuel44" alt="immanuel44" /> </p>
 
 
-![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=immanuel44&show_icons=true&hide_border=true)
+![Immanuel's github stats](https://github-readme-stats.vercel.app/api?username=immanuel44&show_icons=true&hide_border=true)
 
 <br>
 
