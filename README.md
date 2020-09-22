@@ -65,10 +65,7 @@
 <a href="https://in.linkedin.com/in/TheDudeThatCode">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/TheDudeThatCode">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/thedudethatcode/">
+<a href="https://www.instagram.com/thedudethatcode/">
     <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:shubhamdeepjha@gmail.com">
@@ -146,7 +143,7 @@
 </table>
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheDudeThatCode)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=immanuel44)
 
 -->
 # IMMANUEL RAJ
