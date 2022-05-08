@@ -36,5 +36,5 @@
 
 # Connect with me<img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Handshake.gif" height="32px">
 
-| [<img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/immanuel-raj-4535971b3/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/iamimmanuelraj) | [<img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:immanuelr44@gmail.com)
+| [<img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/iamimmanuelraj/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/iamimmanuelraj) | [<img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:iamimmanuelraj@gmail.com)
 |:---:|:---:|:---:|
