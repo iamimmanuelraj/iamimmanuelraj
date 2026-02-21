@@ -45,14 +45,6 @@
 
 <br>
 
-<div align="center">
-
-![Immanuel's github stats](https://github-readme-stats.vercel.app/api?username=iamimmanuelraj&show_icons=true&hide_border=true)
-
-</div>
-
-<br>
-
 <img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
 <br>
