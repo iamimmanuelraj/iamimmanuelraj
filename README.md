@@ -28,7 +28,7 @@
 
 <div align="center">
 
-**Tech I work with:**
+# Tech I work with
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
@@ -49,7 +49,7 @@
 
 <br>
 
-# Connect with me<img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Handshake.gif" height="32px">
+<h1 align="center">Connect with me<img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Handshake.gif" height="32px"></h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iamimmanuelraj/">
