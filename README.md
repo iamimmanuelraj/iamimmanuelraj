@@ -26,22 +26,30 @@
 
 <br>
 
+<div align="center">
+
 **Tech I work with:**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=flat-square&logo=frappe&logoColor=white)
 
+</div>
+
 <br>
 
+<div align="center">
+
 ![Immanuel's github stats](https://github-readme-stats.vercel.app/api?username=iamimmanuelraj&show_icons=true&hide_border=true)
+
+</div>
 
 <br>
 
@@ -51,5 +59,20 @@
 
 # Connect with me<img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Handshake.gif" height="32px">
 
-| [<img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/iamimmanuelraj/) | [<img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:iamimmanuelraj@gmail.com) | [<img src="https://cdn.svgporn.com/logos/twitter.svg" alt="Twitter logo" width="32">](https://x.com/iamimmanuelraj) | [<img src="https://cdn.svgporn.com/logos/internet-explorer.svg" alt="Website" width="32">](https://immanuelraj.dev)
-|:---:|:---:|:---:|:---:|
+<p align="center">
+  <a href="https://www.linkedin.com/in/iamimmanuelraj/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:iamimmanuelraj@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/iamimmanuelraj">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  &nbsp;
+  <a href="https://immanuelraj.dev">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+</p>
