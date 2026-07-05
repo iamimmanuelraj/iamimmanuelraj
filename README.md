@@ -55,7 +55,6 @@
 
 [View my contributions →](./CONTRIBUTIONS.md)
 
-<!-- _Auto-updated every 6 hours via GitHub Actions_ -->
 <!-- OSS_CONTRIBUTIONS -->
 
 <h1 align="center">Connect with me<img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Handshake.gif" height="32px"></h1>

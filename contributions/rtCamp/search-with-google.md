@@ -1,6 +1,9 @@
 # rtCamp/search-with-google
-> Recent contributions to the rtCamp/search-with-google repository focused on updating dependencies for the e2e-playwright tests and enhancing GitHub Actions workflows. These updates improve the project's stability and performance by integrating the latest package versions.
+
+> Managed dependency updates by merging multiple pull requests to keep the project up-to-date with the latest packages and tools.
+
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/search-with-google)](https://github.com/rtCamp/search-with-google/graphs/contributions)
+
 ### Recent commits
 - Merge pull request #71 from rtCamp/dependabot/npm_and_yarn/tests/e2e-playwright/multi-c7ea7a9c3e
 - Merge pull request #72 from rtCamp/dependabot/npm_and_yarn/tests/e2e-playwright/word-wrap-1.2.5
