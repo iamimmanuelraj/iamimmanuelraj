@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Streamlined device performance through optimizations, including enabling proximity checks and removing redundant flags and apps from the build.
+> Optimized device settings and configurations by removing unnecessary apps and enabling essential features for improved user experience.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 

@@ -1,6 +1,6 @@
 # rtCamp/search-with-google
 
-> Managed dependency updates by merging pull requests that enhance the testing framework and overall reliability of the project.
+> Managed dependency updates through PR merges, enhancing project stability and incorporating the latest features from related libraries.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/search-with-google)](https://github.com/rtCamp/search-with-google/graphs/contributions)
 
