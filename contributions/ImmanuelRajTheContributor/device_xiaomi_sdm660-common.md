@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Implemented crucial fixes for build enforcement and security denials, updated device blobs, and streamlined device configuration management.
+> Contributed to the stability and functionality of the sdm660-common by updating blobs, managing build permissions, and refining key settings and scripts.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 

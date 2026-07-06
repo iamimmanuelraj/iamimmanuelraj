@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Optimized device settings and configurations by removing unnecessary apps and enabling essential features for improved user experience.
+> Improved the functionality of the lavender device by enabling proximity checks, cleaning up app configurations, and optimizing system performance settings.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 
