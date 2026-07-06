@@ -4,7 +4,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [vimalds15/srm](./contributions/vimalds15/srm.md)
 
-> Enhanced the website by adding icons for various sections, modifying the footer, and creating navigation links for better user experience.->
+> Enhanced the user interface by modifying the footer, adding icons for various sections, and improving navigational links within the platform.->
 
 [![Contributions](https://contrib.rocks/image?repo=vimalds15/srm)](https://github.com/vimalds15/srm/graphs/contributions)
 
@@ -12,7 +12,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [ImmanuelRajTheContributor/device_xiaomi_sdm660-common](./contributions/ImmanuelRajTheContributor/device_xiaomi_sdm660-common.md)
 
-> Improved device compatibility and functionality by updating blobs, fixing build issues, and adjusting permissions for the sdm660-common platform.->
+> Improved the build configuration by updating blobs, fixing denials, and optimizing system settings, while implementing various code tweaks for better performance.->
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
@@ -20,7 +20,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [voidxog/android_device_xiaomi_lavender](./contributions/voidxog/android_device_xiaomi_lavender.md)
 
-> Optimized device performance by enabling proximity checks, updating media profiles, and enhancing system management through garbage collection and configurations.->
+> Streamlined device performance through optimizations, including enabling proximity checks and removing redundant flags and apps from the build.->
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 
@@ -28,7 +28,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [Amritorock/device_xiaomi_lavender](./contributions/Amritorock/device_xiaomi_lavender.md)
 
-> Refined system settings for performance and compatibility by removing unnecessary configurations and enhancing media support features.->
+> Enhanced device functionality by optimizing overlays, improving media support, and introducing various cleaning and optimization efforts in the build configuration.->
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
@@ -36,7 +36,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [rtCamp/search-with-google](./contributions/rtCamp/search-with-google.md)
 
-> Streamlined the project dependencies and improved module stability through multiple updates and pull requests, ensuring smoother e2e testing with Playwright.->
+> Managed dependency updates by merging pull requests that enhance the testing framework and overall reliability of the project.->
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/search-with-google)](https://github.com/rtCamp/search-with-google/graphs/contributions)
 
@@ -44,7 +44,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [TwistUI/vendor_aosp](./contributions/TwistUI/vendor_aosp.md)
 
-> Addressed various board configuration issues and improved compatibility with DRM and media settings for the sdm660 platform.->
+> Refined device configuration by allowing DRM features, fixing board platform issues, and enhancing compatibility through systematic improvements.->
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 

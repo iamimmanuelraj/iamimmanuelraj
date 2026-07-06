@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Refined system settings for performance and compatibility by removing unnecessary configurations and enhancing media support features.
+> Enhanced device functionality by optimizing overlays, improving media support, and introducing various cleaning and optimization efforts in the build configuration.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

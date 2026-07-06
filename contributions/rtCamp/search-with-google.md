@@ -1,6 +1,6 @@
 # rtCamp/search-with-google
 
-> Streamlined the project dependencies and improved module stability through multiple updates and pull requests, ensuring smoother e2e testing with Playwright.
+> Managed dependency updates by merging pull requests that enhance the testing framework and overall reliability of the project.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/search-with-google)](https://github.com/rtCamp/search-with-google/graphs/contributions)
 
