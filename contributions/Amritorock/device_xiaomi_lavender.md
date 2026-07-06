@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Removed redundant configurations, updated media profiles, and introduced new features to optimize device performance and user experience.
+> Refined system settings for performance and compatibility by removing unnecessary configurations and enhancing media support features.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

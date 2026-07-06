@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Made crucial fixes and enhancements to board configurations and vendor settings to improve compatibility and support for the SDK.
+> Addressed various board configuration issues and improved compatibility with DRM and media settings for the sdm660 platform.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 
