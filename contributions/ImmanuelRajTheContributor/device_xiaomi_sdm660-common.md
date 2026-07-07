@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Worked on build optimization by enforcing permissions, updating device blobs, and altering various features for better performance.
+> Improved the build setup by enforcing security measures, updating device blobs, and optimizing various features, including disabling blur effects and managing device permissions.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 

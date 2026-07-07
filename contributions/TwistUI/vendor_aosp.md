@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Refined the board configuration to improve compatibility with DRM features and optimized overall vendor performance in the Android ecosystem.
+> Made several adjustments to the BoardConfigQcom to improve platform functionality and compatibility, alongside refactoring for better handling of DRM
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 

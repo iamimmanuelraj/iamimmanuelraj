@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Contributed to device functionality by refining app settings and optimizing overlays while supporting enhanced features like proximity checks.
+> Made significant improvements by optimizing system flags, enhancing media support, and transitioning overlay systems to improve device performance.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

@@ -1,6 +1,6 @@
 # rtCamp/search-with-google
 
-> Merged multiple pull requests to incorporate updates and optimizations in the project's testing framework, enhancing overall maintaining standards.
+> Maintained project stability and security by merging numerous updates from Dependabot, ensuring dependencies are up-to-date and functioning correctly.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/search-with-google)](https://github.com/rtCamp/search-with-google/graphs/contributions)
 
