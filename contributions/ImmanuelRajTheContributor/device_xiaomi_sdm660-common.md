@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Contributed to the stability and functionality of the sdm660-common by updating blobs, managing build permissions, and refining key settings and scripts.
+> Improved the device's system stability by refining build configurations, updating crucial blobs, and enabling permissive settings for smoother operation.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 

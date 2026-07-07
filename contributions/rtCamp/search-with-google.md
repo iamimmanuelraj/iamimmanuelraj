@@ -1,6 +1,6 @@
 # rtCamp/search-with-google
 
-> Maintained and upgraded project dependencies to ensure stability and compatibility, merging several pull requests to keep the codebase up to date.
+> Streamlined project dependencies by merging multiple pull requests and updating configurations for better integration and performance.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/search-with-google)](https://github.com/rtCamp/search-with-google/graphs/contributions)
 
