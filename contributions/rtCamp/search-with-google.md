@@ -1,6 +1,6 @@
 # rtCamp/search-with-google
 
-> Streamlined project dependencies by merging multiple pull requests and updating configurations for better integration and performance.
+> Merged multiple pull requests to incorporate updates and optimizations in the project's testing framework, enhancing overall maintaining standards.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/search-with-google)](https://github.com/rtCamp/search-with-google/graphs/contributions)
 
