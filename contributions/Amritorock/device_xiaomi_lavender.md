@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Made significant improvements by optimizing system flags, enhancing media support, and transitioning overlay systems to improve device performance.
+> Executed several optimizations and configurations for device performance by adjusting media profiles, cleaning unnecessary flags, and improving the overlay support.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
