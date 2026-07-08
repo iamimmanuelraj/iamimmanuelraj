@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Streamlined device performance by updating media configurations, optimizing overlays, and enhancing power management settings.
+> Improved device efficiency by removing obsolete applications, updating media profiles, and refining overlays for better WiFi support and performance settings.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

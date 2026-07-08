@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Improved configuration stability by fixing board platform issues and refining the integration of DRM functionalities.
+> Refined the board configuration for the sdm660 platform by fixing duplicates, initializing settings, and enhancing support for new features like DRM.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 
