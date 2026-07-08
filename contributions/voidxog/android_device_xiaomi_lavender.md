@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Refined device configurations by removing unneeded applications, optimizing wake settings, and enhancing media profiles for improved performance.
+> Implemented changes enhancing system functionality, including optimizing media profiles and enabling new features for device interactions.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 

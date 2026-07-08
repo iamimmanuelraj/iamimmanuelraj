@@ -1,6 +1,6 @@
 # rtCamp/search-with-google
 
-> Integrated multiple dependency updates and configuration enhancements through several pull requests to maintain project health and compatibility.
+> Streamlined project dependencies and ensured the integration of updates through multiple pull requests aimed at improving testing frameworks.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/search-with-google)](https://github.com/rtCamp/search-with-google/graphs/contributions)
 
