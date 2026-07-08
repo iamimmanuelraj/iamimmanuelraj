@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Implemented changes enhancing system functionality, including optimizing media profiles and enabling new features for device interactions.
+> Enhanced device functionality by enabling proximity checks and optimizing various system configurations, while also improving media profiles and resource management.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 

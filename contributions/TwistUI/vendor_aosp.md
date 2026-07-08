@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Refined board configuration settings to support advanced features in device management and optimize system performance.
+> Refined board configurations and enhanced device support by addressing DRM settings, initialization variables, and streamlining vendor-related processes.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 

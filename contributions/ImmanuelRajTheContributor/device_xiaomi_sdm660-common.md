@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Worked on improving device compatibility by updating system blobs, refining build configurations, and managing permissions while addressing security denials.
+> Improved device compatibility by updating blobs, adjusting policies, and refining build settings, while resolving permission denials and enforcing security.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
