@@ -1,6 +1,6 @@
 # rtCamp/search-with-google
 
-> Streamlined the project by merging multiple dependency updates and improving the testing framework for enhanced performance and maintenance.
+<!-- AI_DESC -->
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/search-with-google)](https://github.com/rtCamp/search-with-google/graphs/contributions)
 

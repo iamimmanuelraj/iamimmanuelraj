@@ -1,6 +1,6 @@
 # Black-Iron-Project/vendor_aosp
 
-<!-- AI_DESC -->
+> Refined board configuration protocols to support advanced functionalities, enhancing system compatibility and performance.
 
 [![Contributions](https://contrib.rocks/image?repo=Black-Iron-Project/vendor_aosp)](https://github.com/Black-Iron-Project/vendor_aosp/graphs/contributions)
 

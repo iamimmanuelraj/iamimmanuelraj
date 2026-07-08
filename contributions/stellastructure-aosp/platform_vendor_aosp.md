@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-<!-- AI_DESC -->
+> Optimized board configuration support and implemented several quality improvements to enhance system functionality and performance.
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 
