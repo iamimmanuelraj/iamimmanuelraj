@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Improved device functionality by updating blobs, adjusting permissions, disabling features, and switching to more efficient build scripts.
+> Improved the build process by fixing denials, updating blobs, and adjusting device settings, while working on enabling and disabling specific features.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 

@@ -5,4 +5,3 @@
 [![Contributions](https://contrib.rocks/image?repo=Ab3loth/device_oneplus_sdm845-common)](https://github.com/Ab3loth/device_oneplus_sdm845-common/graphs/contributions)
 
 ### Recent commits
-- sdm845-common: Use Other partiton for DEX operations
