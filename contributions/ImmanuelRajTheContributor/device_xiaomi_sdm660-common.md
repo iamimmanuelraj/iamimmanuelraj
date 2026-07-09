@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Implemented security enhancements by enforcing build settings, updating device blobs, and refining system settings to improve performance and functionality.
+> Implemented important system level changes by building enforcing policies, updating blobs, and adjusting device settings for improved performance and functionality.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
