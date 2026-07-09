@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Made significant updates to device settings, enabling proximity checks and optimizing media profile and codec configurations for better compatibility.
+> Refined device performance by enabling proximity checks, optimizing media profiles, and implementing additional Wi-Fi options support.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 

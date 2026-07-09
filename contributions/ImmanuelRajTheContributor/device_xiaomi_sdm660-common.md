@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Implemented important system level changes by building enforcing policies, updating blobs, and adjusting device settings for improved performance and functionality.
+> Improved device functionality by updating blobs, adjusting permissions, disabling features, and switching to more efficient build scripts.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 

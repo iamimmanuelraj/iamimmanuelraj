@@ -4,7 +4,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [vimalds15/srm](./contributions/vimalds15/srm.md)
 
-> Enhanced the UI with various icon additions, modified the footer, and created home link functionalities, streamlining navigation and user experience.->
+> Enhanced the user interface by adding icons for various sections and links, while also making footer modifications to improve navigation.->
 
 [![Contributions](https://contrib.rocks/image?repo=vimalds15/srm)](https://github.com/vimalds15/srm/graphs/contributions)
 
@@ -12,7 +12,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [ImmanuelRajTheContributor/device_xiaomi_sdm660-common](./contributions/ImmanuelRajTheContributor/device_xiaomi_sdm660-common.md)
 
-> Implemented important system level changes by building enforcing policies, updating blobs, and adjusting device settings for improved performance and functionality.->
+> Improved device functionality by updating blobs, adjusting permissions, disabling features, and switching to more efficient build scripts.->
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
@@ -20,7 +20,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [voidxog/android_device_xiaomi_lavender](./contributions/voidxog/android_device_xiaomi_lavender.md)
 
-> Made significant updates to device settings, enabling proximity checks and optimizing media profile and codec configurations for better compatibility.->
+> Refined device performance by enabling proximity checks, optimizing media profiles, and implementing additional Wi-Fi options support.->
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 
@@ -28,7 +28,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [Amritorock/device_xiaomi_lavender](./contributions/Amritorock/device_xiaomi_lavender.md)
 
-> Optimized device performance by refining media profiles, adjusting settings, and enhancing functionality with new service integrations and overlays.->
+> Elevated device capabilities through optimizing media codec profiles, enhancing Wi-Fi support, and refining resource management strategies.->
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
@@ -36,7 +36,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [TwistUI/vendor_aosp](./contributions/TwistUI/vendor_aosp.md)
 
-> Fixed and updated configuration settings for better support of the sdm660 platform, enhancing overall vendor capabilities and performance.->
+> Refined board configuration for improved compatibility and functionality, enabling features such as DRM and support for specific hardware.->
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 
@@ -44,7 +44,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [stellastructure-aosp/platform_vendor_aosp](./contributions/stellastructure-aosp/platform_vendor_aosp.md)
 
-> Improved platform support for the sdm660 by refining hardware configurations and enhancing DRM capabilities, ensuring better performance across the->
+> Improved device board configurations and support to enhance functionality across platforms and ensure better compatibility.->
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 
@@ -52,7 +52,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [Black-Iron-Project/vendor_aosp](./contributions/Black-Iron-Project/vendor_aosp.md)
 
-<!-- AI_DESC -->
+> Refined board configuration and updated vendor settings->
 
 [![Contributions](https://contrib.rocks/image?repo=Black-Iron-Project/vendor_aosp)](https://github.com/Black-Iron-Project/vendor_aosp/graphs/contributions)
 
@@ -1242,19 +1242,19 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ---
 
-## [rtCamp/onesearch](./contributions/rtCamp/onesearch.md)
-
-<!-- AI_DESC -->
-
-[![Contributions](https://contrib.rocks/image?repo=rtCamp/onesearch)](https://github.com/rtCamp/onesearch/graphs/contributions)
-
----
-
 ## [frappe/press](./contributions/frappe/press.md)
 
 <!-- AI_DESC -->
 
 [![Contributions](https://contrib.rocks/image?repo=frappe/press)](https://github.com/frappe/press/graphs/contributions)
+
+---
+
+## [rtCamp/onesearch](./contributions/rtCamp/onesearch.md)
+
+<!-- AI_DESC -->
+
+[![Contributions](https://contrib.rocks/image?repo=rtCamp/onesearch)](https://github.com/rtCamp/onesearch/graphs/contributions)
 
 ---
 

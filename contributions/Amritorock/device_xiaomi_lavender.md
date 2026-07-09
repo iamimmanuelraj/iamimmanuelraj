@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Optimized device performance by refining media profiles, adjusting settings, and enhancing functionality with new service integrations and overlays.
+> Elevated device capabilities through optimizing media codec profiles, enhancing Wi-Fi support, and refining resource management strategies.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
