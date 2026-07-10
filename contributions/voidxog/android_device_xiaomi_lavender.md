@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Optimized device functionality by removing unnecessary apps, adding proximity checks, updating media profiles, and enhancing support for WiFi options.
+> Contributed to the project's performance and functionality by enabling proximity checks, optimizing media profiles, and refining system configurations, alongside removing unnecessary flags and enhancing Wi-Fi support.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 
