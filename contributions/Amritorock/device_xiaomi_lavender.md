@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Enhanced device performance by optimizing system configurations, enabling support for Wi-Fi options, and updating media profiles and codecs, while also simplifying overlay management and addressing system limitations.
+> Implemented multiple enhancements including updates to media profiles, refining overlays, and streamlining system configurations for better device performance.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
