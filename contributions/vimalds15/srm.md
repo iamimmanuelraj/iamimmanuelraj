@@ -1,6 +1,6 @@
 # vimalds15/srm
 
-> Enhanced the bot's functionality with various link additions and improved the footer design, making it more user-friendly and informative.
+> Enhanced the website with various modifications, including footer updates and the addition of icons and links for home, admission, campus life, and academics.
 
 [![Contributions](https://contrib.rocks/image?repo=vimalds15/srm)](https://github.com/vimalds15/srm/graphs/contributions)
 

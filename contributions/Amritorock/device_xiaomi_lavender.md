@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Enhanced the lavender device build by refining system settings and overlays, improving media codec handling, and boosting feature support for better functionality.
+> Contributed to optimizing the device's configurations by removing unnecessary applications and enhancing media profiles, while also improving overlay support and updating GPS.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
