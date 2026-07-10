@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Improved the build configuration by enforcing policies, updating blobs, and making tweaks to ensure better functionality and compatibility for the sdm660-common device.
+> Implemented several updates and fixes for the sdm660-common device configuration, ensuring optimal performance and compatibility of features like Bluetooth and Doze settings.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 

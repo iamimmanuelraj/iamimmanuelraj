@@ -1,6 +1,6 @@
 # vimalds15/srm
 
-> Enhanced the user interface by adding various icons for admissions, campus life, and academics, as well as adding and modifying links for better navigation and aesthetics.
+> Enhanced the bot's functionality with various link additions and improved the footer design, making it more user-friendly and informative.
 
 [![Contributions](https://contrib.rocks/image?repo=vimalds15/srm)](https://github.com/vimalds15/srm/graphs/contributions)
 

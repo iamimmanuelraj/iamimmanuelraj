@@ -4,7 +4,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [vimalds15/srm](./contributions/vimalds15/srm.md)
 
-> Enhanced the user interface by adding various icons for admissions, campus life, and academics, as well as adding and modifying links for better navigation and aesthetics.->
+> Enhanced the bot's functionality with various link additions and improved the footer design, making it more user-friendly and informative.->
 
 [![Contributions](https://contrib.rocks/image?repo=vimalds15/srm)](https://github.com/vimalds15/srm/graphs/contributions)
 
@@ -12,7 +12,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [ImmanuelRajTheContributor/device_xiaomi_sdm660-common](./contributions/ImmanuelRajTheContributor/device_xiaomi_sdm660-common.md)
 
-> Improved the build configuration by enforcing policies, updating blobs, and making tweaks to ensure better functionality and compatibility for the sdm660-common device.->
+> Implemented several updates and fixes for the sdm660-common device configuration, ensuring optimal performance and compatibility of features like Bluetooth and Doze settings.->
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
@@ -20,7 +20,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [voidxog/android_device_xiaomi_lavender](./contributions/voidxog/android_device_xiaomi_lavender.md)
 
-> Made several optimizations in the device configuration by enabling proximity checks, updating media profiles, and enhancing garbage collection for improved performance.->
+> Optimized the lavender device configuration by enabling proximity checks and cleaning up unnecessary flags, ensuring a smoother user experience.->
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 
@@ -28,7 +28,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [Amritorock/device_xiaomi_lavender](./contributions/Amritorock/device_xiaomi_lavender.md)
 
-> Implemented multiple enhancements including updates to media profiles, refining overlays, and streamlining system configurations for better device performance.->
+> Enhanced the lavender device build by refining system settings and overlays, improving media codec handling, and boosting feature support for better functionality.->
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
@@ -36,7 +36,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [TwistUI/vendor_aosp](./contributions/TwistUI/vendor_aosp.md)
 
-> Refined the board configuration and ensured compatibility for specific features like DRM, while updating essential settings and optimizing build variables.->
+> Refined BoardConfig for sdm660 by enabling DRM features and adjusting initialization sequences, contributing to a stable and robust platform configuration.->
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 
@@ -44,7 +44,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [stellastructure-aosp/platform_vendor_aosp](./contributions/stellastructure-aosp/platform_vendor_aosp.md)
 
-> Contributed to improving board configurations and->
+> Improved sdm660 BoardConfig to support new features and->
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 
@@ -818,19 +818,19 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ---
 
-## [afl-Workground/android_device_asus_sdm660-common](./contributions/afl-Workground/android_device_asus_sdm660-common.md)
-
-<!-- AI_DESC -->
-
-[![Contributions](https://contrib.rocks/image?repo=afl-Workground/android_device_asus_sdm660-common)](https://github.com/afl-Workground/android_device_asus_sdm660-common/graphs/contributions)
-
----
-
 ## [najiebhaswell/device_xiaomi_taoyao](./contributions/najiebhaswell/device_xiaomi_taoyao.md)
 
 <!-- AI_DESC -->
 
 [![Contributions](https://contrib.rocks/image?repo=najiebhaswell/device_xiaomi_taoyao)](https://github.com/najiebhaswell/device_xiaomi_taoyao/graphs/contributions)
+
+---
+
+## [afl-Workground/android_device_asus_sdm660-common](./contributions/afl-Workground/android_device_asus_sdm660-common.md)
+
+<!-- AI_DESC -->
+
+[![Contributions](https://contrib.rocks/image?repo=afl-Workground/android_device_asus_sdm660-common)](https://github.com/afl-Workground/android_device_asus_sdm660-common/graphs/contributions)
 
 ---
 
