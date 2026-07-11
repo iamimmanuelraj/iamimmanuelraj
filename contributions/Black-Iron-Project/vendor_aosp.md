@@ -1,6 +1,6 @@
 # Black-Iron-Project/vendor_aosp
 
-<!-- AI_DESC -->
+> Refined board configurations and improved device compatibility through various enhancements related to platform variables and
 
 [![Contributions](https://contrib.rocks/image?repo=Black-Iron-Project/vendor_aosp)](https://github.com/Black-Iron-Project/vendor_aosp/graphs/contributions)
 

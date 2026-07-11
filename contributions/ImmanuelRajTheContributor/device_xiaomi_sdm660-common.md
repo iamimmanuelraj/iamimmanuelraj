@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Improved the device build by enforcing settings, updating blobs, and refining configurations for Bluetooth and other features, while addressing permission issues.
+> Improved device functionality by updating blobs, adjusting build permissions, and optimizing system configurations.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
