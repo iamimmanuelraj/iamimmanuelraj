@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Implemented several enhancements, including enabling proximity checks and optimizing app configurations for better performance.
+> Enhanced proximity checking on wake and double-tap to wake while optimizing build configurations and removing unnecessary flags.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 
