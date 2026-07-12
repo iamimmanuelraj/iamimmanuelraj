@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Contributed to device stability by removing redundant configurations, optimizing garbage collection, and supporting new features in overlays and system services.
+> Implemented various enhancements in device code, including updating media profiles, enabling proximity checks, and improving resource management for better system performance.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
