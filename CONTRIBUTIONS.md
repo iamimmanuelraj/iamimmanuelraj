@@ -4,7 +4,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [vimalds15/srm](./contributions/vimalds15/srm.md)
 
-> Made various enhancements including icon additions for admissions, campus life, and academics, as well as footer modifications and linking for better navigation.->
+> Enhanced the project by modifying the footer, adding links for home and various icons related to admissions, campus life, and academics.->
 
 [![Contributions](https://contrib.rocks/image?repo=vimalds15/srm)](https://github.com/vimalds15/srm/graphs/contributions)
 
@@ -12,7 +12,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [ImmanuelRajTheContributor/device_xiaomi_sdm660-common](./contributions/ImmanuelRajTheContributor/device_xiaomi_sdm660-common.md)
 
-> Implemented build enforcing, updated device blobs, fixed denials, and made adjustments for features like Bluetooth and device doze settings.->
+> Improved device compatibility by enforcing build settings, updating necessary blobs, and adjusting features like blur and Doze settings for better performance.->
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
@@ -20,7 +20,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [voidxog/android_device_xiaomi_lavender](./contributions/voidxog/android_device_xiaomi_lavender.md)
 
-> Enhanced proximity checking on wake and double-tap to wake while optimizing build configurations and removing unnecessary flags.->
+> Refined device build by removing unnecessary applications, enabling proximity checks, updating media profiles and codecs, and optimizing app support.->
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 
@@ -28,7 +28,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [Amritorock/device_xiaomi_lavender](./contributions/Amritorock/device_xiaomi_lavender.md)
 
-> Improved device performance by removing redundant dereferencing applications and enhancing media profiles and wifi options support.->
+> Optimized device performance by updating media profiles and codecs, managing app configurations, and enhancing support for proximity checks and overlays.->
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
@@ -36,7 +36,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [TwistUI/vendor_aosp](./contributions/TwistUI/vendor_aosp.md)
 
-> Refined board configuration for sdm660, enabling DRM support and initializing necessary variables for improved functionality.->
+> Improved the board configuration for Qcom devices by fixing duplicates, enabling DRM support, and ensuring proper initialization of board variables.->
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 
@@ -44,7 +44,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [stellastructure-aosp/platform_vendor_aosp](./contributions/stellastructure-aosp/platform_vendor_aosp.md)
 
-> Updated board configuration to support sdm660 features and initialized essential variables while maintaining system integrity.->
+> Enhanced compatibility and performance by fixing board configuration issues and enabling features like DRM support.->
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 
@@ -954,19 +954,19 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ---
 
-## [simple-sunrise/device_xiaomi_sm6150-common](./contributions/simple-sunrise/device_xiaomi_sm6150-common.md)
-
-<!-- AI_DESC -->
-
-[![Contributions](https://contrib.rocks/image?repo=simple-sunrise/device_xiaomi_sm6150-common)](https://github.com/simple-sunrise/device_xiaomi_sm6150-common/graphs/contributions)
-
----
-
 ## [RealN00B/device_xiaomi_sm7325-common](./contributions/RealN00B/device_xiaomi_sm7325-common.md)
 
 <!-- AI_DESC -->
 
 [![Contributions](https://contrib.rocks/image?repo=RealN00B/device_xiaomi_sm7325-common)](https://github.com/RealN00B/device_xiaomi_sm7325-common/graphs/contributions)
+
+---
+
+## [simple-sunrise/device_xiaomi_sm6150-common](./contributions/simple-sunrise/device_xiaomi_sm6150-common.md)
+
+<!-- AI_DESC -->
+
+[![Contributions](https://contrib.rocks/image?repo=simple-sunrise/device_xiaomi_sm6150-common)](https://github.com/simple-sunrise/device_xiaomi_sm6150-common/graphs/contributions)
 
 ---
 
@@ -1267,4 +1267,4 @@ Projects I've contributed to — auto-updated every 6 hours.
 ---
 
 
-_Last updated: 2026-07-11_
+_Last updated: 2026-07-12_

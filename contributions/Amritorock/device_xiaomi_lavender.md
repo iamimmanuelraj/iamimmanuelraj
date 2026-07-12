@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Improved device performance by removing redundant dereferencing applications and enhancing media profiles and wifi options support.
+> Optimized device performance by updating media profiles and codecs, managing app configurations, and enhancing support for proximity checks and overlays.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

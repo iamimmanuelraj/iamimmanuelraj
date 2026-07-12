@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Refined board configuration for sdm660, enabling DRM support and initializing necessary variables for improved functionality.
+> Improved the board configuration for Qcom devices by fixing duplicates, enabling DRM support, and ensuring proper initialization of board variables.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 
