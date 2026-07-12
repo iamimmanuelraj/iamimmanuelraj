@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Enhanced compatibility and performance by fixing board configuration issues and enabling features like DRM support.
+> Resolved board configuration problems and enhanced hardware compatibility, along with implementing improvements for DRM support and optimizing
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 

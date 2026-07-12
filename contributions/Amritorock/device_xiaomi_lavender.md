@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Optimized device performance by updating media profiles and codecs, managing app configurations, and enhancing support for proximity checks and overlays.
+> Refined device performance by removing redundant configurations, optimizing overlays, and updating GPS and media settings for enhanced functionality.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

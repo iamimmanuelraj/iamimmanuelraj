@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Improved device compatibility by enforcing build settings, updating necessary blobs, and adjusting features like blur and Doze settings for better performance.
+> Improved device stability by enforcing build configurations, updating blobs, and modifying system settings for better performance and compatibility.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
