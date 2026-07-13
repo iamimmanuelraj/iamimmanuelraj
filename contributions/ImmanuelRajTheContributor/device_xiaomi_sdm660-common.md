@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Refined device configurations by updating blobs, adjusting build settings, and addressing security denials, ensuring a streamlined user experience.
+> Worked on build configurations by fixing denials, updating blobs, and adjusting device settings for optimal performance.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
