@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Fine-tuned board configurations for enhanced support and stability, ensuring better integration of system and vendor components.
+> Contributed to board configuration improvements, enabling DRM support and refining vendor settings for better integration and performance.
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 

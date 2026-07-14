@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Improved system performance by refining configurations, introducing proximity checks, and enhancing WLAN support to ensure seamless device operation.
+> Optimized device functionality by removing unnecessary apps, enhancing proximity features, and incorporating garbage collection for improved performance.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 
