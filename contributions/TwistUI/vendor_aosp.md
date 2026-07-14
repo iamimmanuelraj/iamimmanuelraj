@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Refined the build configuration by fixing platform issues, enabling essential features, and ensuring the compatibility of graphics and system settings.
+> Streamlined board configurations for better performance and ensured compatibility with the sdm660 chipset by adding support and fixing duplication issues.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 

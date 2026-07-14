@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Optimized the device's performance by removing unnecessary apps, enhancing wake features, and updating media profiles and codecs.
+> Refined system performance by optimizing app configurations, enabling proximity checks, and enhancing media codec profiles.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 

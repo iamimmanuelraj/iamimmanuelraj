@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Improved device functionality by updating blobs, adjusting build settings, and refining configurations for better performance.
+> Improved device stability by updating blobs, enforcing builds, and fine-tuning settings, while also implementing a permissive build configuration.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
