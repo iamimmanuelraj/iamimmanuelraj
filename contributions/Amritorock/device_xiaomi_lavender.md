@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Contributed to device optimization by refining media profiles, enhancing app settings, and improving power management features.
+> Contributed to performance enhancements by optimizing system configurations, enabling various features, and refining overlays to improve user experience.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
