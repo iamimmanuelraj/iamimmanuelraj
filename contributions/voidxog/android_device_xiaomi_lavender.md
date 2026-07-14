@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Optimized device functionality by removing unnecessary apps, enhancing proximity features, and incorporating garbage collection for improved performance.
+> Refined device performance and user experience by updating media profiles, adding proximity checks, and optimizing system settings.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 

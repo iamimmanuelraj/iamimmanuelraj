@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Improved device build quality by updating blobs, fixing security denials, and implementing configuration changes for optimized performance.
+> Implemented security updates and enhancements in the build configuration, including blob updates and adjusting permission levels.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
