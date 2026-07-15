@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Refined board configurations to enhance system capabilities and enable new functionalities while improving overall compatibility.
+> Contributed by enhancing the board configurations to support DRM, fixing
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 
