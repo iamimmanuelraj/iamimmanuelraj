@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Focused on refining the build environment by enforcing build permissions, updating device blobs, and optimizing various system components for better performance.
+> Contributed to the project by fixing build issues, updating blobs, and modifying device configurations for improved usability and performance.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 

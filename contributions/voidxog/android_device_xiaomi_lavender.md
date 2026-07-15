@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Contributed to the device's functionality by enabling proximity checks, updating media profiles, and streamlining resource management for improved user experience.
+> Improved device handling by enabling proximity checks, updating media profiles, and cleaning up unnecessary flags for better performance.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 
