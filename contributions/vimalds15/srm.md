@@ -1,6 +1,6 @@
 # vimalds15/srm
 
-> Enhanced the project by implementing various bot functionalities, modifying the footer, and adding icons and links for better navigation and user experience.
+> Enhanced the user interface by adding links, icons, and modifying the footer for improved navigation and accessibility.
 
 [![Contributions](https://contrib.rocks/image?repo=vimalds15/srm)](https://github.com/vimalds15/srm/graphs/contributions)
 

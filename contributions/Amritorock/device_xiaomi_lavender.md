@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Streamlined the device setup by removing unnecessary apps, updating media profiles, and improving overall performance through several cleanup tasks.
+> Contributed to device optimization by updating media profiles, refining system settings, and enhancing features for improved user experience.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

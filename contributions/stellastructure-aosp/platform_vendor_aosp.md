@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Enhanced board configurations for the Qualcomm sdm660 platform, enabling key features and refining initialization routines for improved functionality.
+> Enhanced the BoardConfig to improve DRM support and overall platform functionality while refining integration paths and configurations.
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 

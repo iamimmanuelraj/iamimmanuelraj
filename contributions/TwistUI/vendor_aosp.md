@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Refined board configuration for the Qualcomm platform, enhancing support for DRM and optimizing initialization processes for better performance.
+> Worked on refining the BoardConfig with support for DRM and improving platform integration while ensuring compatibility with various configurations.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 
