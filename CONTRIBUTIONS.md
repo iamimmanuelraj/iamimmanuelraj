@@ -4,7 +4,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [vimalds15/srm](./contributions/vimalds15/srm.md)
 
-> Enhanced the user interface by modifying footers and adding various icons for navigation and admission information.->
+> Implemented various UI enhancements including footer modifications and added icons for admissions, campus life, and academics, along with a navigation link for the home page.->
 
 [![Contributions](https://contrib.rocks/image?repo=vimalds15/srm)](https://github.com/vimalds15/srm/graphs/contributions)
 
@@ -12,7 +12,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [ImmanuelRajTheContributor/device_xiaomi_sdm660-common](./contributions/ImmanuelRajTheContributor/device_xiaomi_sdm660-common.md)
 
-> Improved build configurations by enforcing permissions, updating device blobs, and refining system features like Bluetooth support and UI elements.->
+> Enhanced the device build by enforcing stricter security, updating various blobs, and adapting the build process for better performance.->
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
@@ -20,7 +20,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [voidxog/android_device_xiaomi_lavender](./contributions/voidxog/android_device_xiaomi_lavender.md)
 
-> Made significant adjustments by removing unnecessary apps, enhancing device features like proximity checks, and optimizing system resources for better performance.->
+> Contributed to the device's functionality by enabling proximity checks, updating media profiles, and optimizing system performance through garbage collection and overlay adjustments.->
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 
@@ -28,7 +28,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [Amritorock/device_xiaomi_lavender](./contributions/Amritorock/device_xiaomi_lavender.md)
 
-> Contributed to device performance by refining system configurations, updating overlays, and ensuring optimal support for hardware features.->
+> Focused on optimizing the device's software by removing unnecessary components and enhancing overall performance with updates to system resources and media profiles.->
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
@@ -36,7 +36,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [TwistUI/vendor_aosp](./contributions/TwistUI/vendor_aosp.md)
 
-> Fixed and improved board configurations to enhance compatibility and performance of the sdm660 platform, along with refactoring vendor settings.->
+> Improved board configuration for the sdm660 platform by allowing new features like DRM support and refining the initialization process for better system compatibility.->
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 
@@ -44,7 +44,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [stellastructure-aosp/platform_vendor_aosp](./contributions/stellastructure-aosp/platform_vendor_aosp.md)
 
-> Contributed to board configuration enhancements for the sdm660 platform, optimizing DRM support and refreshing vendor setups for better functionality.->
+> Made critical adjustments to board configurations->
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 
@@ -82,14 +82,6 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ---
 
-## [rtCamp/search-with-google](./contributions/rtCamp/search-with-google.md)
-
-<!-- AI_DESC -->
-
-[![Contributions](https://contrib.rocks/image?repo=rtCamp/search-with-google)](https://github.com/rtCamp/search-with-google/graphs/contributions)
-
----
-
 ## [rtCamp/wp-partytown](./contributions/rtCamp/wp-partytown.md)
 
 <!-- AI_DESC -->
@@ -103,6 +95,14 @@ Projects I've contributed to — auto-updated every 6 hours.
 <!-- AI_DESC -->
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/nginx-helper)](https://github.com/rtCamp/nginx-helper/graphs/contributions)
+
+---
+
+## [rtCamp/search-with-google](./contributions/rtCamp/search-with-google.md)
+
+<!-- AI_DESC -->
+
+[![Contributions](https://contrib.rocks/image?repo=rtCamp/search-with-google)](https://github.com/rtCamp/search-with-google/graphs/contributions)
 
 ---
 
@@ -807,6 +807,14 @@ Projects I've contributed to — auto-updated every 6 hours.
 <!-- AI_DESC -->
 
 [![Contributions](https://contrib.rocks/image?repo=kalminhere/device_xiaomi_violet)](https://github.com/kalminhere/device_xiaomi_violet/graphs/contributions)
+
+---
+
+## [Tanush0308/Census_Count](./contributions/Tanush0308/Census_Count.md)
+
+<!-- AI_DESC -->
+
+[![Contributions](https://contrib.rocks/image?repo=Tanush0308/Census_Count)](https://github.com/Tanush0308/Census_Count/graphs/contributions)
 
 ---
 

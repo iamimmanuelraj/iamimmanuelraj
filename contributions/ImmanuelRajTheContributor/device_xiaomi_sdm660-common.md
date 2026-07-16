@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Improved build configurations by enforcing permissions, updating device blobs, and refining system features like Bluetooth support and UI elements.
+> Enhanced the device build by enforcing stricter security, updating various blobs, and adapting the build process for better performance.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 

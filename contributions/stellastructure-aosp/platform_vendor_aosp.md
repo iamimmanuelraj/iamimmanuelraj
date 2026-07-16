@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Contributed to board configuration enhancements for the sdm660 platform, optimizing DRM support and refreshing vendor setups for better functionality.
+> Made critical adjustments to board configurations
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 
