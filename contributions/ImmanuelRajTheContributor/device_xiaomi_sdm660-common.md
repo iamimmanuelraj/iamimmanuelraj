@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Focused on building and fixing denials for better compatibility, updated essential files, and adjusted settings for a streamlined performance.
+> Improved build configurations by enforcing permissions, updating device blobs, and refining system features like Bluetooth support and UI elements.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
