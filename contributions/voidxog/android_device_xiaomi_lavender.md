@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Contributed to the device's functionality by enabling proximity checks, updating media profiles, and optimizing system performance through garbage collection and overlay adjustments.
+> Refined device functionality by enabling proximity checks, updating media profiles, and optimizing the build process through various code removals and updates.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 

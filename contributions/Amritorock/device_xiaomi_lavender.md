@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Focused on optimizing the device's software by removing unnecessary components and enhancing overall performance with updates to system resources and media profiles.
+> Contributed to device updates by enhancing proximity checks, optimizing media profiles, and refining overlays to improve performance and support.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
