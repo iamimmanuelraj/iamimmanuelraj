@@ -1,6 +1,6 @@
 # vimalds15/srm
 
-> Enhanced the project's user interface by adding icons for various sections, modifying the footer, and linking to the home page.
+> Enhanced the user interface by adding icons and links for various sections, and implemented footer modifications to improve navigation.
 
 [![Contributions](https://contrib.rocks/image?repo=vimalds15/srm)](https://github.com/vimalds15/srm/graphs/contributions)
 

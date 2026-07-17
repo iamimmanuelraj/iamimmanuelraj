@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Refined board configurations and improved support for specific hardware features, ensuring better device performance and functionality.
+> Refined board configurations for better hardware compatibility and performance, and implemented various vendor-level optimizations to improve system functionality.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 
