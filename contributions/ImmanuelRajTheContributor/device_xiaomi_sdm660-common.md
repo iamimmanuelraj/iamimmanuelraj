@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Improved the build configuration by enforcing policies, updating blobs, and adjusting device settings to enhance functionality, while fixing denials and reverting earlier changes where necessary.
+> Improved device compatibility by updating blobs, adjusting build permissions, and disabling unnecessary features.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 

@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Refined board configurations and added support for advanced features, while ensuring proper initialization of device variables and functionality checks.
+> Refined board configurations and improved support for specific hardware features, ensuring better device performance and functionality.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 

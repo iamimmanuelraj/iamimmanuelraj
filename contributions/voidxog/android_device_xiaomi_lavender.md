@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Streamlined system performance by removing unnecessary SysUI entries, optimizing wake functionalities, and enhancing media profiles to support better features.
+> Streamlined device performance with updates to media profiles, added proximity features for display triggers, and optimized resource management.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 
