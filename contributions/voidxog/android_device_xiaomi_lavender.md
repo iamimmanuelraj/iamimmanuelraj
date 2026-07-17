@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Refined device functionality by enabling proximity checks, updating media profiles, and optimizing the build process through various code removals and updates.
+> Streamlined system performance by removing unnecessary SysUI entries, optimizing wake functionalities, and enhancing media profiles to support better features.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 

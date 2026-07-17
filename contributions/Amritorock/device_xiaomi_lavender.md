@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Contributed to device updates by enhancing proximity checks, optimizing media profiles, and refining overlays to improve performance and support.
+> Contributed to system optimization by refining media profiles, removing redundant flags, and enhancing functionality for Wi-Fi options and build processes.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

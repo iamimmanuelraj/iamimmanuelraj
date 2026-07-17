@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Improved device compatibility by updating blobs, adjusting build settings, and switching to a standalone extraction script.
+> Improved the build configuration by enforcing policies, updating blobs, and adjusting device settings to enhance functionality, while fixing denials and reverting earlier changes where necessary.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 

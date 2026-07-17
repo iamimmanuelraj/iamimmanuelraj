@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Made adjustments to the BoardConfigQcom settings to enhance support for the sdm660 platform and streamline vendor configurations.
+> Refined board configurations and added support for advanced features, while ensuring proper initialization of device variables and functionality checks.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 
