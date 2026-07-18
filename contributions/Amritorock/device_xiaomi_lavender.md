@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Streamlined the lavender device's functionality by removing redundancies and enhancing performance through various updates to profiles, flags, and system behaviors.
+> Similar contributions to voidxog, focusing on improving device performance and features such as media codec updates and system optimizations.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

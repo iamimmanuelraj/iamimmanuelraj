@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-<!-- AI_DESC -->
+> Made key updates to the BoardConfigQcom, enabling better device support and streamlining the vendor settings for
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 
