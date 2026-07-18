@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Made key updates to the BoardConfigQcom, enabling better device support and streamlining the vendor settings for
+> Optimized board configurations for enhanced performance and support for DRM, along with adjustments to vendor settings.
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 

@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Refined the BoardConfigQcom with crucial fixes and enhancements to support newer functionalities and improve device compatibility with the software architecture.
+> Refined board configurations and enabled advanced features for DRM support, while ensuring initialization sequences are correctly managed.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 

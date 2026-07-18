@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Implemented enhancements for device functionality including enabling proximity checks and optimizing media profiles while ensuring compatibility with existing flags.
+> Improved system efficiency by removing unnecessary applications and adding proximity checks, along with updating media profiles and codecs.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 
