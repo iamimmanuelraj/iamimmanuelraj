@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Contributed crucial fixes and optimizations in the board configuration to ensure proper usage of hardware resources and improved performance of the
+> Contributed to the board configuration and vendor settings by refining support for critical features and improving compatibility with
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 

@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Made significant updates to the device's configurations, including optimizing media profiles, enhancing system performance, and switching to recommended overlay methods.
+> Implemented various optimizations such as removing unnecessary apps, updating media profiles, and enhancing the overlay system to improve overall device performance.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
