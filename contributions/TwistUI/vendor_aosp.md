@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Refined board configurations and enabled advanced features for DRM support, while ensuring initialization sequences are correctly managed.
+> Streamlined board configuration with fixes and enhancements for better DRM support, ensuring compatibility across various platforms and improving overall system functionality.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 

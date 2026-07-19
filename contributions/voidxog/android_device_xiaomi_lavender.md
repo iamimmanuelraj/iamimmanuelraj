@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Improved system efficiency by removing unnecessary applications and adding proximity checks, along with updating media profiles and codecs.
+> Improved system efficiency by optimizing media profiles and adding proximity checks, while ensuring compatibility with various power management features.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 

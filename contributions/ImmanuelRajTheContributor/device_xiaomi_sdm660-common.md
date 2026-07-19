@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Implemented build enforcing, fixed denials, updated device blobs, and made various configuration changes to optimize device performance.
+> Implemented critical fixes and updates to ensure build integrity, including enforcing policies and optimizing configurations for better system performance.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
