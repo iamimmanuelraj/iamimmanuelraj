@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Improved system efficiency by optimizing media profiles and adding proximity checks, while ensuring compatibility with various power management features.
+> Improved functionality by enabling proximity checks, updating media profiles, and optimizing build settings for enhanced system performance.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 

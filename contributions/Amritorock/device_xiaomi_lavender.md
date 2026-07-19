@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Enhanced device performance with updates to media profiles and optimizations in overlays, alongside powerful power management and garbage collection implementations.
+> Focused on optimizing system performance by refining build configurations, enhancing codec support, and improving wake features for better user experience.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
