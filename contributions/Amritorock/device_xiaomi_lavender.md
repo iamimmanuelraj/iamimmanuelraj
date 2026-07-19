@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Focused on optimizing system performance by refining build configurations, enhancing codec support, and improving wake features for better user experience.
+> Refined system performance through enhancements like the addition of wifi options, updated media profiles, and optimization of build flags for a smoother user experience.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

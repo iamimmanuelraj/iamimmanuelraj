@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Refined device compatibility and performance through various modifications, including enforcing build policies, updating blobs, and adjusting device settings.
+> Implemented several system-level updates, including disabling blur by default, fixing permission issues, and updating various blobs to ensure optimal performance.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
