@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Focused on stability by refining board configurations and enhancing support for the sdm660 platform,
+> Improved board configuration for DRM_PP support and initialized board variables to enhance device performance and
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 

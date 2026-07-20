@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Resolved issues in board configurations and improved compatibility for the sdm660 platform while optimizing vendor settings for better performance.
+> Addressed board configuration issues and enhanced support for video capabilities while ensuring compatibility with recent Android updates.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 

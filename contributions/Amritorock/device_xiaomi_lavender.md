@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Refined system performance through enhancements like the addition of wifi options, updated media profiles, and optimization of build flags for a smoother user experience.
+> Streamlined build configurations by removing redundant components, improved support for WiFi options, and updated various profiles to enhance the system's functionality.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
