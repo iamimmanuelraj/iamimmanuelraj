@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Refined system app configurations while implementing garbage collection and optimizing support for various hardware features like WiFi options.
+> Made system enhancements by updating media profiles, optimizing project settings, and integrating new functionalities like RRO support for overlays.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

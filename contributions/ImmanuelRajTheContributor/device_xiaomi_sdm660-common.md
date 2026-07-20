@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Improved build enforcement and addressed issues with system denials while updating key blobs and tweaking device settings for optimal performance.
+> Improved device compatibility by updating blobs, managing build permissions, and refining manifest entries for optimal functionality.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
