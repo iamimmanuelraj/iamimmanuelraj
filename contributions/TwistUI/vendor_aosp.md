@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Addressed board configuration issues and enhanced support for video capabilities while ensuring compatibility with recent Android updates.
+> Fixed board configuration issues, added support for features like DRM, and streamlined the setup of various vendor settings.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 

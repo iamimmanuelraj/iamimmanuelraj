@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Improved board configuration for DRM_PP support and initialized board variables to enhance device performance and
+> Enhanced the configuration of the board and added support for key hardware features, ensuring better compatibility and performance.
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 
