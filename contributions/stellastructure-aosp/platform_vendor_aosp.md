@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Contributed to device performance by enhancing BoardConfig settings and ensuring proper initialization
+> Improved board configurations to support sdm660, fixed platform duplication issues, and updated system variables for
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 

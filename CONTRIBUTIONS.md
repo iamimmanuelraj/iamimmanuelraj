@@ -4,7 +4,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [vimalds15/srm](./contributions/vimalds15/srm.md)
 
-> Enhanced the project by adding navigation links and several icons for admissions, campus life, and academics, along with footer modifications.->
+> Enhanced the user interface by modifying footers and adding icons and links for various sections such as admissions, campus life, and academics.->
 
 [![Contributions](https://contrib.rocks/image?repo=vimalds15/srm)](https://github.com/vimalds15/srm/graphs/contributions)
 
@@ -12,7 +12,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [ImmanuelRajTheContributor/device_xiaomi_sdm660-common](./contributions/ImmanuelRajTheContributor/device_xiaomi_sdm660-common.md)
 
-> Improved device compatibility by updating firmware blobs, refining build configurations, and implementing a permissive mode while addressing various security-related issues.->
+> Improved the build process and security enforcement by updating blobs, fixing denials, and modifying various system configurations for the sdm660-common device.->
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
@@ -20,7 +20,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [voidxog/android_device_xiaomi_lavender](./contributions/voidxog/android_device_xiaomi_lavender.md)
 
-> Refined the device's settings by optimizing media profiles, implementing garbage collection, and enhancing wake functionality through proximity checks.->
+> Optimized the device by enabling proximity checks, cleaning up system configurations, and enhancing media profiles and codec settings.->
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 
@@ -28,7 +28,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [Amritorock/device_xiaomi_lavender](./contributions/Amritorock/device_xiaomi_lavender.md)
 
-> Contributed to the optimization of device performance by refining system apps and updating media profiles, while also enhancing the user interface and functionality.->
+> Streamlined device functionality by refining system configurations, updating media profiles, and enhancing resource management in the lavender device setup.->
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
@@ -36,7 +36,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [TwistUI/vendor_aosp](./contributions/TwistUI/vendor_aosp.md)
 
-> Made critical improvements to the BoardConfig, enabling support for DRM and refining platform settings to enhance device performance and compatibility.->
+> Fixed board configuration issues and enhanced support for the sdm660 platform by enabling DRM and refining initialization processes.->
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 
@@ -44,7 +44,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [stellastructure-aosp/platform_vendor_aosp](./contributions/stellastructure-aosp/platform_vendor_aosp.md)
 
-> Contributed to device performance by enhancing BoardConfig settings and ensuring proper initialization->
+> Improved board configurations to support sdm660, fixed platform duplication issues, and updated system variables for->
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 
@@ -570,19 +570,27 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ---
 
-## [Morbi-OS/frameworks_base](./contributions/Morbi-OS/frameworks_base.md)
-
-<!-- AI_DESC -->
-
-[![Contributions](https://contrib.rocks/image?repo=Morbi-OS/frameworks_base)](https://github.com/Morbi-OS/frameworks_base/graphs/contributions)
-
----
-
 ## [waku-prjkt/android_device_xiaomi_sunny](./contributions/waku-prjkt/android_device_xiaomi_sunny.md)
 
 <!-- AI_DESC -->
 
 [![Contributions](https://contrib.rocks/image?repo=waku-prjkt/android_device_xiaomi_sunny)](https://github.com/waku-prjkt/android_device_xiaomi_sunny/graphs/contributions)
+
+---
+
+## [Unknowns01/device_xiaomi_miatoll](./contributions/Unknowns01/device_xiaomi_miatoll.md)
+
+<!-- AI_DESC -->
+
+[![Contributions](https://contrib.rocks/image?repo=Unknowns01/device_xiaomi_miatoll)](https://github.com/Unknowns01/device_xiaomi_miatoll/graphs/contributions)
+
+---
+
+## [Morbi-OS/frameworks_base](./contributions/Morbi-OS/frameworks_base.md)
+
+<!-- AI_DESC -->
+
+[![Contributions](https://contrib.rocks/image?repo=Morbi-OS/frameworks_base)](https://github.com/Morbi-OS/frameworks_base/graphs/contributions)
 
 ---
 
@@ -599,14 +607,6 @@ Projects I've contributed to — auto-updated every 6 hours.
 <!-- AI_DESC -->
 
 [![Contributions](https://contrib.rocks/image?repo=PTX64/android_device_xiaomi_sunny)](https://github.com/PTX64/android_device_xiaomi_sunny/graphs/contributions)
-
----
-
-## [Unknowns01/device_xiaomi_miatoll](./contributions/Unknowns01/device_xiaomi_miatoll.md)
-
-<!-- AI_DESC -->
-
-[![Contributions](https://contrib.rocks/image?repo=Unknowns01/device_xiaomi_miatoll)](https://github.com/Unknowns01/device_xiaomi_miatoll/graphs/contributions)
 
 ---
 
