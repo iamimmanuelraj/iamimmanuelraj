@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Made system enhancements by updating media profiles, optimizing project settings, and integrating new functionalities like RRO support for overlays.
+> Updated overlays and various device properties while enhancing system functionality and user experience through optimizations and configuration removals.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

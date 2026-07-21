@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Fixed board configuration issues and enhanced functionalities by enabling DRM support and managing device-specific settings.
+> Refined board configurations and added support for new features, ensuring improved compatibility and functionality for various devices.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 
