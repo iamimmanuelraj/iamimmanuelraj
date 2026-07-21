@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Made significant fixes and enhancements to board configurations, enabling better support for new features and refining overall device performance.
+> Contributed to device performance by enhancing BoardConfig settings and ensuring proper initialization
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 

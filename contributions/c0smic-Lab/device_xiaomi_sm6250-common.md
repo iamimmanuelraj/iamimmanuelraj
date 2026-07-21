@@ -5,3 +5,4 @@
 [![Contributions](https://contrib.rocks/image?repo=c0smic-Lab/device_xiaomi_sm6250-common)](https://github.com/c0smic-Lab/device_xiaomi_sm6250-common/graphs/contributions)
 
 ### Recent commits
+- sm6250-common: Enable Camera2API for legacy targets

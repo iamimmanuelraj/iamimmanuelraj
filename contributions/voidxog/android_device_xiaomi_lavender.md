@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Implemented proximity checks, optimized media profiles and codecs, and made several enhancements to power management and overlay support.
+> Refined the device's settings by optimizing media profiles, implementing garbage collection, and enhancing wake functionality through proximity checks.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 

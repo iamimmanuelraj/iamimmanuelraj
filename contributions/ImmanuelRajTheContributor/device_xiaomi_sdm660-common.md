@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Improved build configurations and fixed various permissions issues while updating device blobs to enhance system performance and stability.
+> Improved device compatibility by updating firmware blobs, refining build configurations, and implementing a permissive mode while addressing various security-related issues.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
