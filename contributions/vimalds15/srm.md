@@ -1,6 +1,6 @@
 # vimalds15/srm
 
-> Enhanced the user interface by adding icons for key sections like admissions and academics, and made several footer modifications for improved navigation.
+> Enhanced the user interface by adding icons for various sections and modifying footer elements, alongside improving navigation with a new homepage link.
 
 [![Contributions](https://contrib.rocks/image?repo=vimalds15/srm)](https://github.com/vimalds15/srm/graphs/contributions)
 

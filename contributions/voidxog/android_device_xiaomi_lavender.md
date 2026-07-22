@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Optimized device performance through code updates including proximity checks for display features and refining system configurations.
+> Refined device functionality by enhancing proximity checks and optimizing the app configuration, alongside integrating multimedia updates and system overlays.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 

@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Improved device functionality by updating blobs, fixing build issues, and adjusting feature settings for a better user experience.
+> Contributed to the device's build process by updating and fixing various configuration files, handling permissions, and refining functionalities like Bluetooth support and system settings.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 

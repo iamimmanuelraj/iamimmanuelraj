@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Enhanced system efficiency by refining media profiles and removing redundant flags while implementing important feature updates like proximity checking.
+> Improved system efficiency through the removal of redundant flags and dexopt apps, while enhancing multimedia profiles and implementing additional support for Wifi options.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
