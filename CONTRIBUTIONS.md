@@ -4,7 +4,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [vimalds15/srm](./contributions/vimalds15/srm.md)
 
-> Enhanced the site by modifying the footer, adding various icons for different sections, and improving navigation with a home link.->
+> Enhanced the user interface by adding various icons for admission, campus life, and academics, and improved navigation with links and footer modifications.->
 
 [![Contributions](https://contrib.rocks/image?repo=vimalds15/srm)](https://github.com/vimalds15/srm/graphs/contributions)
 
@@ -12,7 +12,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [ImmanuelRajTheContributor/device_xiaomi_sdm660-common](./contributions/ImmanuelRajTheContributor/device_xiaomi_sdm660-common.md)
 
-> Implemented security improvements and device configurations by updating blobs, fixing build denials, and adjusting various settings for smoother functionality.->
+> Implemented several fixes and updates for build configurations, including enabling build permissive and updating blobs while addressing various denials.->
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
@@ -20,7 +20,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [voidxog/android_device_xiaomi_lavender](./contributions/voidxog/android_device_xiaomi_lavender.md)
 
-> Optimized device performance by enabling proximity checks, updating media profiles, and improving memory management through garbage collection techniques.->
+> Made optimizations and updates for device configurations, including enabling proximity checks and enhancing media profile support.->
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 
@@ -28,7 +28,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [Amritorock/device_xiaomi_lavender](./contributions/Amritorock/device_xiaomi_lavender.md)
 
-> Made enhancements by updating media profiles, optimizing resource usage, and adding support for additional functionalities like wifi options in overlays.->
+> Contributed to streamlining device configurations by removing unnecessary apps, updating media profiles, and enhancing overlay support for wifi options.->
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
@@ -36,7 +36,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [TwistUI/vendor_aosp](./contributions/TwistUI/vendor_aosp.md)
 
-> Refined the board configurations to improve compatibility and performance while implementing necessary adjustments for the hardware interface options.->
+> Optimized the board configuration for sdm660, enabling features like DRM_PP and improving initialization routines while addressing platform-specific issues.->
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 
@@ -44,7 +44,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [stellastructure-aosp/platform_vendor_aosp](./contributions/stellastructure-aosp/platform_vendor_aosp.md)
 
-> Improved the board configurations to enhance system compatibility and performance, along with refining vendor settings for GMS.->
+> Refined sdm660's board configuration by enabling DRM_PP and enhancing initialization, fixing duplicate platform issues, and optimizing vendor->
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 
