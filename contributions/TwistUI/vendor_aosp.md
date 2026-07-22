@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Contributed to board configuration improvements, enabling DRM features and optimizing build processes, ensuring better hardware integration.
+> Refined the board configurations to improve compatibility and performance while implementing necessary adjustments for the hardware interface options.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 

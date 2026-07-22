@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Made significant enhancements to board configurations, optimizing the device for new features and ensuring compatibility with updated frameworks
+> Improved the board configurations to enhance system compatibility and performance, along with refining vendor settings for GMS.
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 

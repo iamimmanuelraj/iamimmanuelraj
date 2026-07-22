@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Improved system efficiency through the removal of redundant flags and dexopt apps, while enhancing multimedia profiles and implementing additional support for Wifi options.
+> Made enhancements by updating media profiles, optimizing resource usage, and adding support for additional functionalities like wifi options in overlays.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
