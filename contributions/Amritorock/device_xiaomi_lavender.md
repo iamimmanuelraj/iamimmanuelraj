@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Streamlined device functionality by refining system configurations, updating media profiles, and enhancing resource management in the lavender device setup.
+> Enhanced system efficiency by refining media profiles and removing redundant flags while implementing important feature updates like proximity checking.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

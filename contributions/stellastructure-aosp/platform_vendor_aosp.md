@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Improved board configurations to support sdm660, fixed platform duplication issues, and updated system variables for
+> Refined board configurations and enhanced support for the sdm660 platform while ensuring compatibility with the latest system updates.
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 
