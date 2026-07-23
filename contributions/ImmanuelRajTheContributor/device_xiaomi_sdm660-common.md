@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Improved system stability by enforcing build configurations, updating blobs, and fine-tuning device settings across various commits.
+> Improved build security and stability by enabling permissive modes, updating essential blobs, and addressing various denial issues in the device configuration.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
