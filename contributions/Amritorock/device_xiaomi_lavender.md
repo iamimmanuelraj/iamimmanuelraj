@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Contributed to streamlining device configurations by removing unnecessary apps, updating media profiles, and enhancing overlay support for wifi options.
+> Streamlined the device setup by improving media profiles, optimizing resource management, and enhancing system functionality with various updates.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Refined sdm660's board configuration by enabling DRM_PP and enhancing initialization, fixing duplicate platform issues, and optimizing vendor
+> Modified board settings to enable DRM support and corrected configurations to promote better device compatibility.
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 

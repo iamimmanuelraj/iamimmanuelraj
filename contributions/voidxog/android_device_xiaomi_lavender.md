@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Made optimizations and updates for device configurations, including enabling proximity checks and enhancing media profile support.
+> Refined system performance by updating media profiles, enabling proximity checks, and optimizing resource usage in the device configuration.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 
