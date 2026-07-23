@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Modified board settings to enable DRM support and corrected configurations to promote better device compatibility.
+> Refined board configurations and improved device functionality, ensuring better support and compatibility across platforms.
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 
