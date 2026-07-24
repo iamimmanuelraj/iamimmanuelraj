@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Streamlined device operations with improvements to system resource usage and updated multimedia configurations while incorporating new proximity check features.
+> Streamlined device functionality by updating media profiles, optimizing build configurations, and improving overlay support for a better user experience.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
