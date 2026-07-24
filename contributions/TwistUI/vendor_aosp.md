@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Fixed board configuration issues and enhanced device media support through various updates to the vendor's codebase.
+> Refined board configuration to support enhanced features and compatibility, including fixes for duplicate platforms and updates for rendering capabilities.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 

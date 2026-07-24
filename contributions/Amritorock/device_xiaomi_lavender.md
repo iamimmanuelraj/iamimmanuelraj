@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Contributed to system efficiency by optimizing media profiles, removing redundant configurations, and enhancing overlay functionality.
+> Enhanced device functionality through code optimizations and updates, including proximity checks, media codec updates, and improved build management.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
