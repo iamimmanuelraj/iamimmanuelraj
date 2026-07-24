@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Improved build security and stability by enabling permissive modes, updating essential blobs, and addressing various denial issues in the device configuration.
+> Improved system security and functionality by updating configuration files, fixing denial logs, and optimizing Bluetooth support.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 

@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Optimized board configurations by resolving duplicates, enabling DRM support, and refining vendor settings for improved
+> Updated board configurations and media support to improve device performance and maintain compatibility with system updates.
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 

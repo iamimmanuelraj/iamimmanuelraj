@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Streamlined device performance by removing redundant configurations, enhancing media profiles, and integrating new features for better user experience.
+> Contributed to system efficiency by optimizing media profiles, removing redundant configurations, and enhancing overlay functionality.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
