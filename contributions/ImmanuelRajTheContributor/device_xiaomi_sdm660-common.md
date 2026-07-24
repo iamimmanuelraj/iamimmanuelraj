@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Implemented multiple updates and fixes to build settings, including blob updates and adjustments for device permissions, ensuring a smoother experience for users.
+> Implemented critical security enhancements and general improvements, including fixes for denials, blob updates, and adjustments for settings and functionality.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 

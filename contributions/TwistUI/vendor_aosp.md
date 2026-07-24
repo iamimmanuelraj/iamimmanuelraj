@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Refined board configuration to support enhanced features and compatibility, including fixes for duplicate platforms and updates for rendering capabilities.
+> Conducted essential updates on board configurations, added support for DRM functionality, and made refinements to ensure consistency across the platform.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 

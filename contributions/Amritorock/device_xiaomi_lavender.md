@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Enhanced device functionality through code optimizations and updates, including proximity checks, media codec updates, and improved build management.
+> Streamlined device operations with improvements to system resource usage and updated multimedia configurations while incorporating new proximity check features.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
