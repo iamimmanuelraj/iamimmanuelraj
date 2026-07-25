@@ -1,6 +1,6 @@
 # Black-Iron-Project/vendor_aosp
 
-> Streamlined the board configurations for improved performance and
+<!-- AI_DESC -->
 
 [![Contributions](https://contrib.rocks/image?repo=Black-Iron-Project/vendor_aosp)](https://github.com/Black-Iron-Project/vendor_aosp/graphs/contributions)
 

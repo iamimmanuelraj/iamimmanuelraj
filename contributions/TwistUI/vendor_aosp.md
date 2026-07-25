@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Refined board configurations to enhance device performance and address duplication issues, while ensuring compatibility with updated Android versions.
+> Refined the board configuration for Qualcomm devices by resolving issues, enabling DRM support, and organizing initialization procedures for improved system stability.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 

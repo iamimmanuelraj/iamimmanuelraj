@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Updated device configurations and overlays, ensuring better performance and support for modern features like enhanced media profiles and GPS.
+> Contributed to system enhancements by removing redundant apps, updating media profiles, and integrating additional features for wifi support and device management.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
