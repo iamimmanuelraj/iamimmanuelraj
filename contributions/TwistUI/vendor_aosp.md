@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Refined board configuration by fixing platform duplicates and enabling support for DRM features, contributing to a more robust vendor setup.
+> Refined board configurations to enhance device performance and address duplication issues, while ensuring compatibility with updated Android versions.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 

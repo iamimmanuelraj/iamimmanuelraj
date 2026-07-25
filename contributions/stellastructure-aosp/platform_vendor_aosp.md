@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Enhanced board configurations for sdm660 support and improved DRM utilization, leading to
+> Fixed board configuration issues while integrating support for advanced features like DRM and GMS optimizations.
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 
