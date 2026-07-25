@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Streamlined system configurations by removing unnecessary applications, updating media profiles, and enhancing device features with proximity checks and additional WiFi options.
+> Improved device performance by updating media profiles, enhancing wake features, and streamlining system management with garbage collection.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 

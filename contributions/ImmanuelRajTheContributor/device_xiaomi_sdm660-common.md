@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Implemented build adjustments and system enhancements, including blob updates, permission modifications, and configuration tweaks for improved device performance.
+> Contributed to device stability by enforcing build changes, updating blobs, and refining system functionalities, including disabling blur and optimizing build configurations.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
