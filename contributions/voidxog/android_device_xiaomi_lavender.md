@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Implemented several optimizations by removing unnecessary apps, enabling proximity checks for touch-to-wake features, and refining the system's media profile and codec support.
+> Streamlined system configurations by removing unnecessary applications, updating media profiles, and enhancing device features with proximity checks and additional WiFi options.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 

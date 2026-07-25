@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Contributed to system enhancements by removing redundant apps, updating media profiles, and integrating additional features for wifi support and device management.
+> Made critical updates to system configurations and overlays, optimizing the build process and improving device functionality through feature integrations and codec enhancements.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

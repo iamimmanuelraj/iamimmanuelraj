@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Focused on improving device functionality by building enforcing configurations, updating important blobs, and managing permissions and settings for better performance.
+> Implemented build adjustments and system enhancements, including blob updates, permission modifications, and configuration tweaks for improved device performance.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 

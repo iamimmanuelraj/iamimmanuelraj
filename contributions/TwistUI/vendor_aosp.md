@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Refined the board configuration for Qualcomm devices by resolving issues, enabling DRM support, and organizing initialization procedures for improved system stability.
+> Refined board configurations for sdm660 to improve DRM support and ensure proper initialization, while also refining vendor settings and optimizing the system's UI pre-optimization processes.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 
