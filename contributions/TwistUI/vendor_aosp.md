@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Addressed board configuration issues and enabled DRM support while refining compatibility and clarity in vendor settings and build processes.
+> Resolved several board configuration issues while enhancing support for different platforms, specifically for enabling DRM features and initializing necessary board variables.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 
