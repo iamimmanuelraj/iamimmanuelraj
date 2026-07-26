@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Improved the build configuration by fixing board platform issues, enabling DRM support, and refining initialization routines for better hardware compatibility.
+> Refined board configurations for the Qualcomm platform, allowing for proper initialization and support for various device features while ensuring compatibility with graphical rendering systems.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 
