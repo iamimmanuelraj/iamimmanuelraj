@@ -1,6 +1,6 @@
 # rtCamp/onesearch
 
-> Updated several dependencies through multiple pull requests to ensure the project remains up-to-date and secure.
+<!-- AI_DESC -->
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/onesearch)](https://github.com/rtCamp/onesearch/graphs/contributions)
 

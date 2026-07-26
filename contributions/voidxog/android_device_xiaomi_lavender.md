@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Optimized the system by removing unnecessary apps from dexopt, adding proximity checks for display wake, and updating media profiles and codecs for enhanced performance.
+> Enhanced device functionality with added proximity checks, optimized media profiles, and improved resource management through code cleanup and feature additions.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 

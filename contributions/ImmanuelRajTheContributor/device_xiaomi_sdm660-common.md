@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Improved device build quality by enforcing policies, updating blobs, and implementing necessary configurations and fixes, including turning off blur features and managing permission levels.
+> Focused on improving device compatibility by updating system blobs, changing build settings, and refining security policies for better performance.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 

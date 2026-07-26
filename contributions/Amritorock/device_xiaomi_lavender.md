@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Refined system performance by removing redundant apps, adding proximity features, and updating media profiles, along with improving overlay capabilities and system flags.
+> Made significant updates to the device configuration by refining media profiles, removing unnecessary flags, and optimizing the overall device performance.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
