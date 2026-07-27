@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Enhanced the Qualcomm board configuration to support DRM and optimized device features for better performance and compatibility with
+> Refined board configurations for enhanced performance, improved initialization sequences, and enabled advanced features for
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 

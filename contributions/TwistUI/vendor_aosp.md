@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Refined board configurations for the Qualcomm platform, allowing for proper initialization and support for various device features while ensuring compatibility with graphical rendering systems.
+> Contributed to board configurations by correcting duplications, enabling advanced video features, and refining initialization processes for better compatibility.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 

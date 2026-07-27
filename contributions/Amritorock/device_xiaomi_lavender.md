@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Contributed to device enhancements, including system profile updates, feature optimizations, and support for additional functionalities in the sdm660 common setup.
+> Refined device settings by optimizing overlays and integrating various features, boosting device efficacy with improved media profiles and power management.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
