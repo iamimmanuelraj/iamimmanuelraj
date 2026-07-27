@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Refined device settings by optimizing overlays and integrating various features, boosting device efficacy with improved media profiles and power management.
+> Enhancements included optimizing app performance, updating media profiles and codecs, and switching overlay support to improve device functionality and maintenance.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

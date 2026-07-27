@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Improved build configurations by enforcing security settings, updating blobs, and optimizing device functionalities, including blur effects and Bluetooth support.
+> Contributed to improving device functionality by updating blobs, adjusting build configurations, and introducing security measures while addressing denials and bugs in the system.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 

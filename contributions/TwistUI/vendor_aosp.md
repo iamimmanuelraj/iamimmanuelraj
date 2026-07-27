@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Contributed to board configurations by correcting duplications, enabling advanced video features, and refining initialization processes for better compatibility.
+> Refined the board configuration for the sdm660 platform by fixing duplicates, enhancing DRM support, and adapting initialization processes to streamline build operations.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 
