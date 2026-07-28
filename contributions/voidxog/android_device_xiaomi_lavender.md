@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Focused on optimizing system performance by enhancing media codecs, refining proximity checks, and managing app flags, alongside integrating support for additional features in the device configuration.
+> Improved device functionality by enabling proximity checks, updating media profiles and codecs, and optimizing build configurations, providing a better user experience.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 

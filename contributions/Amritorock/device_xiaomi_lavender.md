@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Enhancements included optimizing app performance, updating media profiles and codecs, and switching overlay support to improve device functionality and maintenance.
+> Streamlined the device's configuration through updates to media profiles and codecs, removal of redundant flags, and implementation of features like garbage collection and support for additional Wi-Fi options.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
