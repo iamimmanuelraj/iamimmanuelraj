@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Streamlined the device's configuration through updates to media profiles and codecs, removal of redundant flags, and implementation of features like garbage collection and support for additional Wi-Fi options.
+> Refined device configurations by enhancing media profiles, enabling WiFi options, and streamlining the build process for better performance.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

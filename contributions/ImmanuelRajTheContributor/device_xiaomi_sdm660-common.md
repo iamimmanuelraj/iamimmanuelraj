@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Contributed to refining the build process by enforcing policies, updating blobs, and reverting unnecessary changes, while disabling blur features and adjusting build configurations for better performance.
+> Enhanced build configuration by enforcing and fixing denials, updating various blobs, and disabling unnecessary features for improved device performance.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
