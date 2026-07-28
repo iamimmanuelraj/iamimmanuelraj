@@ -1,6 +1,6 @@
 # vimalds15/srm
 
-> Revamped the user interface by adding various icons for admissions, campus life, and academics, along with footer modifications and link updates for better navigation.
+> Enhanced the user interface by adding home links and various icons related to admission, campus life, and academics, as well as modifying the footer.
 
 [![Contributions](https://contrib.rocks/image?repo=vimalds15/srm)](https://github.com/vimalds15/srm/graphs/contributions)
 

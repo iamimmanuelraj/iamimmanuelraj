@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Fixed and optimized board configurations, enabling DRM support and ensuring proper initialization of board variables for enhanced compatibility.
+> Streamlined the board configuration for Qualcomm devices, enabling features like DRM support and optimizing initialization processes for better compatibility.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 
