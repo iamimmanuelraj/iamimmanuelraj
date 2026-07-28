@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Optimized the device configuration by enabling proximity checks, refining media profiles, and enhancing memory management features for better system efficiency.
+> Focused on improving device performance by updating configurations, refining build options, and implementing new features like proximity checks for touch wake gestures.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 

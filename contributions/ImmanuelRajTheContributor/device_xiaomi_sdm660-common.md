@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Improved the device's build process by fixing denials, updating blobs, and adjusting configurations for better performance while managing permissions and extracting scripts.
+> Implemented security enhancements and configuration updates, including fixing denials and enabling features for a smoother build process.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
