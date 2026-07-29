@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Contributed to device optimization with updates to media profiles, removal of redundant configurations, and added support for new system features.
+> Implemented multiple updates and optimizations focused on improving device performance and usability, including garbage collection and media profile updates.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
