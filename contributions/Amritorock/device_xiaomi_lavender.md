@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Refined system settings by updating media profiles and codecs, optimizing resource usage, and introducing proximity features to enhance user experience.
+> Refined performance by removing unnecessary apps from the build, updating media profiles, and enhancing power management in the device.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
