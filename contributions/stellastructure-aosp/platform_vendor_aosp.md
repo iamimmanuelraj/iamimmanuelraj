@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Enhanced the Qcom board configuration by adding support for new features, optimizing settings,
+> Updated board configurations to optimize DRM support, fixed platform duplication issues, and ensured proper initialization of board variables
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 

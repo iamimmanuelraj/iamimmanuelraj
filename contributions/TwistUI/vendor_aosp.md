@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Fixed and optimized the board configuration for the Qcom platform, allowing better support for features like DRM and improving the overall build process.
+> Fixed board configuration issues, improved support for DRM features, and refactored vendor settings for enhanced device performance.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 
