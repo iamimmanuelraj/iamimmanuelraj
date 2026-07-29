@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Refined board configuration settings and added support for critical components, ensuring enhanced performance and compatibility for the sdm660 platform.
+> Fixed and optimized the board configuration for the Qcom platform, allowing better support for features like DRM and improving the overall build process.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 

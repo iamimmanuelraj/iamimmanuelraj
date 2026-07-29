@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Optimized board configuration settings and added critical support for enhanced performance in the sdm660 platform.
+> Enhanced the Qcom board configuration by adding support for new features, optimizing settings,
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 

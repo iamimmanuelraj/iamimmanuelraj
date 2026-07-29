@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Improved build processes by fixing denials, updating blobs, and modifying device settings to enhance overall device performance and functionality.
+> Contributed to the development of the sdm660-common by updating system blobs, fixing build errors, and managing device settings to enhance overall performance.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
