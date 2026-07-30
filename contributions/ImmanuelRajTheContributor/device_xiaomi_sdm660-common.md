@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Contributed to system improvements by updating device blobs and configurations, fixing build issues, and managing permissions for the sdm660-common platform.
+> Improved the device's build process by updating blobs, fixing denials, and making various configuration changes to optimize performance and compatibility.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 

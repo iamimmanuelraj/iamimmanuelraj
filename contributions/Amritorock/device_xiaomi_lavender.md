@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Improved system performance and stability by refining configurations and media support while switching overlay methods to enhance user experience.
+> Streamlined the configuration and performance by updating media profiles and codecs, while also enhancing proximity features and system optimizations.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

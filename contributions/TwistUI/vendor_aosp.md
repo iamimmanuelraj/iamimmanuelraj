@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Streamlined the BoardConfigQcom by fixing platform issues, enabling DRM support, and optimizing board variables and settings for better compatibility.
+> Addressed board configuration issues and enabled necessary hardware support, improving overall system functionality and ensuring compatibility with new updates.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 
