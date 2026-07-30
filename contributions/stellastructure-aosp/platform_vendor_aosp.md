@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Enhanced board configurations by fixing duplication issues, enabling DRM, and supporting advanced device features for better compatibility.
+> Fixed board configuration issues, enabled DRM features, and ensured correct initialization of variables for improved project stability.
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 

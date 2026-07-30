@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Improved board configuration by addressing platform issues, enabling DRM support, and initializing board variables, contributing to device performance.
+> Refined the board configuration by addressing duplicates, enabling DRM support, and ensuring variables are properly initialized.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 

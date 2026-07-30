@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Refined performance by removing unnecessary apps from the build, updating media profiles, and enhancing power management in the device.
+> Focused on optimizing device configurations by removing redundant sysui settings and enhancing media profiles, while also introducing features like proximity wake.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
