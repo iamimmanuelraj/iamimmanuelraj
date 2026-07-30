@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Fixed board configuration issues, enabled DRM features, and ensured correct initialization of variables for improved project stability.
+> Contributed to device configuration improvements, enabling DRM support
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 
