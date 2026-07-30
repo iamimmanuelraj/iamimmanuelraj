@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Made enhancements to system performance by updating media profiles, optimizing resource management, and improving overall device settings for better user experience.
+> Improved system performance and stability by refining configurations and media support while switching overlay methods to enhance user experience.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
