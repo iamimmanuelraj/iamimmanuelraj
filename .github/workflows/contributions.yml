@@ -6,7 +6,7 @@ on:
 
 permissions:
   contents: write
-  models: read
+  copilot-requests: write
 
 jobs:
   update:
@@ -17,13 +17,14 @@ jobs:
         run: node scripts/fetch-contributions.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Install Copilot CLI
+        run: npm install -g @github/copilot
       - name: Generate descriptions
         id: ai
-        uses: actions/ai-inference@v1
+        uses: actions/ai-inference@v3
         with:
           prompt-file: ./temp/ai-input.txt
-          model: gpt-4o-mini
-          max-completion-tokens: 3000
+          model: gpt-4.1
       - name: Apply descriptions
         run: node scripts/apply-descriptions.mjs "${{ steps.ai.outputs.response }}"
       - name: Commit and push
