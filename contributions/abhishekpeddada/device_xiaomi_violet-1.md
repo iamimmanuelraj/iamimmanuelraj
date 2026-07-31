@@ -1,6 +1,6 @@
 # abhishekpeddada/device_xiaomi_violet-1
 
-> Added echo reference channels and fixed ViLTE camera interface properties for the violet device.
+> Updated violet device configs with two echo reference channels and fixed the ViLTE camera interface props.
 
 [![Contributions](https://contrib.rocks/image?repo=abhishekpeddada/device_xiaomi_violet-1)](https://github.com/abhishekpeddada/device_xiaomi_violet-1/graphs/contributions)
 

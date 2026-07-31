@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Applied vendor build and GMS/SystemUI fixes to improve sdm660 support and platform initialization.
+> Applied the same vendor improvements: BoardConfigQcom fixes, sdm660 DRM_PP/master-side CP support, GMS refactor, and SystemUIGoogle dexpreopt adjustments.
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 
