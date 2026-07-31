@@ -25,6 +25,8 @@ jobs:
         with:
           prompt-file: ./temp/ai-input.txt
           model: gpt-5-mini
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
       - name: Apply descriptions
         run: node scripts/apply-descriptions.mjs "${{ steps.ai.outputs.response }}"
       - name: Commit and push
