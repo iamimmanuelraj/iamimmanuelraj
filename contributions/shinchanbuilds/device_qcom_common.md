@@ -1,6 +1,6 @@
 # shinchanbuilds/device_qcom_common
 
-<!-- AI_DESC -->
+> Reordered Bluetooth config inheritance and conditioned telephony advanced-scan properties for legacy platforms.
 
 [![Contributions](https://contrib.rocks/image?repo=shinchanbuilds/device_qcom_common)](https://github.com/shinchanbuilds/device_qcom_common/graphs/contributions)
 

@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Improved the device's build process by updating blobs, fixing denials, and making various configuration changes to optimize performance and compatibility.
+> Maintained sdm660-common by fixing SELinux/build issues, updating vendor blobs and HALs, toggling features (blur/bluetooth), and improving extraction/build scripts.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 

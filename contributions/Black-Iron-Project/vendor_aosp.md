@@ -1,6 +1,6 @@
 # Black-Iron-Project/vendor_aosp
 
-<!-- AI_DESC -->
+> Implemented BoardConfigQcom and vendor GMS/SystemUI adjustments to enable sdm660 features and tidy platform configs.
 
 [![Contributions](https://contrib.rocks/image?repo=Black-Iron-Project/vendor_aosp)](https://github.com/Black-Iron-Project/vendor_aosp/graphs/contributions)
 

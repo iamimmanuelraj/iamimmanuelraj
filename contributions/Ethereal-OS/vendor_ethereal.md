@@ -1,6 +1,6 @@
 # Ethereal-OS/vendor_ethereal
 
-<!-- AI_DESC -->
+> Made vendor config improvements enabling sdm660 DRM_PP, master-side CP support, and GMS/SystemUI refinements.
 
 [![Contributions](https://contrib.rocks/image?repo=Ethereal-OS/vendor_ethereal)](https://github.com/Ethereal-OS/vendor_ethereal/graphs/contributions)
 

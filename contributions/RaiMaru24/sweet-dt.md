@@ -1,6 +1,6 @@
 # RaiMaru24/sweet-dt
 
-<!-- AI_DESC -->
+> Enabled Camera2API for legacy sweet targets and corrected ViLTE camera interface properties.
 
 [![Contributions](https://contrib.rocks/image?repo=RaiMaru24/sweet-dt)](https://github.com/RaiMaru24/sweet-dt/graphs/contributions)
 

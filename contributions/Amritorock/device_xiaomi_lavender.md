@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Streamlined the configuration and performance by updating media profiles and codecs, while also enhancing proximity features and system optimizations.
+> Applied common sdm660 updates, migrated overlays to RRO, and refreshed GPS/vendor components.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

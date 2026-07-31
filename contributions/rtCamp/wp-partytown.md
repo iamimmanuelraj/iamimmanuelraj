@@ -1,6 +1,6 @@
 # rtCamp/wp-partytown
 
-<!-- AI_DESC -->
+> Updated upstream dependencies and added Dependabot configuration for maintenance.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/wp-partytown)](https://github.com/rtCamp/wp-partytown/graphs/contributions)
 

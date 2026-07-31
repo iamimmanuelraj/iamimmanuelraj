@@ -1,6 +1,6 @@
 # rtCamp/rtbiz-affiliate
 
-<!-- AI_DESC -->
+> Added Dependabot configuration to manage dependency updates.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/rtbiz-affiliate)](https://github.com/rtCamp/rtbiz-affiliate/graphs/contributions)
 

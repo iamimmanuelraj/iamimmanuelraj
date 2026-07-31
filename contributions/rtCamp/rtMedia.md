@@ -1,6 +1,6 @@
 # rtCamp/rtMedia
 
-<!-- AI_DESC -->
+> Refactored gallery search query construction and added Dependabot configuration.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/rtMedia)](https://github.com/rtCamp/rtMedia/graphs/contributions)
 

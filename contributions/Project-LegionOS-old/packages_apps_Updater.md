@@ -1,6 +1,6 @@
 # Project-LegionOS-old/packages_apps_Updater
 
-<!-- AI_DESC -->
+> Switched the updater to a dynamic changelog and fixed minor updater issues.
 
 [![Contributions](https://contrib.rocks/image?repo=Project-LegionOS-old/packages_apps_Updater)](https://github.com/Project-LegionOS-old/packages_apps_Updater/graphs/contributions)
 

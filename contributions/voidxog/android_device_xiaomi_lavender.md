@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Refined system performance with updates to media profiles, proximity features, and memory management, ensuring smoother user interactions.
+> Optimized lavender device config: adjusted dexopt, enabled DT2W proximity checks, updated media/wifi settings, removed ese power manager, and added fsverity/AntHalService support.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 

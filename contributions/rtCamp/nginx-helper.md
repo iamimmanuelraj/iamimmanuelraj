@@ -1,6 +1,6 @@
 # rtCamp/nginx-helper
 
-<!-- AI_DESC -->
+> Merged dependency and CI updates, including e2e/test PRs, and added Dependabot configuration.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/nginx-helper)](https://github.com/rtCamp/nginx-helper/graphs/contributions)
 
