@@ -1,6 +1,6 @@
 # rtCamp/wp-partytown
 
-> Merged Dependabot upgrades and added a Dependabot configuration to keep dependencies and CI artifacts current.
+> Merged dependency updates and added dependabot configuration to keep package/security updates current.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/wp-partytown)](https://github.com/rtCamp/wp-partytown/graphs/contributions)
 

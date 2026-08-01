@@ -1,6 +1,6 @@
 # LegionOS-wip/device_qcom_sepolicy_legacy-um
 
-> Merged upstream Qualcomm sepolicy tags, removed vbmeta/dtbo dev/block paths, and adapted sepolicy paths for Legion compatibility.
+> Merged CodeAurora LA.UM sepolicy tags and adapted device sepolicy paths for LegionOS, including vbmeta/dtbo path removals.
 
 [![Contributions](https://contrib.rocks/image?repo=LegionOS-wip/device_qcom_sepolicy_legacy-um)](https://github.com/LegionOS-wip/device_qcom_sepolicy_legacy-um/graphs/contributions)
 
