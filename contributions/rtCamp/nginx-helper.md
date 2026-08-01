@@ -1,6 +1,6 @@
 # rtCamp/nginx-helper
 
-> Performed maintenance merges for dependency and CI updates, including dependabot PRs and test-related improvements.
+> Maintained project health by merging dependabot updates for dependencies and GitHub Actions and adding dependabot automation.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/nginx-helper)](https://github.com/rtCamp/nginx-helper/graphs/contributions)
 

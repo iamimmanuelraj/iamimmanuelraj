@@ -1,6 +1,6 @@
 # rtCamp/rtMedia
 
-> Refactored gallery search query construction and merged dependency-maintenance PRs to keep the codebase up to date.
+> Improved gallery search query construction and added dependabot automation to keep dependencies current.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/rtMedia)](https://github.com/rtCamp/rtMedia/graphs/contributions)
 
