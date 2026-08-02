@@ -1,6 +1,6 @@
 # rtCamp/nginx-helper
 
-> Applied Dependabot and CI updates and added a Dependabot configuration to maintain package and workflow currency.
+> Integrated dependency and GitHub Actions updates via dependabot and added dependabot configuration.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/nginx-helper)](https://github.com/rtCamp/nginx-helper/graphs/contributions)
 
