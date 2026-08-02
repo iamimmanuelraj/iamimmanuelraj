@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Applied sdm660-common maintenance (media profiles, codecs, GC, fsverity, AntHalService), removed eSE power manager, added Wi‑Fi overlay options and proximity checks for DT2W on lavender, and removed SysUI from dexopt apps.
+> Optimized lavender device configs: tweaked dexopt, enabled proximity DT2W checks, updated media profiles/codecs, added wifi overlays, removed ESE power manager, built AntHalService, and enabled fsverity.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 
