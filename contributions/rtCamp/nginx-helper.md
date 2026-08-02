@@ -1,6 +1,6 @@
 # rtCamp/nginx-helper
 
-> Integrated dependency and GitHub Actions updates via dependabot and added dependabot configuration.
+> Integrated several Dependabot and GitHub Actions updates and added Dependabot configuration.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/nginx-helper)](https://github.com/rtCamp/nginx-helper/graphs/contributions)
 

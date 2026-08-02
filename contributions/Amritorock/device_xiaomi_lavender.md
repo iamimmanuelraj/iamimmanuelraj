@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Brought common sdm660 updates into lavender: media/profile tweaks, wifi overlay support, fsverity flag, switched overlays to RRO, and updated GPS blobs.
+> Carried over sdm660-common updates (media profiles, GC, flags, fsverity, AntHalService), added Wi‑Fi overlay support, switched overlays to RRO, and updated GPS blobs from LA.UM.11.2.1.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
