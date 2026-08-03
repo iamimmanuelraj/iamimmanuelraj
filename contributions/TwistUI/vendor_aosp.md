@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Hardened vendor build config and board handling: fixed BoardConfigQcom initialization/duplicates, enabled sdm660 DRM_PP and master-side CP support, refactored GMS client ID logic, and dexpreopted SystemUIGoogle.
+> Updated vendor AOSP board and vendor configs: fixed MCP/duplicate platforms, initialized board variables, enabled sdm660 DRM_PP and master-side CP support, refactored PRODUCT_GMS_CLIENTID_BASE, and dexpreopt'ed SystemUIGoogle.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 
