@@ -1,6 +1,6 @@
 # Alioth-CAF-Device-Tree/device_qcom_common
 
-> Made the same QCOM common improvements: inherit BT board configs before product configs and conditionally enable legacy telephony advancedscan.
+> Applied the same qcom common improvements: earlier BT board inheritance and conditional telephony advancedscan for legacy targets.
 
 [![Contributions](https://contrib.rocks/image?repo=Alioth-CAF-Device-Tree/device_qcom_common)](https://github.com/Alioth-CAF-Device-Tree/device_qcom_common/graphs/contributions)
 
