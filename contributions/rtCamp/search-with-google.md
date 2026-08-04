@@ -1,6 +1,6 @@
 # rtCamp/search-with-google
 
-> Applied a batch of dependabot merges to update test/e2e-playwright dependencies and GitHub Actions, keeping the project dependencies secure and current.
+> Applied numerous dependabot dependency updates and GitHub Actions maintenance merges to keep the project secure and current.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/search-with-google)](https://github.com/rtCamp/search-with-google/graphs/contributions)
 

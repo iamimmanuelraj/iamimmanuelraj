@@ -1,6 +1,6 @@
 # Black-Iron-Project/vendor_aosp
 
-> Updated vendor platform plumbing: corrected BoardConfigQcom problems, added sdm660 DRM_PP and master-side CP support, initialized board variables properly, reverted an UM upgrade, refactored PRODUCT_GMS_CLIENTID_BASE, and dexpreopt’ed SystemUIGoogle.
+> Merged BoardConfigQcom fixes and sdm660 support, initialized board variables, added master-side CP support, refactored GMS CLIENTID logic, and adjusted SystemUI dexpreopt.
 
 [![Contributions](https://contrib.rocks/image?repo=Black-Iron-Project/vendor_aosp)](https://github.com/Black-Iron-Project/vendor_aosp/graphs/contributions)
 

@@ -1,6 +1,6 @@
 # rtCamp/api_playwright_utils
 
-> Kept dependencies up to date and CI healthy by merging multiple dependabot updates (dotenv, e, faker, playwright/test) and adding dependabot configuration. Small maintenance to secure and modernize the project.
+> Updated dependency surface and security tooling by merging several dependabot updates and adding a dependabot configuration.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/api_playwright_utils)](https://github.com/rtCamp/api_playwright_utils/graphs/contributions)
 

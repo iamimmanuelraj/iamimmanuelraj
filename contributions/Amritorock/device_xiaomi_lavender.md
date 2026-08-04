@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Applied the same sdm660-common maintenance: removed SysUI from dexopt, updated media codecs, consolidated vendor flags, switched to RRO overlays, used a garbage collector, added wifi options support, removed ese power manager, built AntHalService in Soong, added fsverity support, and refreshed GPS blobs.
+> Applied sdm660-common improvements and device tweaks: media/profile updates, garbage collector use, Wi‑Fi overlays, fsverity flag, switched overlays to RRO, and updated GPS blobs from upstream.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

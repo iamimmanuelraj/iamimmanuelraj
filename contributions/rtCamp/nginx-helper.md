@@ -1,6 +1,6 @@
 # rtCamp/nginx-helper
 
-> Merged numerous dependabot and GitHub Actions updates and added dependabot configuration to maintain CI and dependency hygiene.
+> Merged multiple dependabot and GitHub Actions updates and added dependabot configuration to maintain dependencies and CI tooling.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/nginx-helper)](https://github.com/rtCamp/nginx-helper/graphs/contributions)
 
