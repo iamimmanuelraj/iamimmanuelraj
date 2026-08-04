@@ -1,6 +1,6 @@
 # Alioth-CAF-Device-Tree/device_qcom_common
 
-> Adjusted QCOM common configs to inherit board settings before product configs and conditionally enable advanced telephony scan on legacy platforms.
+> Applied the same device_qcom_common fixes: inherit board configs before product configs and conditionally enable advancedscan on legacy telephony platforms.
 
 [![Contributions](https://contrib.rocks/image?repo=Alioth-CAF-Device-Tree/device_qcom_common)](https://github.com/Alioth-CAF-Device-Tree/device_qcom_common/graphs/contributions)
 
