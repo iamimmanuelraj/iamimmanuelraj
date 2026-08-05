@@ -1,6 +1,6 @@
 # rtCamp/nginx-helper
 
-> Merged several Dependabot updates and added Dependabot configuration for ongoing dependency maintenance.
+> Brought in Dependabot PRs and CI updates, added Dependabot configuration and test/e2e maintenance.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/nginx-helper)](https://github.com/rtCamp/nginx-helper/graphs/contributions)
 

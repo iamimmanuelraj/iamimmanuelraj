@@ -1,6 +1,6 @@
 # rtCamp/api_playwright_utils
 
-> Maintained the project by merging multiple Dependabot dependency updates and adding Dependabot configuration.
+> Maintained dependencies and CI: merged multiple Dependabot updates (dotenv, ejs, faker, playwright/test) and added Dependabot configuration.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/api_playwright_utils)](https://github.com/rtCamp/api_playwright_utils/graphs/contributions)
 
