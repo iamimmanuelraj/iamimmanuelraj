@@ -1,6 +1,6 @@
 # Black-Iron-Project/vendor_aosp
 
-> Contributed vendor configuration fixes and feature enables: BoardConfigQcom cleanups, sdm660 DRM/master CP support, GMS client ID refactor, and SystemUI dexpreopt changes.
+> Updated vendor AOSP settings — fixed BoardConfigQcom, enabled sdm660 DRM_PP and master-side CP support, initialized board variables earlier, refactored GMS client ID, and switched SystemUI to SystemUIGoogle dexpreopt.
 
 [![Contributions](https://contrib.rocks/image?repo=Black-Iron-Project/vendor_aosp)](https://github.com/Black-Iron-Project/vendor_aosp/graphs/contributions)
 

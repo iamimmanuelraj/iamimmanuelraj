@@ -1,6 +1,6 @@
 # rtCamp/nginx-helper
 
-> Performed CI and dependency maintenance—merged multiple dependabot updates, updated GitHub Actions workflows, and added dependabot configuration.
+> Merged several Dependabot and GitHub Actions updates and added Dependabot configuration to keep dependencies and CI tooling current.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/nginx-helper)](https://github.com/rtCamp/nginx-helper/graphs/contributions)
 
