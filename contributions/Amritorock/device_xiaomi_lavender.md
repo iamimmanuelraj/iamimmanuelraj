@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Streamlined lavender device support: removed SystemUI from dexopt, updated media profiles and flags, added Wi‑Fi overlays, removed ESE power manager, built AntHalService, enabled fsverity, switched overlays to RRO, and updated GPS blobs.
+> Applied media and codec updates, added Wi‑Fi options, switched overlays to RRO, updated GPS blobs, and made various build and fsverity improvements.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
