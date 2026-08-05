@@ -1,6 +1,6 @@
 # rtCamp/search-with-google
 
-> Merged a series of Dependabot PRs to update test dependencies and GitHub Actions for CI stability.
+> Merged multiple dependabot updates for test deps and CI, keeping the project dependencies and workflows current.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/search-with-google)](https://github.com/rtCamp/search-with-google/graphs/contributions)
 
