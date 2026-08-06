@@ -1,6 +1,6 @@
 # rtCamp/search-with-google
 
-> Merged a series of Dependabot updates for test dependencies and CI actions.
+> Routine dependency upkeep: merged a batch of dependabot PRs for test libs and GitHub Actions tooling.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/search-with-google)](https://github.com/rtCamp/search-with-google/graphs/contributions)
 

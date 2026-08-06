@@ -1,6 +1,6 @@
 # Ethereal-OS/vendor_ethereal
 
-> Implemented BoardConfigQcom fixes, enabled sdm660 DRM_PP and master CP support, refactored GMS client id handling, and dexpreopted SystemUI Google.
+> Vendor updates: fixed BoardConfig issues, enabled sdm660 DRM_PP/master CP, and refactored PRODUCT_GMS_CLIENTID_BASE and SystemUI dexpreopt.
 
 [![Contributions](https://contrib.rocks/image?repo=Ethereal-OS/vendor_ethereal)](https://github.com/Ethereal-OS/vendor_ethereal/graphs/contributions)
 
