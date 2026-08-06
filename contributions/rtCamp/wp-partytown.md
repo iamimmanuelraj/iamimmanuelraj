@@ -1,6 +1,6 @@
 # rtCamp/wp-partytown
 
-> Kept dependencies current and CI healthy by adding dependabot config and merging updates for Partytown, simple-git and env packages.
+> Updated Partytown and environment dependencies via Dependabot and added Dependabot configuration for ongoing maintenance.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/wp-partytown)](https://github.com/rtCamp/wp-partytown/graphs/contributions)
 
