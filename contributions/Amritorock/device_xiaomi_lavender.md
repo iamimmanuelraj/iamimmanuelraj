@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Refined lavender device tree with media/profile and Wi‑Fi updates, removed redundant flags, migrated overlays to RRO, added fsverity/HAL work, and refreshed GPS blobs.
+> Applied sdm660-common improvements (media profiles, GC, wifi options, fsverity), switched overlays to RRO, removed ese power manager and updated GPS blobs from vendor LA.UM release.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
