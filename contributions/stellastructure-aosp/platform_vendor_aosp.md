@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Applied BoardConfigQcom fixes and enhancements: enabled sdm660 DRM_PP, initialized board variables correctly, added master-side CP support, refactored GMS client ID handling, and dexpreopted SystemUIGoogle.
+> Implemented Qualcomm board fixes and sdm660 DRM_PP support, initialized board variables properly, added master-side cp support, refactored GMS client ID handling, and adjusted SystemUI dexpreopt behavior.
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 
