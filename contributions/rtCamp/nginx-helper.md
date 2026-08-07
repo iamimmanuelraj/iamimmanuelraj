@@ -1,6 +1,6 @@
 # rtCamp/nginx-helper
 
-> Brought CI and dependencies up to date by merging Dependabot updates and adding Dependabot configuration across tests and workflows.
+> Merged Dependabot updates for dependencies and GitHub Actions, and added Dependabot configuration.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/nginx-helper)](https://github.com/rtCamp/nginx-helper/graphs/contributions)
 
