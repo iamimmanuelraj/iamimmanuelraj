@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Aligned lavender configs across the tree: proximity DT2W tweaks, media/profile updates, switched overlays to RRO, added Wi‑Fi options, and refreshed GPS blobs.
+> Applied the same lavender improvements (proximity checks, media/profile updates, Wi‑Fi options, fsverity) and migrated overlays to RRO plus updated GPS blobs from upstream.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
