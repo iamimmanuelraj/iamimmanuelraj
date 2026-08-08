@@ -1,6 +1,6 @@
 # rtCamp/nginx-helper
 
-> Applied multiple dependency and CI updates via dependabot and added dependabot configuration to improve maintenance and E2E workflow stability.
+> Merged dependency and CI updates via dependabot and added dependabot configuration to keep tests and workflows current.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/nginx-helper)](https://github.com/rtCamp/nginx-helper/graphs/contributions)
 

@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Refined lavender device configs: enabled proximity checks for DT2W, updated media profiles and codecs, added fsverity support, adjusted overlays and power manager, and tuned dexopt/HAL build behavior.
+> Tuned lavender device config and shared sdm660-common overlays—enabled proximity checks for dt2w, adjusted media profiles/codecs, added wifi options and fsverity flag, and removed unnecessary services.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 
