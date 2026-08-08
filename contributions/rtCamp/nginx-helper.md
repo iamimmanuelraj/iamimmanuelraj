@@ -1,6 +1,6 @@
 # rtCamp/nginx-helper
 
-> I maintained nginx-helper by merging several dependabot updates and introducing a dependabot configuration for ongoing dependency management.
+> Merged several Dependabot updates and added Dependabot config to maintain CI/dependency hygiene.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/nginx-helper)](https://github.com/rtCamp/nginx-helper/graphs/contributions)
 

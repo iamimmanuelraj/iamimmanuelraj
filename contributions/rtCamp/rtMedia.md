@@ -1,6 +1,6 @@
 # rtCamp/rtMedia
 
-> I refactored gallery search query construction for clearer logic and added dependabot configuration to keep dependencies current.
+> Refactored gallery search query construction and merged Dependabot configuration to manage dependencies.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/rtMedia)](https://github.com/rtCamp/rtMedia/graphs/contributions)
 

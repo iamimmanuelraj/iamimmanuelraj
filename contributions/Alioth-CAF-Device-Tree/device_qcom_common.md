@@ -1,6 +1,6 @@
 # Alioth-CAF-Device-Tree/device_qcom_common
 
-> I adjusted qcom common configs to inherit BT board settings earlier and conditionally configured telephony advancedscan for legacy devices.
+> Adjusted common device tree: inherit BT board configs earlier and gate telephony advancedscan for legacy platforms.
 
 [![Contributions](https://contrib.rocks/image?repo=Alioth-CAF-Device-Tree/device_qcom_common)](https://github.com/Alioth-CAF-Device-Tree/device_qcom_common/graphs/contributions)
 

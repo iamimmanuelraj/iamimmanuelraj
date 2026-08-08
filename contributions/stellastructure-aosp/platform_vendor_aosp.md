@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> I improved platform/vendor AOSP settings for sdm660: enabled DRM_PP and master-side CP, fixed duplicate board entries, refactored GMS client ID handling, and updated SystemUI dexpreopt behavior.
+> Aligned vendor platform: resolved BoardConfigQcom duplicates, enabled sdm660 DRM_PP and master-side CP, refactored GMS client ID, and dexpreopt SystemUIGoogle.
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 
