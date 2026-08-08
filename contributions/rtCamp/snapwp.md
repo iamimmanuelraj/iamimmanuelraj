@@ -1,6 +1,6 @@
 # rtCamp/snapwp
 
-> Added a Dependabot configuration to automate dependency updates.
+> Added dependabot configuration to automate dependency updates and improve maintenance of the snapwp project.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/snapwp)](https://github.com/rtCamp/snapwp/graphs/contributions)
 

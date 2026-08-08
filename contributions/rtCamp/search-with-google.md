@@ -1,6 +1,6 @@
 # rtCamp/search-with-google
 
-> Applied numerous Dependabot dependency updates and GitHub Actions fixes to keep tests and builds current.
+> Performed a broad set of dependency updates and CI tweaks via dependabot merges to keep the project secure and current.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/search-with-google)](https://github.com/rtCamp/search-with-google/graphs/contributions)
 
