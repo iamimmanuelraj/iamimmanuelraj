@@ -1,6 +1,6 @@
 # Black-Iron-Project/vendor_aosp
 
-> Fixed BoardConfigQcom regressions, enabled sdm660 DRM_PP and master-side CP, refactored GMS client ID handling, and updated SystemUI dexpreopting.
+> I cleaned up vendor AOSP board and vendor settings — enabling sdm660 DRM_PP, fixing board init/duplicates, adding master-side support, refactoring GMS client ID logic, and adjusting SystemUI dexpreopt.
 
 [![Contributions](https://contrib.rocks/image?repo=Black-Iron-Project/vendor_aosp)](https://github.com/Black-Iron-Project/vendor_aosp/graphs/contributions)
 
