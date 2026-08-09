@@ -1,6 +1,6 @@
 # rtCamp/search-with-google
 
-> Applied a series of dependabot-sourced dependency updates and merged multiple maintenance PRs to keep the project secure and current.
+> Applied a batch of Dependabot updates for test dependencies and CI workflows to keep the project secure and current.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/search-with-google)](https://github.com/rtCamp/search-with-google/graphs/contributions)
 

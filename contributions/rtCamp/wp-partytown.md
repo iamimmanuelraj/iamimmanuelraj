@@ -1,6 +1,6 @@
 # rtCamp/wp-partytown
 
-> Updated third‑party dependencies via dependabot merges and added a dependabot config to keep the package ecosystem current.
+> Updated dependencies via Dependabot and added Dependabot configuration to keep the project current.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/wp-partytown)](https://github.com/rtCamp/wp-partytown/graphs/contributions)
 

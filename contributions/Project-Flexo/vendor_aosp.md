@@ -1,6 +1,6 @@
 # Project-Flexo/vendor_aosp
 
-> Refactored vendor GMS CLIENTID handling and migrated SystemUI references to SystemUIGoogle to align vendor layers with expected system components.
+> Refactored GMS PRODUCT_GMS_CLIENTID_BASE handling and migrated SystemUI to SystemUIGoogle.
 
 [![Contributions](https://contrib.rocks/image?repo=Project-Flexo/vendor_aosp)](https://github.com/Project-Flexo/vendor_aosp/graphs/contributions)
 
