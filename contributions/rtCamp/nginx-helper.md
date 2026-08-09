@@ -1,6 +1,6 @@
 # rtCamp/nginx-helper
 
-> Maintained dependency hygiene by merging numerous dependabot updates and adding dependabot configuration for ongoing security and updates.
+> Merged dependency updates from dependabot and added dependabot configuration to maintain security and package freshness.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/nginx-helper)](https://github.com/rtCamp/nginx-helper/graphs/contributions)
 
