@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Improved lavender device configs by adding proximity wake checks, updating media/GPS blobs, moving overlays to RRO, and cleaning vendor flags.
+> Applied sdm660-common improvements across lavender: media/profile updates, wifi options, fsverity and AntHalService builds, switched overlays to RRO, and updated GPS blobs.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

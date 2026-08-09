@@ -1,6 +1,6 @@
 # Ethereal-OS/vendor_ethereal
 
-> Added Qualcomm board and sdm660 support improvements, refactored GMS client ID behavior, and adjusted SystemUIGoogle dexpreopt settings.
+> Consolidated vendor settings by repairing BoardConfigQcom entries, enabling sdm660 DRM_PP and master CP support, refactoring GMS client ID, and dexpreopting SystemUIGoogle.
 
 [![Contributions](https://contrib.rocks/image?repo=Ethereal-OS/vendor_ethereal)](https://github.com/Ethereal-OS/vendor_ethereal/graphs/contributions)
 

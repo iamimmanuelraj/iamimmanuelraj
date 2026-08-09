@@ -1,6 +1,6 @@
 # rtCamp/search-with-google
 
-> Applied a batch of Dependabot updates for test dependencies and CI workflows to keep the project secure and current.
+> Merged a batch of dependabot updates for test and runtime dependencies and GitHub Actions, keeping the project secure and up to date.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/search-with-google)](https://github.com/rtCamp/search-with-google/graphs/contributions)
 
