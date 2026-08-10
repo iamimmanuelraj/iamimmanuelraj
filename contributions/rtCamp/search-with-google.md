@@ -1,6 +1,6 @@
 # rtCamp/search-with-google
 
-> (Duplicate) Merged many dependency updates and CI fixes.
+> Merged multiple Dependabot dependency updates and CI workflow bumps to keep the project secure and up to date.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/search-with-google)](https://github.com/rtCamp/search-with-google/graphs/contributions)
 

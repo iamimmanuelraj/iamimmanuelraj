@@ -1,6 +1,6 @@
 # LegionOS-wip/device_qcom_sepolicy_legacy-um
 
-> (Duplicate) Merged CA tags and adapted sepolicy paths for Legion.
+> Merged upstream sepolicy tags and adapted legacy sepolicy paths (vbmeta/dtbo/dev/block) to match LegionOS layout.
 
 [![Contributions](https://contrib.rocks/image?repo=LegionOS-wip/device_qcom_sepolicy_legacy-um)](https://github.com/LegionOS-wip/device_qcom_sepolicy_legacy-um/graphs/contributions)
 

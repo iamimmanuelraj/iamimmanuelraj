@@ -1,6 +1,6 @@
 # rtCamp/rtMedia
 
-> (Duplicate) Refactored gallery search and added dependabot.
+> Refactored the gallery search query builder and merged Dependabot updates while adding Dependabot configuration.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/rtMedia)](https://github.com/rtCamp/rtMedia/graphs/contributions)
 

@@ -1,6 +1,6 @@
 # rtCamp/rtbiz-affiliate
 
-> (Duplicate) Added dependabot configuration.
+> Added Dependabot configuration and merged maintenance updates to ensure dependencies stay updated.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/rtbiz-affiliate)](https://github.com/rtCamp/rtbiz-affiliate/graphs/contributions)
 
