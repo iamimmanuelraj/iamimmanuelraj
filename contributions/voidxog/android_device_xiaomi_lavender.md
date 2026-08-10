@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Refined lavender device support by enabling proximity checks for DT2W, tuning media profiles/codecs, removing unneeded services, adding wifi overlays and fsverity support, and building AntHalService.
+> Improved lavender device support by removing SysUI from dexopt, enabling proximity checks for DT2W/wake, updating media profiles/codecs, adding Wi‑Fi options and fsverity, removing ESE power manager, and building AntHalService.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 
