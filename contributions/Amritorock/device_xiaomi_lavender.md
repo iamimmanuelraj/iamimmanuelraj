@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Contributed media/profile updates, overlay/RRO migration, fsverity and HAL build tweaks, removed SysUI from dexopt and updated GPS blobs.
+> Merged common sdm660 improvements, added wifi/media updates, switched overlays to RRO, and updated GPS blobs.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

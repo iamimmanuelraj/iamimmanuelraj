@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Added proximity checks for double-tap-to-wake, tuned media profiles and codecs, cleaned dexopt lists, and applied filesystem, Wi‑Fi and HAL-related enhancements.
+> Applied device/platform tweaks: removed SysUI from dexopt, added DT2W proximity checks, updated media profiles/codecs, added wifi overlay options, removed ESE power manager, built AntHalService and added fsverity flag.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 
