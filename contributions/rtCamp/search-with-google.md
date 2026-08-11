@@ -1,6 +1,6 @@
 # rtCamp/search-with-google
 
-> Applied numerous dependency and Actions updates through dependabot merges to keep the project secure and current.
+> Merged numerous Dependabot updates for test dependencies and CI actions to keep the project secure and current.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/search-with-google)](https://github.com/rtCamp/search-with-google/graphs/contributions)
 

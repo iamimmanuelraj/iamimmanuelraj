@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Improved lavender common configs: updated media profiles/codecs, added Wi‑Fi overlay support, removed ESE power manager, enabled fsverity, migrated overlays to RRO and updated GPS blobs.
+> Contributed media/profile updates, overlay/RRO migration, fsverity and HAL build tweaks, removed SysUI from dexopt and updated GPS blobs.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
