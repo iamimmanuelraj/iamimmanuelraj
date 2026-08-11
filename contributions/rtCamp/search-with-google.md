@@ -1,6 +1,6 @@
 # rtCamp/search-with-google
 
-> Updated numerous npm/yarn dependencies and GitHub Actions via Dependabot to keep the project secure and current.
+> Merged a large set of Dependabot dependency and GitHub Actions updates to keep the codebase secure and current.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/search-with-google)](https://github.com/rtCamp/search-with-google/graphs/contributions)
 

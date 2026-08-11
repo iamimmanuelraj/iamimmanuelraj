@@ -1,6 +1,6 @@
 # rishav-r3/device_xiaomi_jasmine_sdm660-common
 
-> Rebuilt audio components from source, restored telephony injection, and fixed camera interface properties for ViLTE calls.
+> Reinforced jasmine sdm660-common by building key audio components from source, restoring telephony injection, and fixing camera interface properties for ViLTE calls.
 
 [![Contributions](https://contrib.rocks/image?repo=rishav-r3/device_xiaomi_jasmine_sdm660-common)](https://github.com/rishav-r3/device_xiaomi_jasmine_sdm660-common/graphs/contributions)
 
