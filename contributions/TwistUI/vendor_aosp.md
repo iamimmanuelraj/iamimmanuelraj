@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Hardened vendor build: BoardConfigQcom fixes, enabled sdm660 DRM_PP and master-side CP support, refactored GMS client ID handling, and dexpreopted SystemUIGoogle.
+> Hardened vendor layer with BoardConfigQcom fixes and sdm660 enhancements, refactored GMS client ID handling, and enabled dexpreopt for SystemUIGoogle.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 

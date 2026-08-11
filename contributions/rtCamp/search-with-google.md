@@ -1,6 +1,6 @@
 # rtCamp/search-with-google
 
-> Applied a batch of dependency updates via Dependabot across tests and CI workflows.
+> Updated numerous npm/yarn dependencies and GitHub Actions via Dependabot to keep the project secure and current.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/search-with-google)](https://github.com/rtCamp/search-with-google/graphs/contributions)
 

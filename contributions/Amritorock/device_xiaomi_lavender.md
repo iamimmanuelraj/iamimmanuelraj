@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Merged common sdm660 improvements, added wifi/media updates, switched overlays to RRO, and updated GPS blobs.
+> Enhanced lavender device common: added DT2W proximity checks, updated media/wifi overlays, switched overlays to RRO, removed unused services, and refreshed GPS blobs.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
