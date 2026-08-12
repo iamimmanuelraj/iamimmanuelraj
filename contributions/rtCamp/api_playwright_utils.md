@@ -1,6 +1,6 @@
 # rtCamp/api_playwright_utils
 
-> Kept dependencies up to date by merging multiple dependabot updates and adding a dependabot configuration.
+> Kept dependencies up to date by merging multiple dependabot PRs and added a dependabot configuration for proactive dependency management.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/api_playwright_utils)](https://github.com/rtCamp/api_playwright_utils/graphs/contributions)
 

@@ -1,6 +1,6 @@
 # rtCamp/search-with-google
 
-> Merged a series of dependabot updates for npm/yarn and GitHub Actions to keep dependencies and CI updated.
+> Merged numerous dependabot PRs across dependencies and CI workflows to maintain project health.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/search-with-google)](https://github.com/rtCamp/search-with-google/graphs/contributions)
 
