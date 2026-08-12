@@ -1,6 +1,6 @@
 # rtCamp/nginx-helper
 
-> Merged numerous dependency and CI updates (including Playwright e2e and GitHub Actions) and added Dependabot configuration.
+> Modernized CI/dependencies by merging Dependabot updates and adding Dependabot configuration, including E2E test dependency bumps.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/nginx-helper)](https://github.com/rtCamp/nginx-helper/graphs/contributions)
 
