@@ -1,6 +1,6 @@
 # rtCamp/search-with-google
 
-> Merged numerous dependabot PRs across dependencies and CI workflows to maintain project health.
+> Merged multiple Dependabot dependency updates across tests and CI and kept the repository configured with Dependabot.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/search-with-google)](https://github.com/rtCamp/search-with-google/graphs/contributions)
 
