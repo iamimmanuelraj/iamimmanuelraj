@@ -1,6 +1,6 @@
 # Black-Iron-Project/vendor_aosp
 
-> Applied BoardConfigQcom and vendor fixes: resolved duplicate platform issues, enabled sdm660 DRM_PP, added master-side CP support, and refactored GMS/Product settings and dexpreopt behavior.
+> Implemented BoardConfigQcom fixes and enhancements, added sdm660 DRM_PP/master CP support, refactored GMS client ID setup and adjusted vendor dexpreopt for SystemUIGoogle.
 
 [![Contributions](https://contrib.rocks/image?repo=Black-Iron-Project/vendor_aosp)](https://github.com/Black-Iron-Project/vendor_aosp/graphs/contributions)
 

@@ -1,6 +1,6 @@
 # rtCamp/search-with-google
 
-> Merged a series of Dependabot updates for test dependencies and GitHub Actions to keep the project dependencies current.
+> Maintained project dependencies and CI by merging a series of dependabot PRs for npm packages and GitHub Actions.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/search-with-google)](https://github.com/rtCamp/search-with-google/graphs/contributions)
 
