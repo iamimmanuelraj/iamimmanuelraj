@@ -1,6 +1,9 @@
 # rtCamp/oneaccess
-> Recent contributions to the rtCamp/oneaccess repository focused on updating dependencies and GitHub Actions, enhancing the project's stability and functionality. Notable merges included updates for npm packages, Composer plugins, and various GitHub Actions to ensure a smoother development workflow.
+
+<!-- AI_DESC -->
+
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/oneaccess)](https://github.com/rtCamp/oneaccess/graphs/contributions)
+
 ### Recent commits
 - Merge pull request #8 from rtCamp/dependabot/npm_and_yarn/multi-75e6bc5210
 - Merge pull request #18 from rtCamp/dependabot/npm_and_yarn/qs-6.14.1

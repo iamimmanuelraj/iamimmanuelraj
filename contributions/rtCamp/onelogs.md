@@ -1,6 +1,9 @@
 # rtCamp/onelogs
-> Recent contributions to the rtCamp/onelogs repository focused on updating dependencies and enhancing GitHub Actions, ensuring the project remains secure and up-to-date with the latest versions of various packages. These updates streamline development processes and improve compatibility with WordPress and PHP tools.
+
+<!-- AI_DESC -->
+
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/onelogs)](https://github.com/rtCamp/onelogs/graphs/contributions)
+
 ### Recent commits
 - Merge pull request #1 from rtCamp/dependabot/npm_and_yarn/multi-75e6bc5210
 - Merge pull request #10 from rtCamp/dependabot/npm_and_yarn/glob-10.5.0
