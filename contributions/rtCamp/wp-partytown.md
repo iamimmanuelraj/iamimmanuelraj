@@ -1,6 +1,6 @@
 # rtCamp/wp-partytown
 
-> Updated library dependencies and added dependabot configuration to keep the project secure and current.
+> Updated dependencies via dependabot, added dependabot configuration, and kept Partytown and related packages current.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/wp-partytown)](https://github.com/rtCamp/wp-partytown/graphs/contributions)
 
