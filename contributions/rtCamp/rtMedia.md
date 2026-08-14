@@ -1,6 +1,6 @@
 # rtCamp/rtMedia
 
-> Refactored gallery search query building and improved CI/maintenance by adding a Copilot code-review runner and dependabot updates.
+> Merged PRs, refactored the gallery search query builder, and added dependabot automation.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/rtMedia)](https://github.com/rtCamp/rtMedia/graphs/contributions)
 
