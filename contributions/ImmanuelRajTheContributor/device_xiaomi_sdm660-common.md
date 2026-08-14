@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Hardened builds and updated device blobs and HALs: fixed denials, switched to 4.14 HALs, updated Bluetooth and vendor blobs, adjusted build rules (permissive/enforcing), and switched to a standalone extraction script.
+> Hardened build and SELinux behavior, updated binary blobs and Bluetooth, adjusted HALs and build scripts, and changed extraction and permissive/build enforcement settings.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
