@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Fixed Qualcomm board config handling, enabled sdm660 DRM_PP support and master-side CP, refactored GMS client ID setup, and adjusted SystemUI dexpreopting.
+> Hardened vendor build config: fixed BoardConfigQcom dupes/initialization, enabled sdm660 DRM_PP and master-side cp, refactored GMS client ID handling, and switched SystemUI dexpreopt to SystemUIGoogle.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 
