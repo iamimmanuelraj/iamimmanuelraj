@@ -1,6 +1,6 @@
 # Ethereal-OS/vendor_ethereal
 
-> Updated vendor AOSP: resolved BoardConfigQcom issues, enabled sdm660 features, refactored GMS client ID setup, and changed SystemUI dexpreopt to target Google variant.
+> Board/vendor fixes
 
 [![Contributions](https://contrib.rocks/image?repo=Ethereal-OS/vendor_ethereal)](https://github.com/Ethereal-OS/vendor_ethereal/graphs/contributions)
 

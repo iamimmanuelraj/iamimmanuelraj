@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Applied common sdm660 improvements to Lavender: media and Wi‑Fi updates, runtime tweaks, removed unused services, migrated overlays to RRO and refreshed GPS blobs.
+> Media/vendor & GPS
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

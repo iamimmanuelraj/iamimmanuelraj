@@ -1,6 +1,6 @@
 # vimalds15/srm
 
-> Polished site navigation and UI: added icons, IDs and home links, tweaked footer content and renamed the career section to research alongside some bot-related housekeeping.
+> UI tweaks
 
 [![Contributions](https://contrib.rocks/image?repo=vimalds15/srm)](https://github.com/vimalds15/srm/graphs/contributions)
 

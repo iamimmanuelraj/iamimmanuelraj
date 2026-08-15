@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Improved Qualcomm board configs and sdm660 support, initialized board variables correctly, added master-side CP support, refactored GMS client ID handling, and adjusted SystemUI dexpreopt behavior.
+> Board/DRM fixes
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 
