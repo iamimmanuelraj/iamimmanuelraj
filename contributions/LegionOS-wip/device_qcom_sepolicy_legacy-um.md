@@ -1,6 +1,6 @@
 # LegionOS-wip/device_qcom_sepolicy_legacy-um
 
-> Merged LA.UM sdm660 sepolicy updates, removed vbmeta/dtbo dev/block paths, and adapted sepolicy paths for Legion builds.
+> Merged upstream sepolicy tags and adapted policy paths for Legion, removing vbmeta/dtbo dev/block entries.
 
 [![Contributions](https://contrib.rocks/image?repo=LegionOS-wip/device_qcom_sepolicy_legacy-um)](https://github.com/LegionOS-wip/device_qcom_sepolicy_legacy-um/graphs/contributions)
 
