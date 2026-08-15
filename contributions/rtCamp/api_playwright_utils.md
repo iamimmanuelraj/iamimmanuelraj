@@ -1,6 +1,6 @@
 # rtCamp/api_playwright_utils
 
-> Improved dependency hygiene: added dependabot configuration and merged multiple dependency updates (dotenv, playwright/test, faker and others).
+> Kept tooling up to date by merging multiple Dependabot updates and adding a Dependabot configuration.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/api_playwright_utils)](https://github.com/rtCamp/api_playwright_utils/graphs/contributions)
 
