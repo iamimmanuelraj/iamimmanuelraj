@@ -1,6 +1,6 @@
 # Ethereal-OS/vendor_ethereal
 
-> Contributed vendor build improvements including BoardConfigQcom fixes, sdm660 feature enablement, GMS client ID refactor, and SystemUIGoogle dexpreopt tweaks.
+> Addressed BoardConfigQcom issues, enabled sdm660 DRM and master-side CP features, refactored GMS client ID setup, and migrated SystemUI dexpreopt to SystemUIGoogle.
 
 [![Contributions](https://contrib.rocks/image?repo=Ethereal-OS/vendor_ethereal)](https://github.com/Ethereal-OS/vendor_ethereal/graphs/contributions)
 
