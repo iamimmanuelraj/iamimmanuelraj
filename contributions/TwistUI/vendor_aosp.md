@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Hardened vendor configs by fixing BoardConfigQcom issues, enabling sdm660 DRM and master-side CP support, refactoring PRODUCT_GMS_CLIENTID_BASE, and moving SystemUI dexpreopt to SystemUIGoogle.
+> Improved vendor build configs: fixed board platform issues, enabled sdm660 DRM_PP, initialized board vars correctly, added master-side cp support, and refactored GMS client ID handling plus SystemUI dexpreopting.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 
