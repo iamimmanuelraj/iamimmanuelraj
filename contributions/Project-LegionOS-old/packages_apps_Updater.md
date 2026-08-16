@@ -1,6 +1,6 @@
 # Project-LegionOS-old/packages_apps_Updater
 
-> Improved updater UX: switched to a dynamic changelog and applied miscellaneous fixes to stabilize updates.
+> Switched the updater to use a dynamic changelog and applied minor fixes to improve behavior.
 
 [![Contributions](https://contrib.rocks/image?repo=Project-LegionOS-old/packages_apps_Updater)](https://github.com/Project-LegionOS-old/packages_apps_Updater/graphs/contributions)
 
