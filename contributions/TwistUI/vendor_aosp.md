@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Board/DRM fixes
+> Hardened vendor layer: fixed BoardConfigQcom issues, enabled sdm660 DRM_PP and master-side CP support, initialized board variables correctly, refactored GMS client ID handling and dexpreopt'd SystemUIGoogle.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 
