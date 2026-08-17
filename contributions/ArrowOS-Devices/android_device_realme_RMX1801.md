@@ -1,6 +1,6 @@
 # ArrowOS-Devices/android_device_realme_RMX1801
 
-> Switched RMX1801 to an OpenGL rendering backend and removed several outdated graphic property overrides.
+> Switched the RMX1801 build to use the OpenGL rendering backend and removed obsolete graphics properties to simplify rendering configuration.
 
 [![Contributions](https://contrib.rocks/image?repo=ArrowOS-Devices/android_device_realme_RMX1801)](https://github.com/ArrowOS-Devices/android_device_realme_RMX1801/graphs/contributions)
 

@@ -1,6 +1,6 @@
 # rtCamp/wp-partytown
 
-> Updated dependencies via dependabot and added dependabot configuration to the repo.
+> Updated multiple dependencies via Dependabot and added Dependabot configuration to keep the Partytown integration and build tooling current.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/wp-partytown)](https://github.com/rtCamp/wp-partytown/graphs/contributions)
 
