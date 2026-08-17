@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Device-specific polish: enabled proximity checks for DT2W, updated media profiles/codecs, adjusted build flags and services, added fsverity and wifi options, and removed unused components from the build.
+> Enhanced lavender device config—enabled proximity checks for DT2W, updated media profiles/codecs, added Wi‑Fi options and fsverity, removed some power/sysui pieces, and built AntHalService.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 

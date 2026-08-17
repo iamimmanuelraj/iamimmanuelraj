@@ -1,6 +1,6 @@
 # Ethereal-OS/vendor_ethereal
 
-> Performed vendor-level cleanups and feature adds—Qualcomm board fixes, sdm660 DRM support, GMS refactor, and dexpreopt changes for SystemUI to improve compatibility.
+> Introduced board/vendor fixes and sdm660 support (DRM_PP, master CP), refactored PRODUCT_GMS_CLIENTID_BASE handling, and enabled SystemUIGoogle dexpreopt.
 
 [![Contributions](https://contrib.rocks/image?repo=Ethereal-OS/vendor_ethereal)](https://github.com/Ethereal-OS/vendor_ethereal/graphs/contributions)
 
