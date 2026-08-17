@@ -1,6 +1,6 @@
 # rtCamp/api_playwright_utils
 
-> Kept the project secure and up to date by merging Dependabot dependency updates and adding Dependabot configuration.
+> Kept dependencies and CI up to date by merging multiple dependabot updates (dotenv, faker, Playwright/test) and adding a dependabot configuration.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/api_playwright_utils)](https://github.com/rtCamp/api_playwright_utils/graphs/contributions)
 
