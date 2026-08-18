@@ -1,6 +1,6 @@
 # rtCamp/wp-partytown
 
-> Applied multiple dependabot dependency updates and added a dependabot configuration.
+> Updated dependencies and CI hygiene: merged Dependabot updates and added Dependabot configuration.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/wp-partytown)](https://github.com/rtCamp/wp-partytown/graphs/contributions)
 
