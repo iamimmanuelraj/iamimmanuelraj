@@ -1,6 +1,6 @@
 # rtCamp/rtbiz-affiliate
 
-> Added a dependabot configuration to automate dependency updates and keep CI healthy.
+> Added dependabot configuration to enable automated dependency updates.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/rtbiz-affiliate)](https://github.com/rtCamp/rtbiz-affiliate/graphs/contributions)
 
