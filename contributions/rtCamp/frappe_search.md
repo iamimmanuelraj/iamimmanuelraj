@@ -1,6 +1,6 @@
 # rtCamp/frappe_search
 
-> Added a copilot-code-review runner and dependabot configuration to keep dependencies and CI up to date.
+> Merged the Copilot code-review runner and Dependabot updates to keep the project and CI dependencies maintained.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/frappe_search)](https://github.com/rtCamp/frappe_search/graphs/contributions)
 

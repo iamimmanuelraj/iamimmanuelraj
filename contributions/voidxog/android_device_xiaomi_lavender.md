@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Enhanced device behavior and builds by enabling proximity checks for DT2W, updating media profiles/codecs, tweaking dexopt and vendor flags, adding wifi overlay options and fsverity, and removing the ese power manager.
+> Hardened lavender device config: enabled proximity checks for DT2W/wake, updated media profiles/codecs, added Wi‑Fi options and fsverity support, removed ese power manager, and adjusted SysUI/build inputs.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 
