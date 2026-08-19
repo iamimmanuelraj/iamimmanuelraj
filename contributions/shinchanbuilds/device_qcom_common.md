@@ -1,6 +1,6 @@
 # shinchanbuilds/device_qcom_common
 
-> Reordered Bluetooth config inheritance to apply board configs before product configs and made telephony's advancedscan prop conditional for legacy platforms.
+> Reordered Bluetooth and product config inheritance and conditionally set telephony props for legacy platforms to stabilize platform-specific behavior.
 
 [![Contributions](https://contrib.rocks/image?repo=shinchanbuilds/device_qcom_common)](https://github.com/shinchanbuilds/device_qcom_common/graphs/contributions)
 

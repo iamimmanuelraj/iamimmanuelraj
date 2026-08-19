@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Applied device and common fixes: removed SysUI from dexopt, enabled proximity checks for DT2W, updated media/CLO profiles, enabled GC improvements, added wifi overlay options, removed ESE power manager, built AntHalService, and set fsverity on userdata.
+> Enhanced device firmware by enabling proximity checks for dt2w, refining media profiles/codecs, adding Wi‑Fi options and fsverity, and cleaning up system service and power manager components.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 
