@@ -1,6 +1,6 @@
 # Project-Flexo/vendor_aosp
 
-> Refactored GMS PRODUCT_GMS_CLIENTID_BASE handling and replaced Vendor SystemUI with SystemUIGoogle.
+> Refactored vendor GMS build variables (PRODUCT_GMS_CLIENTID_BASE) and converted SystemUI references to SystemUIGoogle in the vendor layer.
 
 [![Contributions](https://contrib.rocks/image?repo=Project-Flexo/vendor_aosp)](https://github.com/Project-Flexo/vendor_aosp/graphs/contributions)
 
