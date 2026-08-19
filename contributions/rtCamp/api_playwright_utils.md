@@ -1,6 +1,6 @@
 # rtCamp/api_playwright_utils
 
-> Maintained project dependencies and CI: merged multiple Dependabot updates and added a Dependabot configuration.
+> Added Dependabot configuration and merged multiple dependency updates to keep Playwright and related packages current and secure.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/api_playwright_utils)](https://github.com/rtCamp/api_playwright_utils/graphs/contributions)
 
