@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Applied board config and sdm660 support enhancements, fixed duplicate platform issues, and refactored vendor/GMS settings with SystemUI dexpreopt adjustments.
+> Implemented vendor-level improvements for sdm660 and GMS: fixed board/platform duplication, enabled DRM_PP and master-side CP, initialized board variables correctly, and refactored GMS/SystemUI settings.
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 

@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Enhanced device firmware by enabling proximity checks for dt2w, refining media profiles/codecs, adding Wi‑Fi options and fsverity, and cleaning up system service and power manager components.
+> Improved lavender device support by enabling proximity checks for DT2W, trimming dexopt apps, updating media profiles/codecs, adding Wi‑Fi overlays and misc system flags (fsverity, AntHalService), and removing legacy power manager.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 

@@ -1,6 +1,6 @@
 # Ethereal-OS/vendor_ethereal
 
-> Contributed board configuration and sdm660 platform support, resolved duplicate platform issues, and refined vendor GMS and SystemUI dexpreopt behavior.
+> Consolidated vendor fixes for sdm660: resolved MCP/duplicate platform issues, enabled DRM_PP and master-side support, and adjusted GMS/SystemUI vendor behavior.
 
 [![Contributions](https://contrib.rocks/image?repo=Ethereal-OS/vendor_ethereal)](https://github.com/Ethereal-OS/vendor_ethereal/graphs/contributions)
 
