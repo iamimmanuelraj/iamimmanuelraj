@@ -1,6 +1,6 @@
 # rtCamp/api_playwright_utils
 
-> Kept test utilities secure and up to date by merging several Dependabot dependency updates and adding a Dependabot config.
+> Performed dependency maintenance and security upkeep—merged multiple Dependabot updates and added a Dependabot configuration for ongoing package updates.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/api_playwright_utils)](https://github.com/rtCamp/api_playwright_utils/graphs/contributions)
 
