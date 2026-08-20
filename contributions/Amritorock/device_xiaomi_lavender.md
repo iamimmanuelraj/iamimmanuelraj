@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Improved lavender platform support by removing SysUI dexopt entries, updating media profiles/codecs, adding wifi options and fsverity, switching overlays to RRO, and refreshing GPS blobs.
+> Updated lavender device common files: enabled DT2W proximity, refreshed media profiles/codecs, switched overlays to RRO, added wifi options and fsverity, removed unused components, and updated GPS blobs.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
