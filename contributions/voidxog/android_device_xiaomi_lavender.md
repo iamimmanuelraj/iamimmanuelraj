@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Refined lavender device configs: enabled DT2W proximity checks, updated media profiles/codecs, added wifi options and fsverity, removed redundant flags/components, and adjusted build/runtime services.
+> Refined lavender device config: enabled proximity checks for DT2W/wake, updated media profiles/codecs, added fsverity and Wi‑Fi options, removed ese power manager, and cleaned up dexopt/build services.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 

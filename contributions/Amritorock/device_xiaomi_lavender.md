@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Updated lavender device common files: enabled DT2W proximity, refreshed media profiles/codecs, switched overlays to RRO, added wifi options and fsverity, removed unused components, and updated GPS blobs.
+> Applied sdm660-common improvements, updated media and wifi overlays, switched overlays to RRO, added fsverity, and refreshed GPS blobs from upstream.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
