@@ -1,6 +1,6 @@
 # LegionOS-wip/device_qcom_sepolicy_legacy-um
 
-> Synced and backported sepolicy from CodeAurora LA.UM tags, removed vbmeta/dtbo dev/block paths, and adapted paths for Legion builds.
+> Merged QCOM sepolicy releases and adapted legion paths, and removed dev/block vbmeta/dtbo entries to align policy with upstream tags.
 
 [![Contributions](https://contrib.rocks/image?repo=LegionOS-wip/device_qcom_sepolicy_legacy-um)](https://github.com/LegionOS-wip/device_qcom_sepolicy_legacy-um/graphs/contributions)
 

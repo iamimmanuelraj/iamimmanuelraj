@@ -1,6 +1,6 @@
 # Project-LegionOS-old/hardware_interfaces
 
-> Synced hardware_interfaces with several Android 11 release tags to keep upstream interfaces current.
+> Synchronized hardware interfaces with Android 11 releases by merging multiple android-11.0.0_rXX tags into the tree.
 
 [![Contributions](https://contrib.rocks/image?repo=Project-LegionOS-old/hardware_interfaces)](https://github.com/Project-LegionOS-old/hardware_interfaces/graphs/contributions)
 
