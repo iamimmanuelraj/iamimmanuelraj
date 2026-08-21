@@ -1,6 +1,6 @@
 # Alioth-CAF-Device-Tree/device_qcom_common
 
-> Applied the same device_qcom_common improvements — fixed BT inheritance order and conditionally set legacy telephony properties.
+> Ensured board configs are inherited before product configs for Bluetooth and added conditional telephony props for legacy platforms.
 
 [![Contributions](https://contrib.rocks/image?repo=Alioth-CAF-Device-Tree/device_qcom_common)](https://github.com/Alioth-CAF-Device-Tree/device_qcom_common/graphs/contributions)
 
