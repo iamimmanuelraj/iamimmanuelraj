@@ -1,6 +1,6 @@
 # rtCamp/frappe_search
 
-> Merged maintenance updates and added Dependabot configuration to keep dependencies and tooling current.
+> Added automation and dependency upkeep — merged copilot runner integration and added dependabot configuration.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/frappe_search)](https://github.com/rtCamp/frappe_search/graphs/contributions)
 

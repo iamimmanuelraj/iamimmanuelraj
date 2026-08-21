@@ -1,6 +1,6 @@
 # rtCamp/api_playwright_utils
 
-> Kept the repo healthy by merging Dependabot updates and adding dependabot configuration to keep Playwright and dependencies up to date.
+> Kept test utilities and dependencies up to date — merged multiple dependabot updates and added dependabot configuration.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/api_playwright_utils)](https://github.com/rtCamp/api_playwright_utils/graphs/contributions)
 
