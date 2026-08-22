@@ -1,6 +1,6 @@
 # rtCamp/wp-partytown
 
-> Merged several dependency updates and added Dependabot configuration to keep packages current and secure.
+> Brought Partytown and related dependencies up to date and added Dependabot configuration to automate future upgrades.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/wp-partytown)](https://github.com/rtCamp/wp-partytown/graphs/contributions)
 

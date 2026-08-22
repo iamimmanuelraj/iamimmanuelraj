@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Applied sdm660-common upstream fixes, migrated overlays to RRO, updated media/GPS blobs, and refined vendor/platform flags and build components.
+> Applied sdm660-common improvements to lavender: updated media profiles and codecs, added Wi‑Fi options, switched overlays toward RRO, added fsverity and AntHalService, removed the ESE power manager and updated GPS blobs.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
