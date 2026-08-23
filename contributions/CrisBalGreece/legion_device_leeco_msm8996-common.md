@@ -1,6 +1,6 @@
 # CrisBalGreece/legion_device_leeco_msm8996-common
 
-> Updated msm8996-common vendor blobs and configs—carrier, fs config, security config, and media codecs—bringing them up to LA.UM.9.6.3 vendor state.
+> Upstream sync: updated carrier, fs config, security config, and media codecs from LA.UM.9.6.3 Qualcomm tags.
 
 [![Contributions](https://contrib.rocks/image?repo=CrisBalGreece/legion_device_leeco_msm8996-common)](https://github.com/CrisBalGreece/legion_device_leeco_msm8996-common/graphs/contributions)
 
