@@ -1,6 +1,6 @@
 # vimalds15/srm
 
-> Added and adjusted site icons, IDs and links across the footer and homepage while polishing bot-related and content labels (e.g., research/career).
+> Updated UI and navigation by adding icons, links and IDs, renaming career to research, and polishing the footer and bot-related elements.
 
 [![Contributions](https://contrib.rocks/image?repo=vimalds15/srm)](https://github.com/vimalds15/srm/graphs/contributions)
 

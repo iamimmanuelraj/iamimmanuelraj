@@ -1,6 +1,6 @@
 # gianogli/android_device_xiaomi_lavender
 
-> Enabled and refined proximity checks for dt2w and switched overlays to RRO for lavender.
+> Enabled DT2W proximity checks and wake proximity behavior, and migrated overlays to RRO for cleaner overlay management.
 
 [![Contributions](https://contrib.rocks/image?repo=gianogli/android_device_xiaomi_lavender)](https://github.com/gianogli/android_device_xiaomi_lavender/graphs/contributions)
 
