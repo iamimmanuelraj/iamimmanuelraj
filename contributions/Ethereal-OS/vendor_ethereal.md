@@ -1,6 +1,6 @@
 # Ethereal-OS/vendor_ethereal
 
-> Performed vendor maintenance: BoardConfigQcom and sdm660 support updates, GMS client ID refactor, and dexpreopt adjustments for SystemUI.
+> Contributed BoardConfigQcom fixes, sdm660 enablement, GMS client ID refactoring, and SystemUI dexpreopt updates.
 
 [![Contributions](https://contrib.rocks/image?repo=Ethereal-OS/vendor_ethereal)](https://github.com/Ethereal-OS/vendor_ethereal/graphs/contributions)
 
