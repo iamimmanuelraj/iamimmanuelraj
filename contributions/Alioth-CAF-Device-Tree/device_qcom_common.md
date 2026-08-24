@@ -1,6 +1,6 @@
 # Alioth-CAF-Device-Tree/device_qcom_common
 
-> Applied the same Bluetooth and telephony vendor configuration fixes to CAF device_qcom_common for legacy compatibility.
+> Mirrored improvements: inherit board Bluetooth configs first and conditionally set telephony advancedscan on legacy platforms.
 
 [![Contributions](https://contrib.rocks/image?repo=Alioth-CAF-Device-Tree/device_qcom_common)](https://github.com/Alioth-CAF-Device-Tree/device_qcom_common/graphs/contributions)
 
