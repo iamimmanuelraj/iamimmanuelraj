@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Enabled sdm660 DRM_PP and master-side CP, fixed board initialization/duplicates, and refactored GMS/SystemUI vendor settings.
+> Applied vendor-level fixes: enabled sdm660 DRM_PP and master-side cp support, resolved duplicate/initialization issues in BoardConfig, refactored GMS settings, and dexpreopt-ed SystemUIGoogle.
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 

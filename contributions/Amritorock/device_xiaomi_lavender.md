@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Applied upstream sdm660 fixes and media updates: removed SysUI from dexopt, refreshed codecs and flags, switched overlays to RRO, added AntHalService and fsverity, and updated GPS blobs.
+> Enhanced lavender device configs—proximity DT2W handling, media/profile updates, wifi overlays and fsverity support—migrated overlays to RRO and updated GPS blobs.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
