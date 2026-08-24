@@ -1,6 +1,6 @@
 # rtCamp/api_playwright_utils
 
-> Dependency upkeep: merged multiple dependabot dependency bumps and added dependabot configuration.
+> Maintained dependencies and CI: merged multiple dependabot updates and added dependabot configuration.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/api_playwright_utils)](https://github.com/rtCamp/api_playwright_utils/graphs/contributions)
 

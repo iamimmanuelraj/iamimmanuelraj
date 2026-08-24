@@ -1,6 +1,6 @@
 # RaiMaru24/sweet-dt
 
-> Camera compatibility updates: enabled Camera2 API for legacy targets and fixed camera interface props for ViLTE.
+> Enabled Camera2API for legacy targets and fixed ViLTE camera interface props for sm6150 devices.
 
 [![Contributions](https://contrib.rocks/image?repo=RaiMaru24/sweet-dt)](https://github.com/RaiMaru24/sweet-dt/graphs/contributions)
 

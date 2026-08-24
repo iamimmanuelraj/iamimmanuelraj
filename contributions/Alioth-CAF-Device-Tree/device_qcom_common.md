@@ -1,6 +1,6 @@
 # Alioth-CAF-Device-Tree/device_qcom_common
 
-> Build config improvements: ensured Bluetooth inherits board configs before product configs and conditionally applied telephony advancedscan for legacy targets.
+> Mirrored BT and telephony config updates: inherit board configs earlier and conditionally set advancedscan for legacy devices.
 
 [![Contributions](https://contrib.rocks/image?repo=Alioth-CAF-Device-Tree/device_qcom_common)](https://github.com/Alioth-CAF-Device-Tree/device_qcom_common/graphs/contributions)
 
