@@ -1,6 +1,6 @@
 # Alioth-CAF-Device-Tree/device_qcom_common
 
-> Adjusted config ordering for Bluetooth (board before product) and added legacy-aware telephony prop handling for advancedscan.
+> Applied the same Bluetooth and telephony vendor configuration fixes to CAF device_qcom_common for legacy compatibility.
 
 [![Contributions](https://contrib.rocks/image?repo=Alioth-CAF-Device-Tree/device_qcom_common)](https://github.com/Alioth-CAF-Device-Tree/device_qcom_common/graphs/contributions)
 
