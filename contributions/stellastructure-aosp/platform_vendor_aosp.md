@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Updated vendor platform with sdm660 DRM_PP support and boardconfig fixes, added master-side cp support, and refactored GMS/Product settings along with SystemUIGoogle dexpreopt changes.
+> Updated Qualcomm board config and vendor settings to add sdm660 DRM support, initialize board variables, add master-side CP support, and refactor GMS/SystemUI handling.
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 

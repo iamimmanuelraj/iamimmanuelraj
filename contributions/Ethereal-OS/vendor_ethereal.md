@@ -1,6 +1,6 @@
 # Ethereal-OS/vendor_ethereal
 
-> Synced vendor_aosp updates: resolved BoardConfig issues, enabled sdm660 DRM_PP and master-side cp support, and refactored GMS client ID handling plus SystemUI dexpreopt tweaks.
+> Similar vendor updates: fixed board platform duplications, enabled sdm660 DRM/CP support, and refactored GMS/SystemUI vendor behavior.
 
 [![Contributions](https://contrib.rocks/image?repo=Ethereal-OS/vendor_ethereal)](https://github.com/Ethereal-OS/vendor_ethereal/graphs/contributions)
 

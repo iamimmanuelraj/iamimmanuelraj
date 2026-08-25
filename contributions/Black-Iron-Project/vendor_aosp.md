@@ -1,6 +1,6 @@
 # Black-Iron-Project/vendor_aosp
 
-> Applied the same board and sdm660 vendor improvements: fixups for platform lists, DRM_PP enablement, board initialization, master-side cp support, and GMS/SystemUI refactors.
+> Aligned vendor configs: fixed board platform issues, enabled sdm660 DRM support and master-side CP, and refactored GMS/SystemUI settings.
 
 [![Contributions](https://contrib.rocks/image?repo=Black-Iron-Project/vendor_aosp)](https://github.com/Black-Iron-Project/vendor_aosp/graphs/contributions)
 
