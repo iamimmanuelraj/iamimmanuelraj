@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Hardened and adjusted build configuration—updated blobs/HALs, toggled permissive/build flags, disabled blur and device doze builds, and switched to standalone extraction and 4.14 HALs.
+> Updated sdm660-common with refreshed blobs and HALs, adjusted SELinux/build modes (enforcing/permissive), disabled blur by default, refreshed Bluetooth and build scripts, and switched to 4.14 HALs.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
