@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Maintained sdm660-common by refreshing proprietary blobs (including Bluetooth), adjusting SELinux/build rules (enforcing/permissive toggles), disabling blur by default, adding an extraction script, and switching to 4.14 HALs.
+> Maintained sdm660 common: updated proprietary blobs and HALs, adjusted SELinux/build permissive settings, disabled blur by default, refreshed Bluetooth/media components, and improved extraction/build scripts.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
