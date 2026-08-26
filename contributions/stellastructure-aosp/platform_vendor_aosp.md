@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Contributed BoardConfigQcom fixes and sdm660 DRM support, initialized board variables reliably, added master-side cp support, and refactored vendor GMS and SystemUI dexpreopt settings.
+> Applied the same vendor and BoardConfigQcom fixes: enabling sdm660 features, initializing board variables properly, GMS refactor, and dexpreopt adjustments for SystemUIGoogle.
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 
