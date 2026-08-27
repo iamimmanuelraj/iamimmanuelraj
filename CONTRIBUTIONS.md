@@ -4,7 +4,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [vimalds15/srm](./contributions/vimalds15/srm.md)
 
-> Polished the site UI and navigation by updating footers, adding home links and IDs, and introducing icons for admissions, campus life, and academics while renaming career to research and applying bot-related tweaks.->
+> Polished the site’s UI and navigation by adding icons and IDs for admission, campus life and academics, inserting a home link, and cleaning up footer and research/career labels.->
 
 [![Contributions](https://contrib.rocks/image?repo=vimalds15/srm)](https://github.com/vimalds15/srm/graphs/contributions)
 
@@ -12,7 +12,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [ImmanuelRajTheContributor/device_xiaomi_sdm660-common](./contributions/ImmanuelRajTheContributor/device_xiaomi_sdm660-common.md)
 
-> Maintained the sdm660 common tree: updated proprietary blobs and Bluetooth, adjusted SELinux/build enforcement and permissive states, disabled blur by default, switched to 4.14 HALs, and improved extraction/build scripts.->
+> Maintained sdm660-common by updating proprietary blobs and HALs, adjusting SELinux/build modes, disabling blur by default, and improving extraction/build scripts.->
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
@@ -20,7 +20,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [voidxog/android_device_xiaomi_lavender](./contributions/voidxog/android_device_xiaomi_lavender.md)
 
-> Improved lavender device configs: enabled proximity checks for DT2W, refined media profiles/codecs, added wifi overlay support, removed unneeded components, added AntHalService build, and enabled fsverity on userdata.->
+> Refined lavender device support: enabled proximity checks for DT2W, updated media profiles/codecs, added wifi overlays and fsverity, and removed unneeded services while tuning dexopt behavior.->
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 
@@ -28,7 +28,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [Amritorock/device_xiaomi_lavender](./contributions/Amritorock/device_xiaomi_lavender.md)
 
-> Applied sdm660-common updates to lavender—tuned media and wifi settings, removed legacy power manager bits, added AntHalService and fsverity support, migrated overlays to RRO, and updated GPS blobs.->
+> Applied sdm660-common improvements to lavender: media/profile updates, wifi overlay support, fsverity and AntHalService build, switched overlays to RRO, and refreshed GPS blobs.->
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
@@ -36,7 +36,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [TwistUI/vendor_aosp](./contributions/TwistUI/vendor_aosp.md)
 
-> Hardened vendor configs by fixing BoardConfigQcom issues, adding sdm660 DRM_PP support and master-side cp support, initializing board variables, refactoring GMS client ID handling, and dexpreopting SystemUIGoogle.->
+> Improved vendor AOSP board and vendor tooling: fixed BoardConfigQcom issues, enabled sdm660 DRM_PP and master-side CP support, refactored GMS client ID handling, and adjusted dexpreopt for SystemUI.->
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 
@@ -44,7 +44,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [stellastructure-aosp/platform_vendor_aosp](./contributions/stellastructure-aosp/platform_vendor_aosp.md)
 
-> Delivered vendor improvements: fixed BoardConfigQcom duplication, enabled sdm660 DRM_PP and master-side cp, initialized board variables earlier, refactored GMS client ID handling, and dexpreopted SystemUIGoogle.->
+> Updated platform vendor configs: resolved BoardConfigQcom bugs, enabled sdm660 DRM_PP/master-side CP support, refactored GMS handling, and tweaked SystemUI dexpreopt behavior.->
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 
@@ -52,7 +52,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [Black-Iron-Project/vendor_aosp](./contributions/Black-Iron-Project/vendor_aosp.md)
 
-> Updated vendor platform with BoardConfigQcom fixes, sdm660 DRM_PP/master-side cp support, board variable initialization, GMS client ID refactor, and SystemUIGoogle dexpreopt changes.->
+> Fixed BoardConfigQcom problems, enabled sdm660 DRM_PP and master-side CP, refactored GMS client ID setup, and adjusted dexpreopt for SystemUI.->
 
 [![Contributions](https://contrib.rocks/image?repo=Black-Iron-Project/vendor_aosp)](https://github.com/Black-Iron-Project/vendor_aosp/graphs/contributions)
 
@@ -60,7 +60,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [Ethereal-OS/vendor_ethereal](./contributions/Ethereal-OS/vendor_ethereal.md)
 
-> Brought vendor fixes and enhancements: corrected BoardConfigQcom issues, enabled sdm660 DRM_PP and master-side cp, improved board initialization, refactored GMS client ID logic, and applied SystemUIGoogle dexpreopt.->
+> Performed vendor AOSP maintenance: corrected BoardConfigQcom, enabled sdm660 DRM_PP/master CP, refactored GMS client ID logic, and updated SystemUI dexpreopt handling.->
 
 [![Contributions](https://contrib.rocks/image?repo=Ethereal-OS/vendor_ethereal)](https://github.com/Ethereal-OS/vendor_ethereal/graphs/contributions)
 
@@ -68,7 +68,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout](./contributions/ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout.md)
 
-> Cleaned up jasmine_sprout device config: adjusted branding and screen density, added battery capacity, stopped building TWRP, and removed an outdated build description.->
+> Polished jasmine_sprout device configs by updating branding, display density and battery capacity, removing TWRP builds, and simplifying build descriptions.->
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout/graphs/contributions)
 
@@ -76,7 +76,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [rtCamp/api_playwright_utils](./contributions/rtCamp/api_playwright_utils.md)
 
-> Kept the project healthy by merging multiple dependabot updates and adding a dependabot configuration to automate future dependency updates.->
+> Kept the project healthy by merging multiple Dependabot updates for key npm packages and adding a Dependabot configuration.->
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/api_playwright_utils)](https://github.com/rtCamp/api_playwright_utils/graphs/contributions)
 
@@ -84,7 +84,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [rtCamp/nginx-helper](./contributions/rtCamp/nginx-helper.md)
 
-> Merged dependency and CI updates, added the Copilot code-review runner, and introduced dependabot configuration to keep dependencies and workflows current.->
+> Merged maintenance and CI updates including Dependabot bumps and integration of a Copilot code-review runner for project upkeep.->
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/nginx-helper)](https://github.com/rtCamp/nginx-helper/graphs/contributions)
 
@@ -92,15 +92,23 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [rtCamp/wp-partytown](./contributions/rtCamp/wp-partytown.md)
 
-> Updated package dependencies via dependabot merges and added dependabot configuration to automate future updates.->
+> Updated dependencies via Dependabot (Partytown, simple-git, env) and added Dependabot configuration to automate future updates.->
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/wp-partytown)](https://github.com/rtCamp/wp-partytown/graphs/contributions)
 
 ---
 
+## [CrisBalGreece/legion_device_leeco_msm8996-common](./contributions/CrisBalGreece/legion_device_leeco_msm8996-common.md)
+
+> Brought MSM8996 common configs and media codecs up to date by importing carrier, fs and security config updates from LA.UM.9.6.3.->
+
+[![Contributions](https://contrib.rocks/image?repo=CrisBalGreece/legion_device_leeco_msm8996-common)](https://github.com/CrisBalGreece/legion_device_leeco_msm8996-common/graphs/contributions)
+
+---
+
 ## [PalladiumOS-Devices/device_qcom_common-sepolicy](./contributions/PalladiumOS-Devices/device_qcom_common-sepolicy.md)
 
-> Refined SEPolicy for legacy devices by adding c2 rules, removing vendor PE calls, fixing PE paths, and cleaning lmkd vendor prefixes.->
+> Hardened and cleaned up QCOM sepolicy for legacy devices: added c2 policies, adjusted vendor sepolicy handling and paths, and removed vendor prefix from lmkd rules.->
 
 [![Contributions](https://contrib.rocks/image?repo=PalladiumOS-Devices/device_qcom_common-sepolicy)](https://github.com/PalladiumOS-Devices/device_qcom_common-sepolicy/graphs/contributions)
 
@@ -108,7 +116,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [Project-LegionOS-old/hardware_interfaces](./contributions/Project-LegionOS-old/hardware_interfaces.md)
 
-> Synced hardware interfaces with upstream Android 11 by merging multiple release tags to keep the tree aligned with AOSP.->
+> Synced the hardware_interfaces tree with multiple Android 11 upstream tags to keep interfaces current.->
 
 [![Contributions](https://contrib.rocks/image?repo=Project-LegionOS-old/hardware_interfaces)](https://github.com/Project-LegionOS-old/hardware_interfaces/graphs/contributions)
 
@@ -116,7 +124,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [rtCamp/rtMedia](./contributions/rtCamp/rtMedia.md)
 
-> Refactored gallery search query logic and merged dependency/CI updates including the Copilot code-review runner and dependabot configuration.->
+> Refactored gallery search behavior, added Copilot code-review integration, and applied Dependabot-driven dependency maintenance.->
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/rtMedia)](https://github.com/rtCamp/rtMedia/graphs/contributions)
 
@@ -124,7 +132,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [LegionOS-wip/device_qcom_sepolicy_legacy-um](./contributions/LegionOS-wip/device_qcom_sepolicy_legacy-um.md)
 
-> Merged upstream LA.UM sepolicy tags, removed vbmeta/dtbo dev/block paths, and adapted paths for LegionOS legacy sepolicy.->
+> Merged upstream Qualcomm sepolicy tags and adapted policy paths for LegionOS, removing vbmeta/dtbo dev/block entries.->
 
 [![Contributions](https://contrib.rocks/image?repo=LegionOS-wip/device_qcom_sepolicy_legacy-um)](https://github.com/LegionOS-wip/device_qcom_sepolicy_legacy-um/graphs/contributions)
 
@@ -132,7 +140,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [ArrowOS-Devices/android_device_realme_RMX1801](./contributions/ArrowOS-Devices/android_device_realme_RMX1801.md)
 
-> Switched the RMX1801 device to an OpenGL rendering backend and cleaned up several graphics properties.->
+> Switched the RMX1801 device to an OpenGL rendering backend and removed obsolete graphic properties.->
 
 [![Contributions](https://contrib.rocks/image?repo=ArrowOS-Devices/android_device_realme_RMX1801)](https://github.com/ArrowOS-Devices/android_device_realme_RMX1801/graphs/contributions)
 
@@ -140,7 +148,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [rishav-r3/device_xiaomi_jasmine_sdm660-common](./contributions/rishav-r3/device_xiaomi_jasmine_sdm660-common.md)
 
-> Enhanced audio and telephony support by building libssrec/tinymix from source, restoring telephony injection, and fixing the camera interface for ViLTE calls.->
+> Enhanced sdm660-common audio/telephony by building libssrec and tinymix from source, restoring telephony injection, and fixing camera interface props for ViLTE.->
 
 [![Contributions](https://contrib.rocks/image?repo=rishav-r3/device_xiaomi_jasmine_sdm660-common)](https://github.com/rishav-r3/device_xiaomi_jasmine_sdm660-common/graphs/contributions)
 
@@ -148,7 +156,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [rtCamp/frappe_search](./contributions/rtCamp/frappe_search.md)
 
-> Integrated the Copilot code-review runner and added dependabot configuration to streamline dependency maintenance.->
+> Integrated a Copilot code-review runner and added Dependabot configuration as part of routine maintenance.->
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/frappe_search)](https://github.com/rtCamp/frappe_search/graphs/contributions)
 
@@ -156,15 +164,23 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [gianogli/android_device_xiaomi_lavender](./contributions/gianogli/android_device_xiaomi_lavender.md)
 
-> Enabled proximity checks for DT2W wake behavior and migrated overlay handling to RRO for lavender.->
+> Enabled proximity checks for DT2W and migrated overlays to RRO to modernize lavender device overlays.->
 
 [![Contributions](https://contrib.rocks/image?repo=gianogli/android_device_xiaomi_lavender)](https://github.com/gianogli/android_device_xiaomi_lavender/graphs/contributions)
 
 ---
 
+## [essaNAJJAR/device_xiaomi_sweet-1](./contributions/essaNAJJAR/device_xiaomi_sweet-1.md)
+
+> Enabled Camera2API for legacy targets and corrected camera interface properties to improve ViLTE behavior.->
+
+[![Contributions](https://contrib.rocks/image?repo=essaNAJJAR/device_xiaomi_sweet-1)](https://github.com/essaNAJJAR/device_xiaomi_sweet-1/graphs/contributions)
+
+---
+
 ## [firefly60/decommonized-device_xiaomi_miatoll](./contributions/firefly60/decommonized-device_xiaomi_miatoll.md)
 
-> Added ViLTE properties and enabled Camera2 API support for legacy miatoll targets to improve camera and call behavior.->
+> Added ViLTE properties and enabled Camera2API for legacy miatoll targets to improve camera and call interactions.->
 
 [![Contributions](https://contrib.rocks/image?repo=firefly60/decommonized-device_xiaomi_miatoll)](https://github.com/firefly60/decommonized-device_xiaomi_miatoll/graphs/contributions)
 
@@ -172,7 +188,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [shinchanbuilds/device_qcom_common](./contributions/shinchanbuilds/device_qcom_common.md)
 
-> Reordered Bluetooth config inheritance to use board configs first and conditioned telephony advancedscan properties for legacy platforms.->
+> Reordered Bluetooth config inheritance to prefer board configs and conditionally set telephony advancedscan for legacy platforms.->
 
 [![Contributions](https://contrib.rocks/image?repo=shinchanbuilds/device_qcom_common)](https://github.com/shinchanbuilds/device_qcom_common/graphs/contributions)
 
@@ -180,7 +196,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [Alioth-CAF-Device-Tree/device_qcom_common](./contributions/Alioth-CAF-Device-Tree/device_qcom_common.md)
 
-> Applied the same device-common fixes: inherit BT board configs before product configs and conditionally set telephony advancedscan for legacy platforms.->
+> Applied the same Bluetooth board/product config inheritance fixes and legacy telephony prop adjustments to the CAF device tree.->
 
 [![Contributions](https://contrib.rocks/image?repo=Alioth-CAF-Device-Tree/device_qcom_common)](https://github.com/Alioth-CAF-Device-Tree/device_qcom_common/graphs/contributions)
 
@@ -188,7 +204,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [rtCamp/snapwp](./contributions/rtCamp/snapwp.md)
 
-> Added a dependabot configuration and merged related maintenance chores to keep dependencies up to date.->
+> Added a Dependabot configuration to automate dependency updates and upkeep.->
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/snapwp)](https://github.com/rtCamp/snapwp/graphs/contributions)
 
@@ -196,7 +212,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [Project-Flexo/vendor_aosp](./contributions/Project-Flexo/vendor_aosp.md)
 
-> Refactored PRODUCT_GMS_CLIENTID_BASE handling and migrated SystemUI references to SystemUIGoogle to modernize vendor settings.->
+> Refactored vendor GMS client ID setup and replaced SystemUI references with SystemUIGoogle in vendor configurations.->
 
 [![Contributions](https://contrib.rocks/image?repo=Project-Flexo/vendor_aosp)](https://github.com/Project-Flexo/vendor_aosp/graphs/contributions)
 
@@ -204,7 +220,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [Project-LegionOS-old/packages_apps_Updater](./contributions/Project-LegionOS-old/packages_apps_Updater.md)
 
-> Switched the updater to use a dynamic changelog and fixed assorted issues to stabilize update metadata.->
+> Switched the updater to dynamic changelog generation and fixed assorted issues to improve update descriptions.->
 
 [![Contributions](https://contrib.rocks/image?repo=Project-LegionOS-old/packages_apps_Updater)](https://github.com/Project-LegionOS-old/packages_apps_Updater/graphs/contributions)
 
@@ -212,7 +228,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [RaiMaru24/sweet-dt](./contributions/RaiMaru24/sweet-dt.md)
 
-> Enabled Camera2 API for legacy targets and fixed the camera interface for ViLTE calls in sm6150-common.->
+> Enabled Camera2API for legacy sm6150 targets and fixed camera interface props for ViLTE in the device tree.->
 
 [![Contributions](https://contrib.rocks/image?repo=RaiMaru24/sweet-dt)](https://github.com/RaiMaru24/sweet-dt/graphs/contributions)
 
@@ -220,7 +236,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [rtCamp/rtbiz-affiliate](./contributions/rtCamp/rtbiz-affiliate.md)
 
-> Added dependabot configuration and merged maintenance changes to ensure dependencies are tracked and updated.->
+> Added Dependabot configuration to maintain dependencies and streamline updates.->
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/rtbiz-affiliate)](https://github.com/rtCamp/rtbiz-affiliate/graphs/contributions)
 
@@ -228,7 +244,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [abhishekpeddada/device_xiaomi_violet-1](./contributions/abhishekpeddada/device_xiaomi_violet-1.md)
 
-> Adjusted audio by adding two echo reference channels and fixed camera interface properties affecting ViLTE calls.->
+<!-- AI_DESC -->
 
 [![Contributions](https://contrib.rocks/image?repo=abhishekpeddada/device_xiaomi_violet-1)](https://github.com/abhishekpeddada/device_xiaomi_violet-1/graphs/contributions)
 
@@ -236,7 +252,7 @@ Projects I've contributed to — auto-updated every 6 hours.
 
 ## [tempp-1/android_device_qcom_common](./contributions/tempp-1/android_device_qcom_common.md)
 
-> Implemented device-common tweaks: inherit Bluetooth board configs before product configs and conditionally set telephony advancedscan for legacy platforms.->
+<!-- AI_DESC -->
 
 [![Contributions](https://contrib.rocks/image?repo=tempp-1/android_device_qcom_common)](https://github.com/tempp-1/android_device_qcom_common/graphs/contributions)
 
@@ -351,6 +367,46 @@ Projects I've contributed to — auto-updated every 6 hours.
 <!-- AI_DESC -->
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/AMP-Extensions-Mini-Plugins)](https://github.com/rtCamp/AMP-Extensions-Mini-Plugins/graphs/contributions)
+
+---
+
+## [Blackmanx/frameworks_base_derpfest](./contributions/Blackmanx/frameworks_base_derpfest.md)
+
+<!-- AI_DESC -->
+
+[![Contributions](https://contrib.rocks/image?repo=Blackmanx/frameworks_base_derpfest)](https://github.com/Blackmanx/frameworks_base_derpfest/graphs/contributions)
+
+---
+
+## [KekHunterOS/Manifest](./contributions/KekHunterOS/Manifest.md)
+
+<!-- AI_DESC -->
+
+[![Contributions](https://contrib.rocks/image?repo=KekHunterOS/Manifest)](https://github.com/KekHunterOS/Manifest/graphs/contributions)
+
+---
+
+## [pierdolnikxd/device_xiaomi_raphael](./contributions/pierdolnikxd/device_xiaomi_raphael.md)
+
+<!-- AI_DESC -->
+
+[![Contributions](https://contrib.rocks/image?repo=pierdolnikxd/device_xiaomi_raphael)](https://github.com/pierdolnikxd/device_xiaomi_raphael/graphs/contributions)
+
+---
+
+## [Sakura-Buildbot/hardware_xiaomi](./contributions/Sakura-Buildbot/hardware_xiaomi.md)
+
+<!-- AI_DESC -->
+
+[![Contributions](https://contrib.rocks/image?repo=Sakura-Buildbot/hardware_xiaomi)](https://github.com/Sakura-Buildbot/hardware_xiaomi/graphs/contributions)
+
+---
+
+## [MSM8953-Tree/android_device_xiaomi_onclite](./contributions/MSM8953-Tree/android_device_xiaomi_onclite.md)
+
+<!-- AI_DESC -->
+
+[![Contributions](https://contrib.rocks/image?repo=MSM8953-Tree/android_device_xiaomi_onclite)](https://github.com/MSM8953-Tree/android_device_xiaomi_onclite/graphs/contributions)
 
 ---
 

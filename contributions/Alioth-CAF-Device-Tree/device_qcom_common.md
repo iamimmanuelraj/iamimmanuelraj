@@ -1,6 +1,6 @@
 # Alioth-CAF-Device-Tree/device_qcom_common
 
-> Applied the same device-common fixes: inherit BT board configs before product configs and conditionally set telephony advancedscan for legacy platforms.
+> Applied the same Bluetooth board/product config inheritance fixes and legacy telephony prop adjustments to the CAF device tree.
 
 [![Contributions](https://contrib.rocks/image?repo=Alioth-CAF-Device-Tree/device_qcom_common)](https://github.com/Alioth-CAF-Device-Tree/device_qcom_common/graphs/contributions)
 
