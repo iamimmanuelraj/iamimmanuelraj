@@ -1,6 +1,6 @@
 # rtCamp/wp-partytown
 
-> Updated Partytown and environment dependencies via Dependabot and added Dependabot configuration for ongoing maintenance.
+> Brought dependencies and CI up to date via dependabot updates and added dependabot configuration to keep the project secure.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/wp-partytown)](https://github.com/rtCamp/wp-partytown/graphs/contributions)
 
