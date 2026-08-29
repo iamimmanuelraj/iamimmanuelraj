@@ -1,6 +1,6 @@
 # essaNAJJAR/device_xiaomi_sweet-1
 
-> Enabled Camera2API properties and fixed camera interface props to improve ViLTE compatibility on sm6150-based devices.
+> Enabled Camera2 API for legacy targets and fixed camera interface properties for ViLTE.
 
 [![Contributions](https://contrib.rocks/image?repo=essaNAJJAR/device_xiaomi_sweet-1)](https://github.com/essaNAJJAR/device_xiaomi_sweet-1/graphs/contributions)
 

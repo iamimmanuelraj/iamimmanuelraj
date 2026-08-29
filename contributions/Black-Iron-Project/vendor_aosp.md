@@ -1,6 +1,6 @@
 # Black-Iron-Project/vendor_aosp
 
-> Implemented BoardConfigQcom cleanups and sdm660 enhancements plus vendor GMS and SystemUI dexpreopt refactoring for better compatibility.
+> Applied BoardConfigQcom and sdm660 enhancements, refactored GMS client ID handling, and adjusted dexpreopt for SystemUIGoogle.
 
 [![Contributions](https://contrib.rocks/image?repo=Black-Iron-Project/vendor_aosp)](https://github.com/Black-Iron-Project/vendor_aosp/graphs/contributions)
 
