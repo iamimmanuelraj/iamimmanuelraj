@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Made upstream device improvements: enabled proximity checks, updated media/GPS blobs, migrated overlays to RRO, removed redundant flags/services, added fsverity and build-system refinements.
+> Applied shared sdm660-common improvements (media profiles, wifi overlays, ESE removal, AntHalService, fsverity), enabled proximity checks, switched overlays to RRO, and refreshed GPS blobs from LA sources.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
