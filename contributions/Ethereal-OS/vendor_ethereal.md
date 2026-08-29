@@ -1,6 +1,6 @@
 # Ethereal-OS/vendor_ethereal
 
-> Updated vendor AOSP with Qualcomm board fixes, sdm660 DRM_PP/master-CP support, GMS client ID refactor, and SystemUIGoogle dexpreopt changes.
+> Updated vendor layer with sdm660-focused fixes: DRM_PP enablement, board init/duplication fixes, master-side cp support, GMS client refactor, and SystemUIGoogle dexpreopt adjustments.
 
 [![Contributions](https://contrib.rocks/image?repo=Ethereal-OS/vendor_ethereal)](https://github.com/Ethereal-OS/vendor_ethereal/graphs/contributions)
 

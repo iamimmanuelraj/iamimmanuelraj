@@ -1,6 +1,6 @@
 # rtCamp/frappe_search
 
-> Added copilot-code-review-runner and dependabot configuration as part of routine project maintenance.
+> Merged maintenance updates including a copilot code-review runner and dependabot configuration to keep dependencies and tooling current.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/frappe_search)](https://github.com/rtCamp/frappe_search/graphs/contributions)
 
