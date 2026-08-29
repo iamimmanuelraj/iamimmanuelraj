@@ -1,6 +1,6 @@
 # Project-LegionOS-old/packages_apps_Updater
 
-> Switched updater to a dynamic changelog system and fixed miscellaneous updater issues.
+> Switched the updater to use a dynamic changelog and fixed assorted issues to improve release notes and stability.
 
 [![Contributions](https://contrib.rocks/image?repo=Project-LegionOS-old/packages_apps_Updater)](https://github.com/Project-LegionOS-old/packages_apps_Updater/graphs/contributions)
 
