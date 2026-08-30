@@ -1,6 +1,6 @@
 # Ethereal-OS/vendor_ethereal
 
-> Merged Qualcomm board and vendor refinements: enabled sdm660 DRM_PP/master-side support, fixed board duplicates, and updated GMS/SystemUI dexpreopt logic.
+> Applied vendor/aosp improvements: BoardConfigQcom fixes, sdm660 DRM_PP and Master CP support, GMS client ID refactor, and SystemUI dexpreopt adjustments.
 
 [![Contributions](https://contrib.rocks/image?repo=Ethereal-OS/vendor_ethereal)](https://github.com/Ethereal-OS/vendor_ethereal/graphs/contributions)
 
