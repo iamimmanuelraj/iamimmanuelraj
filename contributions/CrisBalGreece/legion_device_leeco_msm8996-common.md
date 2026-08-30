@@ -1,6 +1,6 @@
 # CrisBalGreece/legion_device_leeco_msm8996-common
 
-> Updated msm8996-common with carrier, fs, security configs and media codecs from an LA.UM release to refresh device firmware components.
+> Updated MSM8996 common blobs and configuration by refreshing carrier, sec, config.fs, and media codec files from upstream LA.UM release.
 
 [![Contributions](https://contrib.rocks/image?repo=CrisBalGreece/legion_device_leeco_msm8996-common)](https://github.com/CrisBalGreece/legion_device_leeco_msm8996-common/graphs/contributions)
 
