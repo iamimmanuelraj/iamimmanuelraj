@@ -1,6 +1,6 @@
 # firefly60/decommonized-device_xiaomi_miatoll
 
-> Added ViLTE-related properties and enabled Camera2 API on Miatoll to improve legacy camera/telephony integration.
+> Added ViLTE properties and enabled Camera2 API for legacy Miatoll targets to improve camera/telephony behavior.
 
 [![Contributions](https://contrib.rocks/image?repo=firefly60/decommonized-device_xiaomi_miatoll)](https://github.com/firefly60/decommonized-device_xiaomi_miatoll/graphs/contributions)
 
