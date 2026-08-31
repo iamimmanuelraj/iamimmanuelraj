@@ -1,6 +1,6 @@
 # Ethereal-OS/vendor_ethereal
 
-> Applied vendor/aosp improvements: BoardConfigQcom fixes, sdm660 DRM_PP and Master CP support, GMS client ID refactor, and SystemUI dexpreopt adjustments.
+> Synchronized vendor config improvements for Qcom sdm660: board fixes, DRM_PP/master CP enablement, board variable initialization, and GMS/SystemUI refactors.
 
 [![Contributions](https://contrib.rocks/image?repo=Ethereal-OS/vendor_ethereal)](https://github.com/Ethereal-OS/vendor_ethereal/graphs/contributions)
 
