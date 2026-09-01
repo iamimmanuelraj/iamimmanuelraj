@@ -1,6 +1,6 @@
 # rtCamp/frappe_search
 
-> Added CI support and dependency maintenance by merging a copilot-code-review runner and adding dependabot configuration.
+> Merged maintenance changes that add a Copilot code-review runner and Dependabot configuration.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/frappe_search)](https://github.com/rtCamp/frappe_search/graphs/contributions)
 

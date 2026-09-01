@@ -1,6 +1,6 @@
 # rishav-r3/device_xiaomi_jasmine_sdm660-common
 
-> Restored and improved audio/telephony functionality by building libssrec and tinymix, reintroducing telephony injection, and fixing camera interface properties for ViLTE calls.
+> Restored telephony injection, built audio components (libssrec/tinymix) from source, and fixed camera interface props for ViLTE calls.
 
 [![Contributions](https://contrib.rocks/image?repo=rishav-r3/device_xiaomi_jasmine_sdm660-common)](https://github.com/rishav-r3/device_xiaomi_jasmine_sdm660-common/graphs/contributions)
 
