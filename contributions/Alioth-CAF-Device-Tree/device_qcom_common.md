@@ -1,6 +1,6 @@
 # Alioth-CAF-Device-Tree/device_qcom_common
 
-> Aligned QCOM common config behavior by inheriting board BT configs earlier and conditioning telephony advanced-scan props for legacy targets.
+> Applied the same config-ordering and telephony property conditional fixes to the CAF device_qcom_common tree.
 
 [![Contributions](https://contrib.rocks/image?repo=Alioth-CAF-Device-Tree/device_qcom_common)](https://github.com/Alioth-CAF-Device-Tree/device_qcom_common/graphs/contributions)
 

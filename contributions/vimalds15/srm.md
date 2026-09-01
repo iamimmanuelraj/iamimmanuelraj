@@ -1,6 +1,6 @@
 # vimalds15/srm
 
-> Improved site navigation and presentation by adding home links and IDs, updating footer content, and adding/adjusting icons for admission, campus life, academics and research/career, plus some bot-related housekeeping.
+> Improved site navigation and visuals by adding IDs, links and icons for admission, campus life, academics and research (renamed from career), plus footer tweaks and minor bot-related housekeeping.
 
 [![Contributions](https://contrib.rocks/image?repo=vimalds15/srm)](https://github.com/vimalds15/srm/graphs/contributions)
 
