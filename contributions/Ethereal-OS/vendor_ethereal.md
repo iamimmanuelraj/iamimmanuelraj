@@ -1,6 +1,6 @@
 # Ethereal-OS/vendor_ethereal
 
-> Synchronized board config and sdm660 enhancements, initializing board variables correctly and refactoring vendor GMS and SystemUI dexpreopt behavior.
+> Synchronized vendor platform changes: Qcom board fixes, sdm660 support additions, GMS refactor and SystemUI dexpreopt work.
 
 [![Contributions](https://contrib.rocks/image?repo=Ethereal-OS/vendor_ethereal)](https://github.com/Ethereal-OS/vendor_ethereal/graphs/contributions)
 
