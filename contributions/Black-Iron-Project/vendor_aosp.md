@@ -1,6 +1,6 @@
 # Black-Iron-Project/vendor_aosp
 
-> Fixed duplicate board platform issues, enabled sdm660 DRM_PP, initialized board variables correctly, and refactored GMS/dexpreopt vendor settings.
+> Applied BoardConfig and vendor improvements: resolved duplicate platform issues, enabled sdm660 DRM_PP, initialized board vars correctly, and refactored GMS/SystemUI dexpreopt handling.
 
 [![Contributions](https://contrib.rocks/image?repo=Black-Iron-Project/vendor_aosp)](https://github.com/Black-Iron-Project/vendor_aosp/graphs/contributions)
 

@@ -1,6 +1,6 @@
 # rtCamp/nginx-helper
 
-> Integrated CI and maintenance updates—merged dependabot and copilot-code-review-runner PRs and added Dependabot configuration.
+> Integrated CI/dependency maintenance and automation: merged dependabot updates, added dependabot config, and introduced a copilot-code-review CI runner.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/nginx-helper)](https://github.com/rtCamp/nginx-helper/graphs/contributions)
 
