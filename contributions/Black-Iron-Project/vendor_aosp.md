@@ -1,6 +1,6 @@
 # Black-Iron-Project/vendor_aosp
 
-> Refined vendor build logic for sdm660: fixed board platform issues, enabled DRM_PP/master CP support, refactored GMS client ID handling, and adjusted SystemUI pre-optimization.
+> Applied Qualcomm boardconfig fixes and vendor improvements: sdm660 DRM_PP/master-CP support, Board initialization fixes, and GMS/SystemUIGoogle tweaks.
 
 [![Contributions](https://contrib.rocks/image?repo=Black-Iron-Project/vendor_aosp)](https://github.com/Black-Iron-Project/vendor_aosp/graphs/contributions)
 

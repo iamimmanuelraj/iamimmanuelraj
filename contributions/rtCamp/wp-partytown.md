@@ -1,6 +1,6 @@
 # rtCamp/wp-partytown
 
-> Updated package dependencies and CI safety by merging dependency bumps and adding Dependabot configuration.
+> Updated package dependencies via Dependabot and added Dependabot configuration for ongoing maintenance.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/wp-partytown)](https://github.com/rtCamp/wp-partytown/graphs/contributions)
 
