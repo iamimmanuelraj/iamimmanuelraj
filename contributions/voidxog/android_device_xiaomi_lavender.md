@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Enabled proximity checks for DT2W on lavender and applied sdm660-common fixes including media/profile updates, GC changes, wifi overlays, removal of ese power manager, AntHalService build and userdata fsverity flag.
+> Device tweaks for lavender: enabled proximity checks for dt2w, updated media profiles/codecs, added Wi‑Fi and fsverity options, and cleaned up services and build flags.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 
