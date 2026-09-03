@@ -1,6 +1,6 @@
 # rtCamp/wp-partytown
 
-> Updated Partytown and related deps via dependabot and added dependabot configuration.
+> Updated JavaScript dependencies via dependabot merges and added a dependabot configuration to keep packages current.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/wp-partytown)](https://github.com/rtCamp/wp-partytown/graphs/contributions)
 
