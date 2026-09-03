@@ -1,6 +1,6 @@
 # vimalds15/srm
 
-> Updated the site UI and navigation—tweaked the footer, added IDs and links (home), added icons for admission, campus life and academics, and renamed/updated the career → research icon and link.
+> Refined the site UI and navigation—added icons and IDs for admissions, campus life and academics, updated footer and home links, adjusted the research/career link, and applied some bot-related tweaks.
 
 [![Contributions](https://contrib.rocks/image?repo=vimalds15/srm)](https://github.com/vimalds15/srm/graphs/contributions)
 
