@@ -1,6 +1,6 @@
 # Project-LegionOS-old/packages_apps_Updater
 
-> Switched the updater to dynamic changelogs and applied miscellaneous fixes to improve update metadata.
+> Moved to a dynamic changelog and applied small fixes to improve updater metadata and behavior.
 
 [![Contributions](https://contrib.rocks/image?repo=Project-LegionOS-old/packages_apps_Updater)](https://github.com/Project-LegionOS-old/packages_apps_Updater/graphs/contributions)
 

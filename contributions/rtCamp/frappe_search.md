@@ -1,6 +1,6 @@
 # rtCamp/frappe_search
 
-> Merged automation and dependency upkeep changes, adding a Copilot code-review runner and Dependabot configuration.
+> Merged maintenance PRs including Dependabot and added a Copilot code-review runner to keep dependencies and CI up to date.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/frappe_search)](https://github.com/rtCamp/frappe_search/graphs/contributions)
 
