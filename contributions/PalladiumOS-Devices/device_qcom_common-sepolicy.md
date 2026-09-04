@@ -1,6 +1,6 @@
 # PalladiumOS-Devices/device_qcom_common-sepolicy
 
-> Adjusted QCOM SEPolicy for legacy targets: added c2 policy, corrected PE paths, removed vendor prefix from lmkd, and stopped invoking PE's sepolicy.
+> Improved QCOM sepolicy for legacy devices by adding c2 rules, correcting paths, removing vendor prefixes, and adjusting PE-related policy behavior.
 
 [![Contributions](https://contrib.rocks/image?repo=PalladiumOS-Devices/device_qcom_common-sepolicy)](https://github.com/PalladiumOS-Devices/device_qcom_common-sepolicy/graphs/contributions)
 

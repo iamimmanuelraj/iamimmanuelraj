@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Refined lavender device configs—updated media and GPS components, migrated overlays to RRO, enabled GC and wifi options, removed ese power manager, and added fsverity and AntHalService support.
+> Improved lavender device configs with proximity DT2W checks, media/profile updates, vendor overlay refinements (including RRO), fsverity support and GPS updates from upstream.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
