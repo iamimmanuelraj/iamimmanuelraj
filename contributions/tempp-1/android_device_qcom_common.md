@@ -1,6 +1,6 @@
 # tempp-1/android_device_qcom_common
 
-> Inherited board configs before product configs and conditionally set telephony advancedscan for legacy platforms to tidy platform configuration.
+<!-- AI_DESC -->
 
 [![Contributions](https://contrib.rocks/image?repo=tempp-1/android_device_qcom_common)](https://github.com/tempp-1/android_device_qcom_common/graphs/contributions)
 

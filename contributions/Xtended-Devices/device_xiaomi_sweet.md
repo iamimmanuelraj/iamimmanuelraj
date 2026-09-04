@@ -1,6 +1,6 @@
 # Xtended-Devices/device_xiaomi_sweet
 
-> Enabled Camera2 API and corrected ViLTE camera interface properties on sm6150 targets to improve legacy camera/telephony behavior.
+<!-- AI_DESC -->
 
 [![Contributions](https://contrib.rocks/image?repo=Xtended-Devices/device_xiaomi_sweet)](https://github.com/Xtended-Devices/device_xiaomi_sweet/graphs/contributions)
 

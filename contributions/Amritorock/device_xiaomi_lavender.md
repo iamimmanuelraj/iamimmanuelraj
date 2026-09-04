@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Applied sdm660 platform improvements: removed SysUI from dexopt, updated media profiles/codecs, added fsverity and Wi‑Fi support, switched overlays to RRO and synced GPS from downstream.
+> Applied device improvements for lavender: media/profile updates, removed redundant vendor flags, added Wi‑Fi overlay support, switched overlays to RRO, removed ESE power manager, built AntHalService, added fsverity, and updated GPS blobs.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

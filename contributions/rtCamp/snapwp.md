@@ -1,6 +1,6 @@
 # rtCamp/snapwp
 
-> Added Dependabot configuration and performed routine dependency/maintenance merges to keep CI and dependencies current.
+> Added a Dependabot configuration to automate dependency updates and maintenance.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/snapwp)](https://github.com/rtCamp/snapwp/graphs/contributions)
 
