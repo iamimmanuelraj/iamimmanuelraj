@@ -1,6 +1,6 @@
 # essaNAJJAR/device_xiaomi_sweet-1
 
-> Enabled Camera2 API for legacy targets and fixed the camera interface for ViLTE on sweet-1.
+> Enabled Camera2 API for legacy Sweet-1 targets and fixed the camera interface to improve ViLTE compatibility.
 
 [![Contributions](https://contrib.rocks/image?repo=essaNAJJAR/device_xiaomi_sweet-1)](https://github.com/essaNAJJAR/device_xiaomi_sweet-1/graphs/contributions)
 
