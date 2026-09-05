@@ -1,6 +1,6 @@
 # vimalds15/srm
 
-> Polished site navigation and UI: added footer tweaks, new home link and element IDs, and introduced icons while renaming “career” to “research” for clearer labeling.
+> Polished site UI and navigation: updated footer, added home link and multiple section icons/IDs, and refined labels (e.g., research/career) to improve site structure and accessibility.
 
 [![Contributions](https://contrib.rocks/image?repo=vimalds15/srm)](https://github.com/vimalds15/srm/graphs/contributions)
 

@@ -1,6 +1,6 @@
 # Ethereal-OS/vendor_ethereal
 
-> Vendor tweaks: fixed BoardConfig duplication, added sdm660 DRM and CP support, refactored GMS client ID logic, and pre-optimized SystemUI.
+> Vendor build updates: fixed BoardConfigQcom duplicates, enabled sdm660 DRM_PP and master CP, refactored GMS client ID base, and dexpreopt changes for SystemUIGoogle.
 
 [![Contributions](https://contrib.rocks/image?repo=Ethereal-OS/vendor_ethereal)](https://github.com/Ethereal-OS/vendor_ethereal/graphs/contributions)
 

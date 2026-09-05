@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Updated lavender device configs: enabled proximity wake checks, migrated overlays to RRO, refreshed media profiles, enabled AntHalService, added fsverity, and updated GPS blobs.
+> Shared lavender improvements: removed SysUI from dexopt, refreshed media profiles/codecs, migrated overlays to RRO, added wifi support, built AntHalService, added fsverity, and updated GPS blobs.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
