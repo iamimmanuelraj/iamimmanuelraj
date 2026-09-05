@@ -1,6 +1,6 @@
 # rtCamp/snapwp
 
-> Added a Dependabot configuration to automate dependency updates and maintenance.
+> Added dependabot configuration and merged maintenance chore PR.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/snapwp)](https://github.com/rtCamp/snapwp/graphs/contributions)
 
