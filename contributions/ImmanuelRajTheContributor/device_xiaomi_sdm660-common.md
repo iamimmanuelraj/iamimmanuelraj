@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Hardened build and blob management: enforced permissive/permissive build modes, updated vendor blobs and Bluetooth, switched to standalone extraction and 4.14 HALs, and toggled features like blur and Device Doze.
+> Maintained sdm660 common: enforced build rules, updated vendor/blobs (Bluetooth/media), toggled build/SELinux permissiveness, disabled blur by default, moved to a standalone extraction script, and switched to 4.14 HALs.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 

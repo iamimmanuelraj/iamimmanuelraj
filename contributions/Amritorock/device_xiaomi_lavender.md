@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Shared lavender improvements: removed SysUI from dexopt, refreshed media profiles/codecs, migrated overlays to RRO, added wifi support, built AntHalService, added fsverity, and updated GPS blobs.
+> Applied sdm660-common updates to lavender: removed SysUI dexopt entries, refreshed media codecs, added Wi‑Fi options and fsverity, switched overlays to RRO, and updated GPS blobs.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
