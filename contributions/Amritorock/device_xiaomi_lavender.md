@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Enhanced lavender device configs—enabled proximity DT2W, updated media profiles, switched overlays to RRO, added fsverity, and updated GPS blobs.
+> Applied common sdm660 improvements: media/profile updates, switched overlays to RRO, added wifi options, removed vendor-duplicated flags, enabled fsverity, built AntHalService, and updated GPS blobs.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
