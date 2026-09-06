@@ -1,6 +1,6 @@
 # Ethereal-OS/vendor_ethereal
 
-> Carried BoardConfigQcom fixes and sdm660 enhancements, refactored PRODUCT_GMS_CLIENTID_BASE handling and adjusted SystemUI dexpreopt behavior.
+> Applied BoardConfigQcom and sdm660 vendor fixes, added master-side cp support, reverted UM upgrade path, refactored GMS clientid handling, and dexpreopt SystemUI updates.
 
 [![Contributions](https://contrib.rocks/image?repo=Ethereal-OS/vendor_ethereal)](https://github.com/Ethereal-OS/vendor_ethereal/graphs/contributions)
 
