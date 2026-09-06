@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Refined lavender device support and common sdm660 components: proximity/dt2w tweaks, media/profile updates, Wi‑Fi overlays, GC and userdata flags, and service/build cleanups.
+> Improved lavender device support by enabling proximity DT2W checks, updating media profiles/codecs and wifi overlays, adjusting build components, and adding fsverity and AntHalService support.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 
