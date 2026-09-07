@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Improved BoardConfigQcom handling for sdm660 (DRM_PP, board init and MCP fixes), added master-side CP support, refactored GMS client ID handling, and adjusted SystemUI dexpreopt behavior.
+> Improved BoardConfigQcom for sdm660 (DRM_PP, board init, MCP fixes), added master-side CP support, refactored GMS client ID handling, and enabled Dexpreopt for SystemUIGoogle.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 

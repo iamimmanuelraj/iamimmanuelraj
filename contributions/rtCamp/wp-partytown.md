@@ -1,6 +1,6 @@
 # rtCamp/wp-partytown
 
-> Updated multiple npm dependencies via Dependabot and added Dependabot configuration to keep the project secure and up to date.
+> Updated package dependencies via dependabot and added Dependabot configuration to keep the project secure and up to date.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/wp-partytown)](https://github.com/rtCamp/wp-partytown/graphs/contributions)
 
