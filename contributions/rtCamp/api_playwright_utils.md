@@ -1,6 +1,6 @@
 # rtCamp/api_playwright_utils
 
-> Kept the package secure and current by merging multiple dependabot updates and adding a dependabot configuration.
+> Maintained dependencies and CI hygiene by merging multiple Dependabot updates and adding a Dependabot configuration.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/api_playwright_utils)](https://github.com/rtCamp/api_playwright_utils/graphs/contributions)
 
