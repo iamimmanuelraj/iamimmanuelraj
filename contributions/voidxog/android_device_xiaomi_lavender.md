@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Refined lavender device support: removed SysUI from dexopt, enabled proximity checks for DT2W, updated media profiles/codecs, cleaned vendor flags, added wifi overlays, removed ESE power manager, built AntHalService, and enabled fsverity.
+> Applied device patches: enabled proximity checks for DT2W, updated media profiles/codecs, added wifi options and fsverity flag, removed SysUI from dexpreopt, and built AntHalService.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 

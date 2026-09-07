@@ -1,6 +1,6 @@
 # rtCamp/rtbiz-affiliate
 
-> Added a Dependabot configuration for dependency maintenance.
+> Added a dependabot configuration to start automating dependency updates.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/rtbiz-affiliate)](https://github.com/rtCamp/rtbiz-affiliate/graphs/contributions)
 

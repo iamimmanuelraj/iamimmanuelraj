@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Updated vendor platform configs: fixed BoardConfigQcom issues, added sdm660 DRM_PP/supports, refactored GMS client ID logic, and applied dexpreopt changes for SystemUIGoogle.
+> Applied the same vendor fixes: sdm660 board/DRM improvements, GMS client refactor, board initialization fixes, and SystemUI dexpreopt adjustments.
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 
