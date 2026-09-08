@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Applied device optimizations and upstream updates: enabled proximity DT2W checks, refreshed media profiles/codecs, migrated overlays to RRO, removed redundant vendor flags, and updated GPS blobs from upstream.
+> Updated lavender device configs with media/profile and codec refreshes, DT2W proximity improvements, switched overlays to RRO, added fsverity and wifi support, and refreshed GPS blobs.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

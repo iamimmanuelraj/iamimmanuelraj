@@ -1,6 +1,6 @@
 # rtCamp/wp-partytown
 
-> Maintained dependency hygiene by merging dependabot updates and adding dependabot configuration to keep Partytown and related packages current.
+> Updated dependencies and CI helpers and added dependabot configuration to keep Partytown and related packages current.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/wp-partytown)](https://github.com/rtCamp/wp-partytown/graphs/contributions)
 

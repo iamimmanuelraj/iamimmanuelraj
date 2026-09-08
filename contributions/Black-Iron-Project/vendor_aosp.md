@@ -1,6 +1,6 @@
 # Black-Iron-Project/vendor_aosp
 
-> Streamlined vendor configuration: fixed BoardConfigQcom dupes, added sdm660 DRM_PP and master-side CP support, refactored GMS client ID handling, and dexpreopted SystemUIGoogle.
+> Made vendor enhancements mirroring BoardConfigQcom fixes, sdm660 DRM_PP/master-CP support, GMS refactor, and SystemUI dexpreopt adjustments.
 
 [![Contributions](https://contrib.rocks/image?repo=Black-Iron-Project/vendor_aosp)](https://github.com/Black-Iron-Project/vendor_aosp/graphs/contributions)
 

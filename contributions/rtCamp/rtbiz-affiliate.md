@@ -1,6 +1,6 @@
 # rtCamp/rtbiz-affiliate
 
-> Added maintenance automation by introducing dependabot configuration to manage dependency updates and security patches.
+> Added dependabot configuration to automate dependency maintenance for the affiliate plugin.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/rtbiz-affiliate)](https://github.com/rtCamp/rtbiz-affiliate/graphs/contributions)
 
