@@ -1,6 +1,6 @@
 # rtCamp/frappe_search
 
-> Merged maintenance updates including a copilot runner addition and Dependabot configuration to keep dependencies secure.
+> Added maintenance updates: merged copilot code-review runner and dependabot configuration to keep dependencies and CI healthy.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/frappe_search)](https://github.com/rtCamp/frappe_search/graphs/contributions)
 

@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Applied core sdm660-common improvements—media profile updates, removed redundant flags, added wifi support, fsverity, AntHalService build—and migrated overlays to RRO plus updated GPS blobs.
+> Applied device optimizations and upstream updates: enabled proximity DT2W checks, refreshed media profiles/codecs, migrated overlays to RRO, removed redundant vendor flags, and updated GPS blobs from upstream.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
