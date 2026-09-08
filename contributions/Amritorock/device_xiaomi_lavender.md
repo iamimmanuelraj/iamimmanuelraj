@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Applied sdm660-common updates across overlays and device configs: removed Sysui from dexopt, refreshed media profiles/codecs, migrated overlays to RRO, added fsverity, built AntHalService, and updated GPS blobs.
+> Applied shared sdm660-common refinements, switched overlays to RRO, and updated GPS stacks from upstream blobs.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
