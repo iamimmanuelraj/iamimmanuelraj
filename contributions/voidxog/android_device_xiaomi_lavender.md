@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Polished lavender device support: enabled proximity checks for DT2W, updated media profiles/codecs, added Wi‑Fi overlay options, removed obsolete flags/power manager, and adjusted build/dexopt and fsverity settings.
+> Enabled proximity checks for double‑tap‑to‑wake, updated media profiles/codecs and system flags, and merged multiple sdm660-common fixes (wifi overlays, fsverity, gc and other vendor tweaks).
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 
