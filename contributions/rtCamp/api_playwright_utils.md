@@ -1,6 +1,6 @@
 # rtCamp/api_playwright_utils
 
-> Kept dependencies and CI tooling up to date by merging Dependabot upgrades and adding Dependabot configuration.
+> Kept the project secure and current by merging Dependabot updates for Node/Yarn and Playwright and adding a Dependabot configuration.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/api_playwright_utils)](https://github.com/rtCamp/api_playwright_utils/graphs/contributions)
 

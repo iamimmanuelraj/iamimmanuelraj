@@ -5,3 +5,4 @@
 [![Contributions](https://contrib.rocks/image?repo=DroidX-UI-Devices/device_xiaomi_raphael)](https://github.com/DroidX-UI-Devices/device_xiaomi_raphael/graphs/contributions)
 
 ### Recent commits
+- raphael: props: Fix cam interface on vilte calls
