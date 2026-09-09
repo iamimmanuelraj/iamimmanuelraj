@@ -5,4 +5,3 @@
 [![Contributions](https://contrib.rocks/image?repo=vishakh53/DT_Raphael)](https://github.com/vishakh53/DT_Raphael/graphs/contributions)
 
 ### Recent commits
-- raphael: props: Fix cam interface on vilte calls

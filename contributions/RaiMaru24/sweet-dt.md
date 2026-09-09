@@ -1,6 +1,6 @@
 # RaiMaru24/sweet-dt
 
-> Enabled Camera2 API for sm6150 legacy targets and corrected ViLTE camera interface properties.
+> Enabled Camera2API and corrected ViLTE camera interface properties for sm6150-based device trees.
 
 [![Contributions](https://contrib.rocks/image?repo=RaiMaru24/sweet-dt)](https://github.com/RaiMaru24/sweet-dt/graphs/contributions)
 

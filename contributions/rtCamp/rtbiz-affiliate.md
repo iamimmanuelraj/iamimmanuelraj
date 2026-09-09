@@ -1,6 +1,6 @@
 # rtCamp/rtbiz-affiliate
 
-> Added Dependabot configuration to help keep project dependencies current.
+> Added Dependabot configuration to automate dependency management for rtbiz‑affiliate.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/rtbiz-affiliate)](https://github.com/rtCamp/rtbiz-affiliate/graphs/contributions)
 
