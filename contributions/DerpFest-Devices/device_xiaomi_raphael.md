@@ -5,4 +5,3 @@
 [![Contributions](https://contrib.rocks/image?repo=DerpFest-Devices/device_xiaomi_raphael)](https://github.com/DerpFest-Devices/device_xiaomi_raphael/graphs/contributions)
 
 ### Recent commits
-- raphael: props: Fix cam interface on vilte calls

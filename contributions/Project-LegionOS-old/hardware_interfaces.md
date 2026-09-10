@@ -1,6 +1,6 @@
 # Project-LegionOS-old/hardware_interfaces
 
-> Synced hardware_interfaces with Android 11 tags (merged release tags r33–r39) to keep upstream compatibility.
+> Synced hardware_interfaces with multiple Android 11 release tags to keep the tree aligned with upstream.
 
 [![Contributions](https://contrib.rocks/image?repo=Project-LegionOS-old/hardware_interfaces)](https://github.com/Project-LegionOS-old/hardware_interfaces/graphs/contributions)
 
