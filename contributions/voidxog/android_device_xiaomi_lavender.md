@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Enabled proximity checks for double‑tap‑to‑wake, updated media profiles/codecs and system flags, and merged multiple sdm660-common fixes (wifi overlays, fsverity, gc and other vendor tweaks).
+> Refined lavender device config: enabled DT2W proximity checks, removed SysUI from dexopt, updated media/Wi‑Fi overlays and codecs, added fsverity, and built AntHalService.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 

@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Improved vendor build configs: fixed BoardConfigQcom initialization/duplicates, added sdm660 DRM_PP and master‑side CP support, and refactored vendor GMS/SystemUI handling.
+> Hardened vendor build configs: fixed BoardConfigQcom duplicates, enabled sdm660 DRM_PP and master-side CP, initialized board vars properly, refactored GMS client ID handling, and dexpreopt SystemUIGoogle.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 

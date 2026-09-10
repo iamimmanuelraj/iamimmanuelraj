@@ -5,4 +5,3 @@
 [![Contributions](https://contrib.rocks/image?repo=ProtonAOSP-NS/frameworks_base)](https://github.com/ProtonAOSP-NS/frameworks_base/graphs/contributions)
 
 ### Recent commits
-- ActivityThread: Remove Failed to find provider info logspam
