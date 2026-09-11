@@ -1,6 +1,6 @@
 # rtCamp/wp-partytown
 
-> Updated npm dependencies via dependabot and added Dependabot configuration to automate future updates.
+> Merged multiple dependabot updates for dependencies and added dependabot configuration for ongoing maintenance.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/wp-partytown)](https://github.com/rtCamp/wp-partytown/graphs/contributions)
 
