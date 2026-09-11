@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Applied Qualcomm board and sdm660 enhancements, corrected board initialization, and refactored vendor GMS/SystemUI dexpreopt settings for consistent vendor behavior.
+> Updated vendor AOSP: BoardConfig and sdm660 support fixes, GMS client ID refactor, and SystemUI dexpreopt adjustments.
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 

@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Synced common sdm660 improvements—media and codec updates, wifi overlay support, fsverity and AntHalService additions—plus GPS updates and a move to RRO overlays.
+> Applied sdm660-common improvements and device tweaks: media/codecs updates, wifi overlays, RRO migration from overlays, fsverity flag, and GPS updates from upstream.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

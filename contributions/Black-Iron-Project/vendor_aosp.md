@@ -1,6 +1,6 @@
 # Black-Iron-Project/vendor_aosp
 
-> Implemented Qualcomm board fixes and sdm660 support, initialized board vars properly, and adjusted vendor GMS and SystemUI dexpreopt handling.
+> Applied BoardConfig and sdm660 improvements, refactored GMS client ID behavior, and updated SystemUI dexpreopt settings.
 
 [![Contributions](https://contrib.rocks/image?repo=Black-Iron-Project/vendor_aosp)](https://github.com/Black-Iron-Project/vendor_aosp/graphs/contributions)
 
