@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Applied sdm660-common improvements and device tweaks: media/codecs updates, wifi overlays, RRO migration from overlays, fsverity flag, and GPS updates from upstream.
+> Applied similar lavender improvements: migrated overlays to RRO, refreshed media and GPS components, added fsverity and HAL service builds, and removed redundant services.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

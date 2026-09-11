@@ -1,6 +1,6 @@
 # Alioth-CAF-Device-Tree/device_qcom_common
 
-> Applied the same qcom common fixes: Bluetooth inheritance ordering and conditional telephony prop for legacy platforms.
+> Applied the same Bluetooth inheritance and telephony property conditionalizations to the qcom common device tree.
 
 [![Contributions](https://contrib.rocks/image?repo=Alioth-CAF-Device-Tree/device_qcom_common)](https://github.com/Alioth-CAF-Device-Tree/device_qcom_common/graphs/contributions)
 
