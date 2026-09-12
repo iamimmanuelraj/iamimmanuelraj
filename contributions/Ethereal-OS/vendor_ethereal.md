@@ -1,6 +1,6 @@
 # Ethereal-OS/vendor_ethereal
 
-> Addressed BoardConfig and sdm660 platform support, refactored GMS client ID handling, and updated SystemUI dexpreopting across vendor components.
+> Updated vendor build configs: BoardConfigQcom fixes, sdm660 support, GMS client ID refactor, and SystemUIGoogle dexpreopt.
 
 [![Contributions](https://contrib.rocks/image?repo=Ethereal-OS/vendor_ethereal)](https://github.com/Ethereal-OS/vendor_ethereal/graphs/contributions)
 
