@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Optimized device runtime and build: added proximity checks for DT2W, updated media profiles/codecs, tuned GC, added wifi overlays, removed ESE power manager, built AntHalService, and enabled fsverity.
+> Added DT2W proximity checks, updated media profiles/codecs, introduced wifi overlays and fsverity support, removed unused managers, and adjusted dexopt/build flags.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 

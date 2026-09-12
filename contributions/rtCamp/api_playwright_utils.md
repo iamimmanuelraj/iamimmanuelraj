@@ -1,6 +1,6 @@
 # rtCamp/api_playwright_utils
 
-> Kept dependencies current by merging Dependabot updates and added Dependabot configuration.
+> Brought dependencies up to date via Dependabot and added a Dependabot configuration for npm/yarn and Playwright.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/api_playwright_utils)](https://github.com/rtCamp/api_playwright_utils/graphs/contributions)
 
