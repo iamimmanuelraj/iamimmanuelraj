@@ -1,6 +1,6 @@
 # rtCamp/wp-partytown
 
-> Updated package dependencies via dependabot merges and added dependabot configuration.
+> Updated multiple npm/yarn dependencies via Dependabot and added a Dependabot configuration to keep packages current.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/wp-partytown)](https://github.com/rtCamp/wp-partytown/graphs/contributions)
 

@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Refined device configs: removed SysUI from dexpreopt, enabled proximity checks for dt2w, updated media/wifi profiles, removed ESE power manager, built AntHalService, and added fsverity support.
+> Applied sdm660-common updates (media profiles, codecs, GC, fsverity, wifi overlays), removed some services, added proximity checks for dt2w, and adjusted dexopt and AntHalService builds.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 
