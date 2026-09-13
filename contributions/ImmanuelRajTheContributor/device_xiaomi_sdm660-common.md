@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Applied platform maintenance: enforced build permissions, updated multiple blobs (including Bluetooth), switched to 4.14 HALs, toggled defaults like blur/Doze, and added standalone extraction and permissive build workarounds.
+> Hardened SELinux/build behavior, updated blobs and HALs, toggled features (blur, doze) and switched to standalone extraction and 4.14 HALs.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 

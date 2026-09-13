@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Device and vendor cleanups: removed SysUI from dexopt, enabled DT2W proximity checks, updated media profiles/codecs, added Wi‑Fi overlay options, built AntHalService, and added fsverity support.
+> Tweaked DT2W proximity behavior, updated media profiles/codecs and wifi overlays, removed unused services and added fsverity support.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 
