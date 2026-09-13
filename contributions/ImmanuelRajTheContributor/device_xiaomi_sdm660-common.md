@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Maintained sdm660-common by updating proprietary blobs and Bluetooth stacks, switching to 4.14 HALs, adjusting build denials/permissive policies, disabling blur by default, and moving to a standalone extraction script.
+> Applied platform maintenance: enforced build permissions, updated multiple blobs (including Bluetooth), switched to 4.14 HALs, toggled defaults like blur/Doze, and added standalone extraction and permissive build workarounds.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
