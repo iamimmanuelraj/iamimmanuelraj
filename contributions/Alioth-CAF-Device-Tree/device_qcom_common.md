@@ -1,6 +1,6 @@
 # Alioth-CAF-Device-Tree/device_qcom_common
 
-> Ensured BT board configs inherit correctly and conditioned telephony advancedscan on legacy platforms.
+> Reordered Bluetooth config inheritance to apply board configs before product configs and conditionally enabled the telephony  prop for legacy platforms.
 
 [![Contributions](https://contrib.rocks/image?repo=Alioth-CAF-Device-Tree/device_qcom_common)](https://github.com/Alioth-CAF-Device-Tree/device_qcom_common/graphs/contributions)
 

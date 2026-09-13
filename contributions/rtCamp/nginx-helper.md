@@ -1,6 +1,6 @@
 # rtCamp/nginx-helper
 
-> Merged dependabot and CI updates and added Copilot code-review runner integration.
+> Added CI/automation updates and maintenance: merged Dependabot updates and integrated a Copilot code‑review runner along with Dependabot configuration.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/nginx-helper)](https://github.com/rtCamp/nginx-helper/graphs/contributions)
 
