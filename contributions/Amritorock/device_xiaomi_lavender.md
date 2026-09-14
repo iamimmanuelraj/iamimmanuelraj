@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Applied common sdm660 improvements to lavender: updated media/GPS blobs, switched overlays to RRO, added fsverity and AntHalService support, and cleaned dexopt/flag definitions.
+> Applied the same lavender improvements plus switched overlays to RRO and updated GPS firmware for better device support.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

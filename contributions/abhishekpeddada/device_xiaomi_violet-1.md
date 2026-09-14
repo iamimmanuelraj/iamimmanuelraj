@@ -1,6 +1,6 @@
 # abhishekpeddada/device_xiaomi_violet-1
 
-> Added two echo reference audio channels and fixed the camera interface for ViLTE on the violet device.
+> Added two echo reference channels and fixed the ViLTE camera interface to improve audio and camera behavior on violet.
 
 [![Contributions](https://contrib.rocks/image?repo=abhishekpeddada/device_xiaomi_violet-1)](https://github.com/abhishekpeddada/device_xiaomi_violet-1/graphs/contributions)
 
