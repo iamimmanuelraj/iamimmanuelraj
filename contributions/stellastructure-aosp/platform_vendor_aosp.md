@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Synchronized vendor platform changes: improved board config handling, added sdm660 DRM support, initialized board vars, refactored GMS client ID logic, and enabled SystemUIGoogle dexpreopt.
+> Performed vendor-side improvements for sdm660/board configs, enabled DRM_PP, fixed board initialization and duplicates, refactored GMS client ID logic, and dexpreopt adjustments.
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 
