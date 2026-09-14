@@ -1,6 +1,6 @@
 # Ethereal-OS/vendor_ethereal
 
-> Updated vendor AOSP stack: corrected BoardConfigQcom initialization, enabled sdm660 DRM_PP and master-side cp, refactored PRODUCT_GMS_CLIENTID_BASE, and adjusted dexpreopt for SystemUI Google.
+> Applied the same vendor improvements—board config fixes, sdm660 DRM support, board initialization, and GMS/SystemUI refactors.
 
 [![Contributions](https://contrib.rocks/image?repo=Ethereal-OS/vendor_ethereal)](https://github.com/Ethereal-OS/vendor_ethereal/graphs/contributions)
 
