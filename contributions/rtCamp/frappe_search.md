@@ -1,6 +1,6 @@
 # rtCamp/frappe_search
 
-> Added tooling and dependency upkeep by merging a Copilot code-review runner and adding dependabot configuration.
+> Added automation and dependency upkeep by merging a Copilot code-review runner and adding Dependabot configuration.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/frappe_search)](https://github.com/rtCamp/frappe_search/graphs/contributions)
 

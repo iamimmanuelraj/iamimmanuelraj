@@ -1,7 +1,9 @@
 # Alioth-CAF-Device-Tree/device_qcom_common
 
-> No commit messages provided; no recorded changes in the supplied commit list.
+> Applied the same config ordering and telephony property gating: inherit board BT configs first and conditionally set advancedscan for legacy targets.
 
 [![Contributions](https://contrib.rocks/image?repo=Alioth-CAF-Device-Tree/device_qcom_common)](https://github.com/Alioth-CAF-Device-Tree/device_qcom_common/graphs/contributions)
 
 ### Recent commits
+- common:bt: Inherit board configs before product configs
+- vendor: telephony: Conditionlly set `advancedscan` prop to legacy platforms
