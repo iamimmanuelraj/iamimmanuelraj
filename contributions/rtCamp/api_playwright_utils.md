@@ -1,6 +1,6 @@
 # rtCamp/api_playwright_utils
 
-> Brought dependencies up to date via Dependabot and added a Dependabot configuration.
+> Bumped dependencies and added Dependabot: merged several dependabot updates (dotenv, e, faker, playwright/test) and added a dependabot config.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/api_playwright_utils)](https://github.com/rtCamp/api_playwright_utils/graphs/contributions)
 
