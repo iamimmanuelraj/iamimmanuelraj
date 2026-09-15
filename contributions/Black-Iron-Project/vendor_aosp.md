@@ -1,6 +1,6 @@
 # Black-Iron-Project/vendor_aosp
 
-> Updated vendor/board configuration for sdm660: DRM_PP enablement, board init fixes, GMS client ID refactor, and SystemUI dexpreopt changes.
+> Performed vendor configuration fixes for sdm660 boards, enabled DRM_PP where needed, refactored GMS client ID setup, and adjusted SystemUI dexpreopt behavior.
 
 [![Contributions](https://contrib.rocks/image?repo=Black-Iron-Project/vendor_aosp)](https://github.com/Black-Iron-Project/vendor_aosp/graphs/contributions)
 

@@ -1,6 +1,6 @@
 # Ethereal-OS/vendor_ethereal
 
-> Applied sdm660-focused vendor fixes: resolved duplicate board entries, enabled DRM_PP, refactored GMS client ID setup, and adjusted SystemUI dexpreopt behavior.
+> Applied the same vendor and board improvements for sdm660: DRM_PP enablement, board init fixes, GMS refactor, and SystemUIGoogle dexpreopt changes.
 
 [![Contributions](https://contrib.rocks/image?repo=Ethereal-OS/vendor_ethereal)](https://github.com/Ethereal-OS/vendor_ethereal/graphs/contributions)
 
