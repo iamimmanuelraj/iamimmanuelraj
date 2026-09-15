@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout
 
-> Tidied device configuration: updated branding and pixel styling, adjusted screen density and battery capacity, removed TWRP build, and cleaned up build description metadata.
+> Polished jasmine_sprout device config: updated branding and screen density, added battery capacity, removed TWRP/build description, and applied visual (pixelize) tweaks.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout/graphs/contributions)
 

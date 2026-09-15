@@ -1,6 +1,6 @@
 # CrisBalGreece/legion_device_leeco_msm8996-common
 
-> Brought msm8996-common up to date with upstream: updated carrier, filesystem and security configs plus media codecs from the LA.UM release.
+> Updated msm8996-common with upstream LA.UM carrier, config.fs, security config and media codec updates.
 
 [![Contributions](https://contrib.rocks/image?repo=CrisBalGreece/legion_device_leeco_msm8996-common)](https://github.com/CrisBalGreece/legion_device_leeco_msm8996-common/graphs/contributions)
 
