@@ -1,6 +1,6 @@
 # rtCamp/wp-partytown
 
-> Updated dependencies and CI hygiene: merged several dependabot bumps for partytown and env, and added dependabot configuration.
+> Updated package dependencies and added dependabot configuration to keep builds secure and current.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/wp-partytown)](https://github.com/rtCamp/wp-partytown/graphs/contributions)
 
