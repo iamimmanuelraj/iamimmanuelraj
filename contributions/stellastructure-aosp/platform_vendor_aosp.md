@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Cleaned up BoardConfigQcom, enabled sdm660 DRM_PP/master CP, initialized board variables properly, and refactored vendor GMS/SystemUI behavior.
+> Applied the same vendor improvements for sdm660: board init and DRM_PP support, master-side CP additions, GMS refactor, and SystemUI dexpreopt changes.
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 

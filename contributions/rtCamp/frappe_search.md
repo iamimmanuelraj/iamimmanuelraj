@@ -1,10 +1,7 @@
 # rtCamp/frappe_search
 
-> Added a copilot code-review runner and dependabot configuration to keep dependencies and CI updated.
+> No commits were listed for this repository in the provided history.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/frappe_search)](https://github.com/rtCamp/frappe_search/graphs/contributions)
 
 ### Recent commits
-- Merge pull request #12 from rtCamp/add/copilot-code-review-runner
-- Merge pull request #6 from rtCamp/chore/add-dependabot-xyz
-- chore: add dependabot configuration
