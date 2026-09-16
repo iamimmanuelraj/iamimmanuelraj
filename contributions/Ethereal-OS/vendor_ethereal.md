@@ -1,6 +1,6 @@
 # Ethereal-OS/vendor_ethereal
 
-> Introduced sdm660 vendor fixes and feature additions including DRM_PP enablement, board variable initialization, master CP support, GMS refactor, and SystemUI dexpreopt updates.
+> Applied BoardConfigQcom fixes and sdm660 DRM_PP support, initialized board variables, added master-side CP support, refactored PRODUCT_GMS_CLIENTID_BASE, and dexpreopt'ed SystemUIGoogle.
 
 [![Contributions](https://contrib.rocks/image?repo=Ethereal-OS/vendor_ethereal)](https://github.com/Ethereal-OS/vendor_ethereal/graphs/contributions)
 

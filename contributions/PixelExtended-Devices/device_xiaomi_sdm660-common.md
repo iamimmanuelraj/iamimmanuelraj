@@ -5,3 +5,4 @@
 [![Contributions](https://contrib.rocks/image?repo=PixelExtended-Devices/device_xiaomi_sdm660-common)](https://github.com/PixelExtended-Devices/device_xiaomi_sdm660-common/graphs/contributions)
 
 ### Recent commits
+- sdm660-common: Init PEX
