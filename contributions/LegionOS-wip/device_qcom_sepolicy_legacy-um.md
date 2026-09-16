@@ -1,6 +1,6 @@
 # LegionOS-wip/device_qcom_sepolicy_legacy-um
 
-> Synced with CAF LA.UM tags, removed vbmeta/dtbo dev/block paths, and adapted sepolicy paths for Legion.
+> Integrated upstream sepolicy tags, removed vbmeta/dtbo dev/block paths, and adapted sepolicy paths for LegionOS.
 
 [![Contributions](https://contrib.rocks/image?repo=LegionOS-wip/device_qcom_sepolicy_legacy-um)](https://github.com/LegionOS-wip/device_qcom_sepolicy_legacy-um/graphs/contributions)
 

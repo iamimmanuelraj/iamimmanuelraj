@@ -1,6 +1,6 @@
 # Alioth-CAF-Device-Tree/device_qcom_common
 
-> Reworked BT config inheritance and conditionally applied telephony advancedscan properties for legacy platforms.
+> Applied BT board-config inheritance fixes and conditional telephony 'advancedscan' support for legacy devices.
 
 [![Contributions](https://contrib.rocks/image?repo=Alioth-CAF-Device-Tree/device_qcom_common)](https://github.com/Alioth-CAF-Device-Tree/device_qcom_common/graphs/contributions)
 

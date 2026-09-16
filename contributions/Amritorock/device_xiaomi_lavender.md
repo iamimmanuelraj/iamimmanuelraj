@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Applied similar lavender device maintenance—media/GPS updates, added wifi support, switched overlays to RRO, enabled GC and fsverity, and cleaned vendor flags.
+> Applied device updates for lavender: media/profile tweaks, wifi overlay support, fsverity and AntHalService additions, switched overlays to RRO, and refreshed GPS blobs.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
