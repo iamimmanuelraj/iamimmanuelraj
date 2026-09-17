@@ -1,6 +1,6 @@
 # Black-Iron-Project/vendor_aosp
 
-> Implemented QCOM boardconfig fixes and sdm660 enablement, plus GMS client ID refactor and SystemUI dexpreopt changes for vendor tree consistency.
+> Implemented BoardConfigQcom fixes and sdm660 support additions, refactored GMS client ID handling, and updated SystemUI dexpreopt behavior.
 
 [![Contributions](https://contrib.rocks/image?repo=Black-Iron-Project/vendor_aosp)](https://github.com/Black-Iron-Project/vendor_aosp/graphs/contributions)
 
