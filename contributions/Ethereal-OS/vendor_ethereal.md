@@ -1,6 +1,6 @@
 # Ethereal-OS/vendor_ethereal
 
-> Updated vendor layer with BoardConfig and sdm660 enhancements, GMS client ID refactor, and SystemUI dexpreopt changes.
+> Applied the same vendor/board configuration and GMS refactors to enable sdm660 features and improve SystemUI dexpreopt behavior.
 
 [![Contributions](https://contrib.rocks/image?repo=Ethereal-OS/vendor_ethereal)](https://github.com/Ethereal-OS/vendor_ethereal/graphs/contributions)
 

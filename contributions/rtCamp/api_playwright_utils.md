@@ -1,6 +1,6 @@
 # rtCamp/api_playwright_utils
 
-> Performed dependency maintenance—merged multiple dependabot updates and added a dependabot configuration.
+> Merged dependency updates from dependabot and added a dependabot configuration to keep Node deps fresh.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/api_playwright_utils)](https://github.com/rtCamp/api_playwright_utils/graphs/contributions)
 

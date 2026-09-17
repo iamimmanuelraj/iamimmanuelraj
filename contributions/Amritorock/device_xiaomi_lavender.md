@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Refined lavender device support—updated media profiles, switched overlays to RRO, added wifi options and fsverity, removed unused services, and updated GPS blobs.
+> Applied device maintenance and enhancements—proximity DT2W checks, codec/profile updates, build and overlay improvements, fsverity flag and GPS update.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
