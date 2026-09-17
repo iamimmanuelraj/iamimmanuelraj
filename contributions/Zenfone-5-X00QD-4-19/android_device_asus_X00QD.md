@@ -5,3 +5,4 @@
 [![Contributions](https://contrib.rocks/image?repo=Zenfone-5-X00QD-4-19/android_device_asus_X00QD)](https://github.com/Zenfone-5-X00QD-4-19/android_device_asus_X00QD/graphs/contributions)
 
 ### Recent commits
+- jasmine_sprout: HALS: Use dont directly use me implemenentation meta interface

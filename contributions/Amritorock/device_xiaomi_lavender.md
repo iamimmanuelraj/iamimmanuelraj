@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Applied device maintenance and enhancements—proximity DT2W checks, codec/profile updates, build and overlay improvements, fsverity flag and GPS update.
+> Applied device refinements: updated media profiles/codecs, migrated overlays to RRO, enabled GC and wifi options, removed legacy services, built AntHalService, added fsverity, and refreshed GPS blobs.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
