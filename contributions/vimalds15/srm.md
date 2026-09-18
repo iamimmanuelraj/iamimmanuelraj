@@ -1,6 +1,6 @@
 # vimalds15/srm
 
-> Added IDs, links, icons and footer tweaks across the site—renamed career to research and updated the research icon to improve navigation and visuals.
+> Polished the site UI and navigation by adding icons, links, and IDs, plus small footer and bot-related maintenance updates.
 
 [![Contributions](https://contrib.rocks/image?repo=vimalds15/srm)](https://github.com/vimalds15/srm/graphs/contributions)
 
