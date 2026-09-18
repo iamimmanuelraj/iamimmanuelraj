@@ -1,6 +1,6 @@
 # Alioth-CAF-Device-Tree/device_qcom_common
 
-> Applied the same Bluetooth inheritance and telephony property conditioning for legacy targets in the device_qcom_common tree.
+> Aligned bluetooth and telephony property handling by inheriting board configs before product configs and conditioning advancedscan for legacy boards.
 
 [![Contributions](https://contrib.rocks/image?repo=Alioth-CAF-Device-Tree/device_qcom_common)](https://github.com/Alioth-CAF-Device-Tree/device_qcom_common/graphs/contributions)
 
