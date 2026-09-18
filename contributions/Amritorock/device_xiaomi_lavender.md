@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Applied device refinements: updated media profiles/codecs, migrated overlays to RRO, enabled GC and wifi options, removed legacy services, built AntHalService, added fsverity, and refreshed GPS blobs.
+> Applied sdm660-common updates: media and wifi tweaks, moved overlays to RRO, switched GC usage, removed legacy services, and updated GPS blobs.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
