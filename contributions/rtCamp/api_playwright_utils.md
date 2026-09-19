@@ -1,6 +1,6 @@
 # rtCamp/api_playwright_utils
 
-> Kept test tooling current by merging multiple dependabot updates and adding dependabot configuration.
+> Kept the project secure and current by merging dependency updates and adding a Dependabot configuration for automated dependency management.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/api_playwright_utils)](https://github.com/rtCamp/api_playwright_utils/graphs/contributions)
 

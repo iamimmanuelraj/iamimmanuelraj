@@ -1,6 +1,6 @@
 # CrisBalGreece/legion_device_leeco_msm8996-common
 
-> Brought msm8996-common up to date with LA.UM vendor updates: carrier, fs config, security config, and media codecs.
+> Brought device-common up to date by importing carrier, filesystem, security configs, and media codec updates from Qualcomm LA.UM releases.
 
 [![Contributions](https://contrib.rocks/image?repo=CrisBalGreece/legion_device_leeco_msm8996-common)](https://github.com/CrisBalGreece/legion_device_leeco_msm8996-common/graphs/contributions)
 
