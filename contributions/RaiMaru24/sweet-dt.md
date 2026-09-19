@@ -1,6 +1,6 @@
 # RaiMaru24/sweet-dt
 
-> Enabled Camera2 API for legacy targets and corrected camera interface props to improve ViLTE behavior on sweet devices.
+> Enabled Camera2 API and corrected ViLTE camera interface properties in sweet device tree configurations.
 
 [![Contributions](https://contrib.rocks/image?repo=RaiMaru24/sweet-dt)](https://github.com/RaiMaru24/sweet-dt/graphs/contributions)
 

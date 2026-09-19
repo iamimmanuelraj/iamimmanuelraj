@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Hardened vendor support for Qualcomm boards by fixing duplicate platform issues, enabling sdm660 DRM_PP and master-side CP, refactoring GMS client ID handling, and adjusting SystemUI dexpreopt behavior.
+> Improved vendor board configs and vendor settings: enabled sdm660 DRM_PP and master-side CP support, fixed board initialization/duplication, refactored GMS client ID handling, and dexpreopted SystemUIGoogle.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 
