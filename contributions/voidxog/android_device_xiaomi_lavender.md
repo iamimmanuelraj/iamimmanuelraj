@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Refined lavender device: proximity DT2W checks, media/profile updates, Wi‑Fi overlay support, power manager cleanup, AntHalService build and fsverity userdata flag.
+> Streamlined lavender device config with media/profile updates, DT2W proximity tweaks, removed ESE power manager, added fsverity and AntHalService builds, and vendor overlay improvements.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 
