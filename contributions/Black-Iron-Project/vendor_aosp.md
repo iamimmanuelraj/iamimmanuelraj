@@ -1,6 +1,6 @@
 # Black-Iron-Project/vendor_aosp
 
-> Updated vendor board configuration and packaging for sdm660, improving DRM and GMS handling and SystemUI preoptimization.
+> Updated vendor board configurations for sdm660, added DRM support and refined GMS/SystemUI handling and dexpreopting.
 
 [![Contributions](https://contrib.rocks/image?repo=Black-Iron-Project/vendor_aosp)](https://github.com/Black-Iron-Project/vendor_aosp/graphs/contributions)
 

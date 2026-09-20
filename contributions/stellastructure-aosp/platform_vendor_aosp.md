@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Aligned vendor AOSP for sdm660: enabled DRM_PP, fixed board config initialization, refactored GMS settings, and tweaked SystemUI preopt behavior.
+> Applied sdm660 and board-config fixes, DRM/GMS refactors, and SystemUIGoogle dexpreopt changes across the platform vendor tree.
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 
