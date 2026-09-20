@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Applied similar lavender improvements—proximity DT2W, media and wifi tweaks—plus switched overlays to RRO and updated GPS blobs.
+> Applied sdm660 common fixes to lavender: removed SysUI from dexopt, updated media profiles/codecs, reduced duplicate vendor flags, enabled GC and Wi‑Fi overlay options, removed ESE power manager, added AntHalService build and fsverity, switched overlays to RRO, and updated GPS blobs.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

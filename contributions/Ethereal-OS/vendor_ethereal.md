@@ -1,6 +1,6 @@
 # Ethereal-OS/vendor_ethereal
 
-> Synchronized vendor AOSP changes—sdm660 board fixes, DRM/GMS refactors and SystemUIGoogle dexpreopt adjustments.
+> Updated vendor configuration to support sdm660 DRM_PP and master-side CP, fixed board-platform duplicates and initialization order, refactored GMS client ID handling, and tuned SystemUIGoogle dexpreopting.
 
 [![Contributions](https://contrib.rocks/image?repo=Ethereal-OS/vendor_ethereal)](https://github.com/Ethereal-OS/vendor_ethereal/graphs/contributions)
 

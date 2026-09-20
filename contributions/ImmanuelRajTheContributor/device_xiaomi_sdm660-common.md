@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Maintained sdm660-common with updated blobs, HAL/kernel changes, permissive/build fixes, disabled blur by default, bluetooth updates and a standalone extraction script.
+> Hardened and modernized the common sdm660 device tree: enforced build rules, adjusted SELinux denials and permissive builds, updated vendor blobs (Bluetooth/media), disabled blur by default, moved to standalone extraction and 4.14 HALs, and tuned which services are built.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
