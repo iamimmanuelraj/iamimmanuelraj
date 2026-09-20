@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Updated lavender device setup: refreshed media profiles, adjusted dexopt/power overlays, added Wi‑Fi options and AntHalService, switched overlays to RRO, and updated GPS blobs.
+> Applied sdm660-common improvements plus device tweaks: media/profile updates, Wi‑Fi support, RRO overlay switch and GPS updates from LA upstream.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

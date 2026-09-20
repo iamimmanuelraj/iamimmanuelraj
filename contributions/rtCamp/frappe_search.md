@@ -1,6 +1,6 @@
 # rtCamp/frappe_search
 
-> Added Dependabot configuration and merged CI updates including a copilot-code-review-runner.
+> Integrated Copilot code‑review runner and added Dependabot configuration for automated updates.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/frappe_search)](https://github.com/rtCamp/frappe_search/graphs/contributions)
 
