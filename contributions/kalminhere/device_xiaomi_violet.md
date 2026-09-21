@@ -5,3 +5,4 @@
 [![Contributions](https://contrib.rocks/image?repo=kalminhere/device_xiaomi_violet)](https://github.com/kalminhere/device_xiaomi_violet/graphs/contributions)
 
 ### Recent commits
+- violet: props: Fix cam interface on vilte calls

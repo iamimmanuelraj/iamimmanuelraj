@@ -1,6 +1,6 @@
 # rtCamp/rtMedia
 
-> Refactored gallery search query logic and integrated CI/dependency maintenance changes.
+> Refactored gallery search query logic and added CI/code-review runner plus dependency automation via dependabot.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/rtMedia)](https://github.com/rtCamp/rtMedia/graphs/contributions)
 
