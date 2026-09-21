@@ -1,6 +1,6 @@
 # rtCamp/snapwp
 
-<!-- AI_DESC -->
+> Added a dependabot configuration to keep dependencies monitored and up to date.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/snapwp)](https://github.com/rtCamp/snapwp/graphs/contributions)
 

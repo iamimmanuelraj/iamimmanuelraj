@@ -1,6 +1,6 @@
 # bhaskar966/device_xiaomi_sm6150
 
-> Enabled Camera2 API for legacy sm6150 targets and fixed camera interface properties to address ViLTE call issues.
+<!-- AI_DESC -->
 
 [![Contributions](https://contrib.rocks/image?repo=bhaskar966/device_xiaomi_sm6150)](https://github.com/bhaskar966/device_xiaomi_sm6150/graphs/contributions)
 

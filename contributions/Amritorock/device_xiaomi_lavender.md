@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Refined lavender device setup: removed SysUI from dexopt, updated media/GPS blobs and codecs, switched overlays to RRO, added fsverity/userdata flag and Wi‑Fi overlays, built AntHalService, and removed redundant flags/power manager.
+> Applied sdm660-common media and system cleanups, added Wi‑Fi support and fsverity, switched overlays to RRO, and updated GPS blobs.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

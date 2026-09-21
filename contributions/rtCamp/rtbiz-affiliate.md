@@ -1,6 +1,6 @@
 # rtCamp/rtbiz-affiliate
 
-<!-- AI_DESC -->
+> Added dependabot configuration to help maintain dependencies.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/rtbiz-affiliate)](https://github.com/rtCamp/rtbiz-affiliate/graphs/contributions)
 

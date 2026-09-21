@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Updated the sdm660 common layer: enforced build rules (temporarily permissive), updated proprietary blobs and Bluetooth/HALs to 4.14, disabled blur by default, adjusted extraction workflow, and reverted/cleaned some manifest/Legion-specific changes.
+> Updated blobs and HALs, adjusted SELinux/build permissions, disabled blur by default, switched extraction workflow, and moved to 4.14 HALs while toggling permissive/build options.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 

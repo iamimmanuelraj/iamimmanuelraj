@@ -1,6 +1,6 @@
 # rtCamp/frappe_search
 
-> Added CI/code-review runner and dependabot configuration to keep tests and dependencies maintained.
+> Added a Copilot code-review runner and dependabot configuration to streamline maintenance.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/frappe_search)](https://github.com/rtCamp/frappe_search/graphs/contributions)
 
