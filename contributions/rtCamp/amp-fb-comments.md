@@ -1,6 +1,6 @@
 # rtCamp/amp-fb-comments
 
-<!-- AI_DESC -->
+> Added Dependabot configuration and merged maintenance tooling to keep dependencies up to date.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/amp-fb-comments)](https://github.com/rtCamp/amp-fb-comments/graphs/contributions)
 

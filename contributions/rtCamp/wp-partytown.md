@@ -1,6 +1,6 @@
 # rtCamp/wp-partytown
 
-> Merged dependency updates and added dependabot configuration to keep the package and toolchain current.
+> Added Dependabot configuration and merged dependency updates to keep Partytown, simple-git, builder.io and WordPress env packages current.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/wp-partytown)](https://github.com/rtCamp/wp-partytown/graphs/contributions)
 

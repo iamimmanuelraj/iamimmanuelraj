@@ -1,6 +1,6 @@
 # rtCamp/search-with-google
 
-> Maintained project dependencies and CI by merging a series of dependabot PRs for npm packages and GitHub Actions.
+> Maintained the project by merging numerous Dependabot PRs to update npm/yarn packages and GitHub Actions, keeping tests and Playwright e2e tooling up to date.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/search-with-google)](https://github.com/rtCamp/search-with-google/graphs/contributions)
 

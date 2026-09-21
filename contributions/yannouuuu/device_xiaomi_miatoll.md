@@ -5,4 +5,3 @@
 [![Contributions](https://contrib.rocks/image?repo=yannouuuu/device_xiaomi_miatoll)](https://github.com/yannouuuu/device_xiaomi_miatoll/graphs/contributions)
 
 ### Recent commits
-- miatoll: prop: Enable Camera2API for legacy targets
