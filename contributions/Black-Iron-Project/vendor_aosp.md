@@ -1,6 +1,6 @@
 # Black-Iron-Project/vendor_aosp
 
-> Made vendor/platform tweaks mirroring sdm660 support: fixed board platform duplication, allowed DRM_PP for sdm660, initialized board vars, added master-side CP support, refactored GMS client ID setup, and adjusted SystemUI dexpreopting.
+> Applied BoardConfigQcom corrections, enabled sdm660 DRM_PP and vendor GMS/SystemUI refactors.
 
 [![Contributions](https://contrib.rocks/image?repo=Black-Iron-Project/vendor_aosp)](https://github.com/Black-Iron-Project/vendor_aosp/graphs/contributions)
 
