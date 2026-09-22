@@ -1,6 +1,6 @@
 # Black-Iron-Project/vendor_aosp
 
-> Applied vendor AOSP fixes: resolved board/platform duplicates, enabled sdm660 DRM_PP, initialized board vars correctly, refactored PRODUCT_GMS_CLIENTID_BASE handling, and tweaked SystemUI dexpreopt.
+> Brought BoardConfigQcom fixes, sdm660 enablement, GMS PRODUCT_GMS_CLIENTID_BASE refactor, and SystemUIGoogle dexpreopt updates to the vendor tree.
 
 [![Contributions](https://contrib.rocks/image?repo=Black-Iron-Project/vendor_aosp)](https://github.com/Black-Iron-Project/vendor_aosp/graphs/contributions)
 
