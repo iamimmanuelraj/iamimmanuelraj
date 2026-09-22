@@ -5,4 +5,3 @@
 [![Contributions](https://contrib.rocks/image?repo=ergdevops/device_xiaomi_raphael_rice)](https://github.com/ergdevops/device_xiaomi_raphael_rice/graphs/contributions)
 
 ### Recent commits
-- raphael: props: Fix cam interface on vilte calls
