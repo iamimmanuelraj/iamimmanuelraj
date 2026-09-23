@@ -1,6 +1,6 @@
 # Alioth-CAF-Device-Tree/device_qcom_common
 
-> Applied the same Qcom common updates: Bluetooth config ordering and legacy telephony property conditioning.
+> Applied the same Bluetooth inheritance and legacy telephony prop conditioning for CAF device trees.
 
 [![Contributions](https://contrib.rocks/image?repo=Alioth-CAF-Device-Tree/device_qcom_common)](https://github.com/Alioth-CAF-Device-Tree/device_qcom_common/graphs/contributions)
 

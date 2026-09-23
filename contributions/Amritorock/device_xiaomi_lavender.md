@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Performed similar device maintenance: media and Wi‑Fi updates, removed unused managers, switched overlays to RRO, added fsverity and updated GPS blobs.
+> Consolidated lavender device changes: media and wifi updates, fsverity flag, AntHalService build, overlay RRO migration, and a GPS update from upstream.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

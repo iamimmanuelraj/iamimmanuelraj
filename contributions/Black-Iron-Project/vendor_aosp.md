@@ -1,6 +1,6 @@
 # Black-Iron-Project/vendor_aosp
 
-> Implemented vendor fixes and enhancements: resolved board/platform dupes, enabled sdm660 DRM_PP, refined board init, and updated GMS/SystemUI handling.
+> Implemented Qualcomm board and vendor tweaks, adding sdm660 support, fixing board duplicates, and updating GMS/SystemUI dexpreopt behavior.
 
 [![Contributions](https://contrib.rocks/image?repo=Black-Iron-Project/vendor_aosp)](https://github.com/Black-Iron-Project/vendor_aosp/graphs/contributions)
 
