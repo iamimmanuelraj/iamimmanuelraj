@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Updated lavender device overlays and build settings: migrated overlays to RRO, updated GPS blobs, refined media/wifi profiles, and added build/verity/ANT tweaks.
+> Merged sdm660-common improvements into lavender: media/codec updates, wifi overlays, garbage collector use, switch to RRO overlays, fsverity and AntHalService support, plus GPS blob updates.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

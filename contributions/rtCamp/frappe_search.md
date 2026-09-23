@@ -1,6 +1,6 @@
 # rtCamp/frappe_search
 
-> Added Copilot code-review CI and Dependabot configuration to keep dependencies and reviews automated.
+> Integrated a Copilot code-review runner and added Dependabot configuration for dependency upkeep.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/frappe_search)](https://github.com/rtCamp/frappe_search/graphs/contributions)
 
