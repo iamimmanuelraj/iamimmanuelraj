@@ -1,6 +1,6 @@
 # Black-Iron-Project/vendor_aosp
 
-> Implemented BoardConfigQcom fixes, enabled sdm660 DRM_PP and master CP support, refactored GMS client ID logic, and adjusted dexpreopt for SystemUIGoogle.
+> Applied BoardConfigQcom and vendor improvements: resolved MCP/duplicate platform issues, enabled sdm660 DRM_PP, initialized boards correctly, added master-side CP support, and refactored GMS/SystemUI handling.
 
 [![Contributions](https://contrib.rocks/image?repo=Black-Iron-Project/vendor_aosp)](https://github.com/Black-Iron-Project/vendor_aosp/graphs/contributions)
 
