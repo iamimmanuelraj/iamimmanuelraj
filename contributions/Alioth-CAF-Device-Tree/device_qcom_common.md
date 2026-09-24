@@ -1,6 +1,6 @@
 # Alioth-CAF-Device-Tree/device_qcom_common
 
-> Mirrored device_qcom_common fixes: inherited BT board configs earlier and conditionally set telephony advancedscan prop for legacy targets.
+> Applied the same configuration ordering and conditional telephony property changes to ensure correct board/product precedence.
 
 [![Contributions](https://contrib.rocks/image?repo=Alioth-CAF-Device-Tree/device_qcom_common)](https://github.com/Alioth-CAF-Device-Tree/device_qcom_common/graphs/contributions)
 

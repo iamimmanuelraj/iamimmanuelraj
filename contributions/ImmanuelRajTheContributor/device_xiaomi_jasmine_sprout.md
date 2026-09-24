@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout
 
-> Polished jasmine_sprout device: applied Pixel-style assets, capitalized product brand, stopped building TWRP, added battery capacity, restored stock screen density, and removed custom build description.
+> Polished jasmine_sprout device config: applied Pixel branding and PRODUCT_BRAND capitalization, stopped building TWRP, set battery capacity and stock screen density, and removed a custom build description.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout/graphs/contributions)
 

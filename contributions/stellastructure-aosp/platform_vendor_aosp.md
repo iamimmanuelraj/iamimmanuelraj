@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Brought vendor layer fixes upstream: resolved board/platform duplicates, enabled sdm660 DRM_PP and master CP support, initialized board variables properly, refactored GMS client ID handling, and adjusted SystemUI dexpreopt.
+> Applied the same vendor fixes: corrected BoardConfigQcom initialization and duplicates, enabled sdm660 DRM_PP and master CP support, refactored GMS client-id handling, and adjusted SystemUI dexpreopting.
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 
