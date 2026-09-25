@@ -1,6 +1,6 @@
 # rtCamp/wp-partytown
 
-> Dependency bumps
+> Updated dependencies via Dependabot, added configuration, and kept Partytown and related packages current.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/wp-partytown)](https://github.com/rtCamp/wp-partytown/graphs/contributions)
 

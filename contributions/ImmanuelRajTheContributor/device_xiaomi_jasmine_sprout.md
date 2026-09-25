@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout
 
-> Device property tweaks
+> Refined jasmine_sprout device config by pixelizing appearance, adjusting PRODUCT_BRAND casing, skipping TWRP build, setting battery capacity and screen density to stock, and cleaning build description.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout/graphs/contributions)
 

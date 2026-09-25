@@ -1,6 +1,6 @@
 # Black-Iron-Project/vendor_aosp
 
-> Board & vendor fixes
+> Contributed board and vendor fixes: deduplicated platforms, enabled sdm660 DRM_PP, initialized board vars, added master-side CP, and refactored GMS/SystemUI dexpreopt behavior.
 
 [![Contributions](https://contrib.rocks/image?repo=Black-Iron-Project/vendor_aosp)](https://github.com/Black-Iron-Project/vendor_aosp/graphs/contributions)
 

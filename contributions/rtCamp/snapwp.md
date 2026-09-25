@@ -1,6 +1,6 @@
 # rtCamp/snapwp
 
-> Dependabot chore
+> Added Dependabot configuration to keep dependencies monitored.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/snapwp)](https://github.com/rtCamp/snapwp/graphs/contributions)
 

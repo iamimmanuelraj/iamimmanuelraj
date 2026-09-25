@@ -1,6 +1,6 @@
 # essaNAJJAR/device_xiaomi_sweet-1
 
-> Camera2 and props
+> Enabled Camera2 API for legacy targets and fixed camera ViLTE interface properties in common props.
 
 [![Contributions](https://contrib.rocks/image?repo=essaNAJJAR/device_xiaomi_sweet-1)](https://github.com/essaNAJJAR/device_xiaomi_sweet-1/graphs/contributions)
 

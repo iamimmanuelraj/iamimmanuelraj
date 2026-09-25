@@ -1,6 +1,6 @@
 # rtCamp/rtbiz-affiliate
 
-> Dependabot chore
+> Added Dependabot configuration to automate dependency management.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/rtbiz-affiliate)](https://github.com/rtCamp/rtbiz-affiliate/graphs/contributions)
 

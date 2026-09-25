@@ -1,6 +1,6 @@
 # RaiMaru24/sweet-dt
 
-> Camera2/ViLTE props
+> Enabled Camera2 API and corrected camera ViLTE props for sm6150-common device tree.
 
 [![Contributions](https://contrib.rocks/image?repo=RaiMaru24/sweet-dt)](https://github.com/RaiMaru24/sweet-dt/graphs/contributions)
 
