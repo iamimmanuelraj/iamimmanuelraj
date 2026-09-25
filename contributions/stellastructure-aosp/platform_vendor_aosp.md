@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Improved vendor configuration for sdm660 and BoardConfigQcom, added master CP support, refactored GMS client ID settings, and tuned dexpreopt/SystemUI handling.
+> Board & vendor fixes
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 

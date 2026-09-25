@@ -1,6 +1,6 @@
 # rtCamp/api_playwright_utils
 
-> Performed maintenance: merged Dependabot dependency updates and added Dependabot configuration to keep Playwright utilities up to date.
+> Dependabot merges
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/api_playwright_utils)](https://github.com/rtCamp/api_playwright_utils/graphs/contributions)
 

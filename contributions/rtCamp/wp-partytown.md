@@ -1,6 +1,6 @@
 # rtCamp/wp-partytown
 
-> Dependency maintenance: merged multiple Dependabot updates and added Dependabot configuration to keep packages current.
+> Dependency bumps
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/wp-partytown)](https://github.com/rtCamp/wp-partytown/graphs/contributions)
 

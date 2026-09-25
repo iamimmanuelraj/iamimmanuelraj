@@ -1,6 +1,6 @@
 # Ethereal-OS/vendor_ethereal
 
-> Updated vendor/aosp pieces: BoardConfigQcom and sdm660 enhancements, GMS client ID refactor, and dexpreopt/SystemUI adjustments.
+> Board & vendor fixes
 
 [![Contributions](https://contrib.rocks/image?repo=Ethereal-OS/vendor_ethereal)](https://github.com/Ethereal-OS/vendor_ethereal/graphs/contributions)
 
