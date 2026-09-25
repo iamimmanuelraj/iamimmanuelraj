@@ -1,6 +1,6 @@
 # rtCamp/snapwp
 
-> Added dependabot configuration to keep dependencies updated.
+> Added Dependabot configuration and performed related maintenance merges.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/snapwp)](https://github.com/rtCamp/snapwp/graphs/contributions)
 
