@@ -1,6 +1,6 @@
 # Ethereal-OS/vendor_ethereal
 
-> Merged board and vendor fixes across the vendor tree: duplicate board fixes, sdm660 DRM_PP enablement, board init fixes, master CP support, and GMS/SystemUI refactors.
+> Synchronized BoardConfigQcom and sdm660 improvements, refactored PRODUCT_GMS_CLIENTID_BASE, and tweaked SystemUIGoogle dexpreopt.
 
 [![Contributions](https://contrib.rocks/image?repo=Ethereal-OS/vendor_ethereal)](https://github.com/Ethereal-OS/vendor_ethereal/graphs/contributions)
 
