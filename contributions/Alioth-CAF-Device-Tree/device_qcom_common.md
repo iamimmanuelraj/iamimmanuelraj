@@ -1,6 +1,6 @@
 # Alioth-CAF-Device-Tree/device_qcom_common
 
-> Same device_qcom_common improvements: Bluetooth config ordering and conditional telephony props for legacy platforms.
+> Adjusted Bluetooth config inheritance to apply board configs first and conditionally enabled telephony advancedscan for legacy targets.
 
 [![Contributions](https://contrib.rocks/image?repo=Alioth-CAF-Device-Tree/device_qcom_common)](https://github.com/Alioth-CAF-Device-Tree/device_qcom_common/graphs/contributions)
 
