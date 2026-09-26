@@ -1,6 +1,6 @@
 # Ethereal-OS/vendor_ethereal
 
-> Updated vendor board logic and GMS/SystemUI handling to add sdm660 support, remove duplicate configs, and refactor client ID and dexpreopt behavior.
+> Updated vendor build logic and sdm660 support, including board fixes, GMS client ID refactor and SystemUIGoogle dexpreopt adjustments.
 
 [![Contributions](https://contrib.rocks/image?repo=Ethereal-OS/vendor_ethereal)](https://github.com/Ethereal-OS/vendor_ethereal/graphs/contributions)
 
