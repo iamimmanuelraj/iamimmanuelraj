@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Applied vendor-side fixes and features: BoardConfigQcom corrections, sdm660 DRM_PP and master-side CP support, GMS client ID refactor, and dexpreopt for SystemUIGoogle.
+> Applied board and vendor fixes to enable sdm660 DRM_PP and master-side cp, resolved duplicate board entries, and refactored GMS and dexpreopt SystemUI settings.
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 
