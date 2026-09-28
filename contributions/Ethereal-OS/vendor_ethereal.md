@@ -1,6 +1,6 @@
 # Ethereal-OS/vendor_ethereal
 
-> Applied Qualcomm board and vendor improvements: sdm660 support, board init fixes, GMS client ID refactor, and SystemUIGoogle dexpreopting.
+> Refined vendor code: BoardConfigQcom and sdm660 enhancements, GMS client ID refactor, and SystemUI dexpreopt adjustments.
 
 [![Contributions](https://contrib.rocks/image?repo=Ethereal-OS/vendor_ethereal)](https://github.com/Ethereal-OS/vendor_ethereal/graphs/contributions)
 
