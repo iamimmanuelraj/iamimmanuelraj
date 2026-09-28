@@ -1,6 +1,6 @@
 # Ethereal-OS/vendor_ethereal
 
-> Refined vendor code: BoardConfigQcom and sdm660 enhancements, GMS client ID refactor, and SystemUI dexpreopt adjustments.
+> Hardened vendor configs by fixing BoardConfig Qcom issues, enabling sdm660 DRM_PP/master CP support, refactoring GMS client ID handling, and dexpreopting SystemUIGoogle.
 
 [![Contributions](https://contrib.rocks/image?repo=Ethereal-OS/vendor_ethereal)](https://github.com/Ethereal-OS/vendor_ethereal/graphs/contributions)
 
