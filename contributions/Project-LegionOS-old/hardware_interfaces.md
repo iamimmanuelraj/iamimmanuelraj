@@ -1,6 +1,6 @@
 # Project-LegionOS-old/hardware_interfaces
 
-> Kept hardware_interfaces in sync with Android upstream by merging multiple Android 11 release tags.
+> Brought repository up to date with multiple Android 11 hardware interfaces releases by merging several android-11 tags.
 
 [![Contributions](https://contrib.rocks/image?repo=Project-LegionOS-old/hardware_interfaces)](https://github.com/Project-LegionOS-old/hardware_interfaces/graphs/contributions)
 
