@@ -5,4 +5,3 @@
 [![Contributions](https://contrib.rocks/image?repo=GuidixX/device_xiaomi_lavender)](https://github.com/GuidixX/device_xiaomi_lavender/graphs/contributions)
 
 ### Recent commits
-- sdm660-common: props: Fix cam interface on vilte calls
