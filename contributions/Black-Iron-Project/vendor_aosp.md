@@ -1,6 +1,6 @@
 # Black-Iron-Project/vendor_aosp
 
-> Vendor AOSP updates: BoardConfigQcom fixups, sdm660 DRM_PP and master CP support, GMS client ID refactor, and SystemUI dexpreopt adjustments.
+> Aligned vendor build logic: BoardConfigQcom fixes, sdm660 DRM_PP support, master-side CP additions, and GMS/SystemUI vendor refactors.
 
 [![Contributions](https://contrib.rocks/image?repo=Black-Iron-Project/vendor_aosp)](https://github.com/Black-Iron-Project/vendor_aosp/graphs/contributions)
 

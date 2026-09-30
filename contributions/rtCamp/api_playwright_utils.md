@@ -1,6 +1,6 @@
 # rtCamp/api_playwright_utils
 
-> Kept tooling current by merging dependency updates and adding Dependabot configuration.
+> Kept dependencies and CI up to date and added Dependabot: merged multiple dependency bumps and added dependabot configuration.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/api_playwright_utils)](https://github.com/rtCamp/api_playwright_utils/graphs/contributions)
 

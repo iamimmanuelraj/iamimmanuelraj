@@ -1,6 +1,6 @@
 # rtCamp/rtMedia
 
-> Merged automation and dependency updates and refactored gallery search query building.
+> Improved gallery search and CI hygiene: refactored gallery search query and added dependabot/Copilot runner merges.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/rtMedia)](https://github.com/rtCamp/rtMedia/graphs/contributions)
 
