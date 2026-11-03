@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout
 
-> Refined Jasmine Sprout device configuration with Pixel branding, updated battery and screen settings, and removed the TWRP build and build description.
+> Pixelized the Jasmine Sprout build and aligned its branding, battery capacity, screen density, and recovery build settings.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout/graphs/contributions)
 

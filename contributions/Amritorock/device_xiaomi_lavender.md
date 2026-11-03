@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Updated Lavender’s SDM660 media, GPS, Wi-Fi, and filesystem configuration, modernized overlays, and adjusted device services and build settings.
+> Updated Lavender and SDM660 media, GPS, Wi-Fi, and filesystem configuration, modernized overlays, and adjusted device services and build settings.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
