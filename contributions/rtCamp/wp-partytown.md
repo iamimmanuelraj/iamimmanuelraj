@@ -1,6 +1,6 @@
 # rtCamp/wp-partytown
 
-> Added Dependabot configuration and merged dependency updates for the Partytown project.
+> Added Dependabot configuration and merged updates to project, WordPress, and Partytown dependencies.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/wp-partytown)](https://github.com/rtCamp/wp-partytown/graphs/contributions)
 

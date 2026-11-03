@@ -1,6 +1,6 @@
 # TwistUI/vendor_aosp
 
-> Updated Qualcomm board configuration for SDM660 DRM and master-side CP support, and refined GMS client ID and SystemUIGoogle dexpreopt settings.
+> Refined Qualcomm board configuration and added SDM660 DRM and master-side CP support; updated GMS configuration and SystemUIGoogle dexpreopt.
 
 [![Contributions](https://contrib.rocks/image?repo=TwistUI/vendor_aosp)](https://github.com/TwistUI/vendor_aosp/graphs/contributions)
 
