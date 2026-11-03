@@ -1,6 +1,6 @@
 # Project-LegionOS-old/packages_apps_Updater
 
-> UX/content update: switched to dynamic changelog and fixed assorted issues.
+> Switched the updater to dynamic changelogs and fixed related issues.
 
 [![Contributions](https://contrib.rocks/image?repo=Project-LegionOS-old/packages_apps_Updater)](https://github.com/Project-LegionOS-old/packages_apps_Updater/graphs/contributions)
 

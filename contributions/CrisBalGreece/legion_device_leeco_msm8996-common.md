@@ -1,6 +1,6 @@
 # CrisBalGreece/legion_device_leeco_msm8996-common
 
-> Updated msm8996-common from Qualcomm LA release: refreshed carrier, filesystem, security configs and media codecs.
+> Updated MSM8996 carrier, filesystem, security, and media codec configurations from the newer Qualcomm release.
 
 [![Contributions](https://contrib.rocks/image?repo=CrisBalGreece/legion_device_leeco_msm8996-common)](https://github.com/CrisBalGreece/legion_device_leeco_msm8996-common/graphs/contributions)
 

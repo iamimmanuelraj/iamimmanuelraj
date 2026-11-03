@@ -1,8 +1,10 @@
 # crdroidandroid/android_device_xiaomi_lavender
 
-<!-- AI_DESC -->
+> Enabled proximity checks for Lavender’s double-tap-to-wake behavior and migrated overlays to RRO.
 
 [![Contributions](https://contrib.rocks/image?repo=crdroidandroid/android_device_xiaomi_lavender)](https://github.com/crdroidandroid/android_device_xiaomi_lavender/graphs/contributions)
 
 ### Recent commits
-- sdm660-common: props: Fix cam interface on vilte calls
+- lavender: Enable proximity check on dt2w
+- lavender: Add proximity check on wake in dt2w
+- lavender: overlay: Switch to RRO from Overlays

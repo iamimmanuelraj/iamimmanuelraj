@@ -1,6 +1,6 @@
 # Black-Iron-Project/vendor_aosp
 
-> Aligned vendor build logic: BoardConfigQcom fixes, sdm660 DRM_PP support, master-side CP additions, and GMS/SystemUI vendor refactors.
+> Improved Qualcomm board configuration and SDM660 DRM/coprocessor support, and refined GMS client ID and SystemUIGoogle build configuration.
 
 [![Contributions](https://contrib.rocks/image?repo=Black-Iron-Project/vendor_aosp)](https://github.com/Black-Iron-Project/vendor_aosp/graphs/contributions)
 
