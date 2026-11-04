@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Updated SDM660 build configuration, blobs, HALs, and extraction; adjusted blur, device doze, and SELinux settings.
+> Updated SDM660 blobs and HAL configuration, adjusted blur and Doze settings, and refined build, extraction, and SELinux policies.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
