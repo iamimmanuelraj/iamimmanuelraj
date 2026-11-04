@@ -1,6 +1,6 @@
 # rtCamp/api_playwright_utils
 
-> Added Dependabot configuration and merged dependency updates for environment variables, Playwright, and test utilities.
+> Added Dependabot configuration and merged dependency updates for dotenv, e, Faker, and Playwright.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/api_playwright_utils)](https://github.com/rtCamp/api_playwright_utils/graphs/contributions)
 
