@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout
 
-> Updated Jasmine Sprout product configuration, including branding, battery capacity, display density, and recovery build settings.
+> Refined Jasmine Sprout product branding and build settings, including battery capacity, screen density, and recovery configuration.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout/graphs/contributions)
 
