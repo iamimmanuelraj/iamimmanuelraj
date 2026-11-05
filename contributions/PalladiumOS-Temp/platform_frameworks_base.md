@@ -5,4 +5,3 @@
 [![Contributions](https://contrib.rocks/image?repo=PalladiumOS-Temp/platform_frameworks_base)](https://github.com/PalladiumOS-Temp/platform_frameworks_base/graphs/contributions)
 
 ### Recent commits
-- ActivityThread: Remove Failed to find provider info logspam
