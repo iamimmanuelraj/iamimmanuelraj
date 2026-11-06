@@ -1,6 +1,6 @@
 # Alioth-CAF-Device-Tree/device_qcom_common
 
-> Adjusted Qualcomm Bluetooth configuration inheritance and limited the advanced-scan property to legacy telephony platforms.
+> Fixed Bluetooth board configuration inheritance and conditionally set the legacy-platform telephony scan property.
 
 [![Contributions](https://contrib.rocks/image?repo=Alioth-CAF-Device-Tree/device_qcom_common)](https://github.com/Alioth-CAF-Device-Tree/device_qcom_common/graphs/contributions)
 

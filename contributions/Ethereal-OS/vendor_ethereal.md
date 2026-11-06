@@ -1,6 +1,6 @@
 # Ethereal-OS/vendor_ethereal
 
-> Refined Qualcomm board configuration for SDM660, including DRM post-processing and master-side charging support, and updated GMS configuration and SystemUI dexpreopt.
+> Improved Qualcomm board configuration and SDM660 support, added master-side CP support, and updated GMS and SystemUI dexpreopt settings.
 
 [![Contributions](https://contrib.rocks/image?repo=Ethereal-OS/vendor_ethereal)](https://github.com/Ethereal-OS/vendor_ethereal/graphs/contributions)
 
