@@ -1,6 +1,6 @@
 # vimalds15/srm
 
-> Updated site navigation with home and section links, added section IDs and icons, and refreshed the research and career links.
+> Improved site navigation and presentation by adding home, career, and research links, refining footer elements, and updating section icons and identifiers.
 
 [![Contributions](https://contrib.rocks/image?repo=vimalds15/srm)](https://github.com/vimalds15/srm/graphs/contributions)
 
