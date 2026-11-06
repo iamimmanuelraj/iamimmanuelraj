@@ -1,6 +1,6 @@
 # Ethereal-OS/vendor_ethereal
 
-> Refined Qualcomm board configuration and SDM660 support, adjusted Google app configuration, and enabled SystemUIGoogle dexpreopt.
+> Refined Qualcomm board configuration, added SDM660 DRM and master-side CP support, and updated GMS and SystemUI dexpreopt settings.
 
 [![Contributions](https://contrib.rocks/image?repo=Ethereal-OS/vendor_ethereal)](https://github.com/Ethereal-OS/vendor_ethereal/graphs/contributions)
 
