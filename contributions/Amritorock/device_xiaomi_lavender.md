@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Updated shared SDM660 media, Wi-Fi, GPS, and power configuration; added Camera/Ant HAL build support, fs-verity, and RRO overlays.
+> Updated Lavender media, GPS, and Wi-Fi support, modernized overlays, and refined device services and filesystem settings.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
