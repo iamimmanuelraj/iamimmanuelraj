@@ -1,6 +1,6 @@
 # vimalds15/srm
 
-> Improved site navigation and presentation with homepage links, section IDs, and updated icons and research links.
+> Updated navigation links, identifiers, and icons across the site, including links for Home and Research.
 
 [![Contributions](https://contrib.rocks/image?repo=vimalds15/srm)](https://github.com/vimalds15/srm/graphs/contributions)
 
