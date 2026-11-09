@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Updated Lavender media, GPS, Wi-Fi, and filesystem configuration; improved HAL builds and migrated overlays to RRO.
+> Updated Lavender’s SDM660 media, GPS, Wi-Fi, and power configuration, migrated overlays to RRO, and added filesystem verification support.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

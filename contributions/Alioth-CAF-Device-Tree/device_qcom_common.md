@@ -1,6 +1,6 @@
 # Alioth-CAF-Device-Tree/device_qcom_common
 
-> Adjusted Bluetooth configuration inheritance and conditionally set the advanced scan property for legacy platforms.
+> Corrected Bluetooth configuration inheritance and conditionally set the advanced-scan property on legacy platforms.
 
 [![Contributions](https://contrib.rocks/image?repo=Alioth-CAF-Device-Tree/device_qcom_common)](https://github.com/Alioth-CAF-Device-Tree/device_qcom_common/graphs/contributions)
 
