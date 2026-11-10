@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout
 
-> Refined Jasmine Sprout device configuration with Pixel-style branding, stock display density, battery capacity, and build metadata; disabled TWRP builds.
+> Refined the Jasmine Sprout device configuration with Pixel-style branding, stock display density, battery capacity, and build metadata updates, while disabling TWRP builds.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout/graphs/contributions)
 

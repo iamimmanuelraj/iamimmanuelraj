@@ -1,6 +1,6 @@
 # Black-Iron-Project/vendor_aosp
 
-> Fixed Qualcomm board configuration, added SDM660 DRM post-processing and master-side CP support, and updated GMS configuration and SystemUIGoogle dexpreopt.
+> Improved Qualcomm board configuration and SDM660 support, including DRM_PP and master-side CP, and updated GMS client ID and SystemUIGoogle build settings.
 
 [![Contributions](https://contrib.rocks/image?repo=Black-Iron-Project/vendor_aosp)](https://github.com/Black-Iron-Project/vendor_aosp/graphs/contributions)
 
