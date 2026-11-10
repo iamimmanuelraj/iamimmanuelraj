@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Updated the SDM660 device configuration with refreshed blobs, 4.14 HAL support, extraction and build changes, Bluetooth updates, and blur and SELinux policy adjustments.
+> Updated SDM660 blobs and HAL configuration, adjusted build and security policy settings, disabled blur by default, and switched to standalone blob extraction.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 

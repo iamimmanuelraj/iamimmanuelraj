@@ -1,6 +1,6 @@
 # shinchanbuilds/device_qcom_common
 
-> Adjusted Qualcomm Bluetooth configuration inheritance and conditionally set the legacy-platform telephony advanced scan property.
+> Adjusted Bluetooth configuration inheritance and conditionally set the advanced-scan property for legacy platforms.
 
 [![Contributions](https://contrib.rocks/image?repo=shinchanbuilds/device_qcom_common)](https://github.com/shinchanbuilds/device_qcom_common/graphs/contributions)
 
