@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Updated lavender’s media, GPS, Wi-Fi, and overlay configuration, and refined system services and filesystem support.
+> Updated Lavender’s media, GPS, Wi-Fi, and filesystem configuration, modernized overlays, and adjusted power and service builds.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
