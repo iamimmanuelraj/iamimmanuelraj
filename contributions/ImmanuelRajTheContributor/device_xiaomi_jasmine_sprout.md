@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout
 
-> Refined Jasmine Sprout product configuration with Pixel branding, battery capacity and stock display density, and removed TWRP and build description settings.
+> Pixelized the jasmine_sprout build and adjusted product branding, recovery inclusion, battery capacity, display density, and build description.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout/graphs/contributions)
 

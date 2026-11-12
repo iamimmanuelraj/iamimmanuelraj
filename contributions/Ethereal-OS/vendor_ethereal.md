@@ -1,6 +1,6 @@
 # Ethereal-OS/vendor_ethereal
 
-> Updated SDM660 board configuration and DRM_PP support, added master-side CP support, and refined GMS and SystemUIGoogle build settings.
+> Refined Qualcomm board configuration and SDM660 DRM/master-side support, and updated GMS client ID handling and SystemUIGoogle dexpreopt.
 
 [![Contributions](https://contrib.rocks/image?repo=Ethereal-OS/vendor_ethereal)](https://github.com/Ethereal-OS/vendor_ethereal/graphs/contributions)
 

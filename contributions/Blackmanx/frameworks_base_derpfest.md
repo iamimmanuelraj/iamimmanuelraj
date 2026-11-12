@@ -5,3 +5,4 @@
 [![Contributions](https://contrib.rocks/image?repo=Blackmanx/frameworks_base_derpfest)](https://github.com/Blackmanx/frameworks_base_derpfest/graphs/contributions)
 
 ### Recent commits
+- ActivityThread: Remove Failed to find provider info logspam
