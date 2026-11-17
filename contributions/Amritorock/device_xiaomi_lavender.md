@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-<!-- AI_DESC -->
+> Updated Lavender’s media, GPS, Wi-Fi, and HAL configuration, and refreshed filesystem and power settings.
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 

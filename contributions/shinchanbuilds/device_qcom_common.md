@@ -1,6 +1,6 @@
 # shinchanbuilds/device_qcom_common
 
-> Adjusted Bluetooth configuration inheritance and conditionally set the legacy-platform advanced-scan property.
+> Adjusted Bluetooth board-config inheritance and limited the advanced scanning property to legacy platforms.
 
 [![Contributions](https://contrib.rocks/image?repo=shinchanbuilds/device_qcom_common)](https://github.com/shinchanbuilds/device_qcom_common/graphs/contributions)
 
