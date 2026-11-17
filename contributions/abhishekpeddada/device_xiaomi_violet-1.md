@@ -1,6 +1,6 @@
 # abhishekpeddada/device_xiaomi_violet-1
 
-<!-- AI_DESC -->
+> Added two channels for echo reference and fixed the camera interface for ViLTE calls.
 
 [![Contributions](https://contrib.rocks/image?repo=abhishekpeddada/device_xiaomi_violet-1)](https://github.com/abhishekpeddada/device_xiaomi_violet-1/graphs/contributions)
 

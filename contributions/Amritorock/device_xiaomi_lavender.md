@@ -1,6 +1,6 @@
 # Amritorock/device_xiaomi_lavender
 
-> Updated SDM660 device support with refreshed media and GPS configuration, Wi-Fi options, RRO overlays, and filesystem and build changes.
+<!-- AI_DESC -->
 
 [![Contributions](https://contrib.rocks/image?repo=Amritorock/device_xiaomi_lavender)](https://github.com/Amritorock/device_xiaomi_lavender/graphs/contributions)
 
