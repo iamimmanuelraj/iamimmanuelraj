@@ -21,6 +21,8 @@ jobs:
         run: npm install -g @github/copilot
       - name: Generate descriptions
         id: ai
+        # AI descriptions are optional; don't block the data update when Copilot flakes
+        continue-on-error: true
         uses: actions/ai-inference@v3
         with:
           prompt-file: ./temp/ai-input.txt
@@ -28,7 +30,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}
       - name: Apply descriptions
-        run: node scripts/apply-descriptions.mjs "${{ steps.ai.outputs.response }}"
+        env:
+          AI_RESPONSE: ${{ steps.ai.outputs.response }}
+        run: node scripts/apply-descriptions.mjs "$AI_RESPONSE"
       - name: Commit and push
         env:
           GIT_AUTHOR_NAME: github-actions[bot]

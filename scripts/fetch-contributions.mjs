@@ -6,10 +6,15 @@ const GH = process.env.GITHUB_TOKEN;
 const OWNER = 'iamimmanuelraj';
 const CORE_REPOS = ['frappe/press', 'coollabsio/coolify'];
 
-async function gh(path) {
+async function gh(path, tries = 3) {
   const r = await fetch(`https://api.github.com${path}`, {
     headers: { Authorization: `Bearer ${GH}`, Accept: 'application/vnd.github.v3+json' }
   });
+  // retry transient 5xx (GitHub API returns occasional 502s)
+  if (r.status >= 500 && tries > 1) {
+    await new Promise(res => setTimeout(res, 5000));
+    return gh(path, tries - 1);
+  }
   if (!r.ok) throw new Error(`GH ${r.status} ${path}`);
   return r.json();
 }
