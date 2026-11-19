@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout
 
-> Refined Jasmine Sprout product branding and build settings, including battery capacity and screen density, and disabled the TWRP build.
+> Refined Jasmine Sprout device branding and build configuration, including battery capacity and stock display density.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout/graphs/contributions)
 
