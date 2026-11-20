@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_sdm660-common
 
-> Updated SDM660 device configuration, blobs, and HAL support, with changes to SELinux enforcement, blur defaults, extraction, and device-specific builds.
+> Updated SDM660 device configuration, blobs, Bluetooth support, HALs, and extraction; adjusted blur, build enforcement, and device-specific components.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_sdm660-common)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_sdm660-common/graphs/contributions)
 
