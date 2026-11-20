@@ -1,6 +1,6 @@
 # vimalds15/srm
 
-> Improved site navigation and section links, added icons for key areas, and refined footer and research details.
+> Improved site navigation and section links, added icons and IDs, updated the research section, and made related footer and bot updates.
 
 [![Contributions](https://contrib.rocks/image?repo=vimalds15/srm)](https://github.com/vimalds15/srm/graphs/contributions)
 
