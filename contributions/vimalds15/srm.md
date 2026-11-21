@@ -1,6 +1,6 @@
 # vimalds15/srm
 
-> Improved site navigation and campus, academics, and admissions links and icons, with supporting IDs and footer updates.
+> Improved the site footer and navigation with home, career/research, academics, campus life, and admissions links and icons.
 
 [![Contributions](https://contrib.rocks/image?repo=vimalds15/srm)](https://github.com/vimalds15/srm/graphs/contributions)
 

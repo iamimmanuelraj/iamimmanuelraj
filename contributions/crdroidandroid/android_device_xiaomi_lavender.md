@@ -1,6 +1,6 @@
 # crdroidandroid/android_device_xiaomi_lavender
 
-> Enabled proximity checks for lavender double-tap-to-wake and migrated its overlay configuration to RRO.
+> Added proximity checks for double-tap-to-wake and migrated Lavender overlays to runtime resource overlays.
 
 [![Contributions](https://contrib.rocks/image?repo=crdroidandroid/android_device_xiaomi_lavender)](https://github.com/crdroidandroid/android_device_xiaomi_lavender/graphs/contributions)
 
