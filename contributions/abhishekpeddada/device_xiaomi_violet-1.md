@@ -1,6 +1,6 @@
 # abhishekpeddada/device_xiaomi_violet-1
 
-> Added dual-channel echo reference support and fixed camera interface properties for ViLTE calls.
+> Added two-channel echo reference support and fixed the camera interface for ViLTE calls on Violet.
 
 [![Contributions](https://contrib.rocks/image?repo=abhishekpeddada/device_xiaomi_violet-1)](https://github.com/abhishekpeddada/device_xiaomi_violet-1/graphs/contributions)
 
