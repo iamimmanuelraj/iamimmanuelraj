@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Refined Qualcomm board configuration and SDM660 DRM and modem support, and updated GMS client ID handling and SystemUIGoogle dexpreopt.
+> Refined Qualcomm and SDM660 board configuration, added master-side CP and DRM_PP support, and updated GMS and SystemUIGoogle build settings.
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 
