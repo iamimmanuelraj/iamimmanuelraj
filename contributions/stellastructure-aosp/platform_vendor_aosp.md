@@ -1,6 +1,6 @@
 # stellastructure-aosp/platform_vendor_aosp
 
-> Refined Qualcomm board configuration and added SDM660 support, while updating GMS client ID handling and SystemUIGoogle dexpreopt configuration.
+> Refined Qualcomm board configuration and SDM660 features, and updated GMS client ID and SystemUIGoogle dexpreopt settings.
 
 [![Contributions](https://contrib.rocks/image?repo=stellastructure-aosp/platform_vendor_aosp)](https://github.com/stellastructure-aosp/platform_vendor_aosp/graphs/contributions)
 

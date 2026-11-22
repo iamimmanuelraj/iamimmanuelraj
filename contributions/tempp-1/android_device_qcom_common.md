@@ -1,6 +1,6 @@
 # tempp-1/android_device_qcom_common
 
-> Adjusted Qualcomm Bluetooth board-config inheritance and made the advanced-scan property conditional for legacy platforms.
+> Adjusted Bluetooth board-config inheritance and limited the telephony advanced-scan property to legacy platforms.
 
 [![Contributions](https://contrib.rocks/image?repo=tempp-1/android_device_qcom_common)](https://github.com/tempp-1/android_device_qcom_common/graphs/contributions)
 

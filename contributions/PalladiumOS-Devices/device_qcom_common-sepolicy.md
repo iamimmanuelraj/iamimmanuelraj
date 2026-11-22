@@ -1,6 +1,6 @@
 # PalladiumOS-Devices/device_qcom_common-sepolicy
 
-> Updated common Qualcomm SELinux policy for legacy devices, fixing policy paths and removing obsolete vendor-specific handling.
+> Added legacy-device C2 policy support and corrected policy paths, vendor integration, and LMKD labels.
 
 [![Contributions](https://contrib.rocks/image?repo=PalladiumOS-Devices/device_qcom_common-sepolicy)](https://github.com/PalladiumOS-Devices/device_qcom_common-sepolicy/graphs/contributions)
 
