@@ -1,6 +1,6 @@
 # vimalds15/srm
 
-> Updated site navigation and footer elements, added section IDs and a home link, and refreshed icons and links for admissions, campus life, academics, and research.
+> Refined the site footer and navigation, added homepage and research links, and updated section anchors and icons for academics, campus life, and admissions.
 
 [![Contributions](https://contrib.rocks/image?repo=vimalds15/srm)](https://github.com/vimalds15/srm/graphs/contributions)
 
