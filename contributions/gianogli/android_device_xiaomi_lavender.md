@@ -1,6 +1,6 @@
 # gianogli/android_device_xiaomi_lavender
 
-> Improved Lavender double-tap-to-wake proximity checks and migrated overlays to RRO.
+> Improved Lavender double-tap-to-wake proximity checks and migrated device overlays to RRO.
 
 [![Contributions](https://contrib.rocks/image?repo=gianogli/android_device_xiaomi_lavender)](https://github.com/gianogli/android_device_xiaomi_lavender/graphs/contributions)
 
