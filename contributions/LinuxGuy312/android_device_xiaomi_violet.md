@@ -1,6 +1,6 @@
 # LinuxGuy312/android_device_xiaomi_violet
 
-> Added dual-channel echo reference support and fixed the camera interface for ViLTE calls.
+> Added two audio channels for echo reference and fixed the camera interface for ViLTE calls.
 
 [![Contributions](https://contrib.rocks/image?repo=LinuxGuy312/android_device_xiaomi_violet)](https://github.com/LinuxGuy312/android_device_xiaomi_violet/graphs/contributions)
 
