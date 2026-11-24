@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout
 
-> Pixelized the jasmine_sprout build and refined product branding, battery capacity, screen density, and recovery build settings.
+> Polished the Jasmine Sprout product configuration with Pixel branding, corrected display density and battery capacity, and removed unnecessary build targets and metadata.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout/graphs/contributions)
 
