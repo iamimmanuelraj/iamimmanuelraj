@@ -1,6 +1,6 @@
 # voidxog/android_device_xiaomi_lavender
 
-> Improved Lavender device behavior with proximity-aware double-tap-to-wake and updated media, Wi-Fi, power, and build configurations.
+> Improved Lavender and SDM660 device support with proximity checks for double-tap-to-wake, updated media and Wi-Fi configuration, and build and power-management changes.
 
 [![Contributions](https://contrib.rocks/image?repo=voidxog/android_device_xiaomi_lavender)](https://github.com/voidxog/android_device_xiaomi_lavender/graphs/contributions)
 
