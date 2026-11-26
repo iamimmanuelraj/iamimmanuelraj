@@ -1,6 +1,6 @@
 # ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout
 
-> Refined the device’s product identity and display settings, added battery capacity, and adjusted recovery and build metadata.
+> Updated Jasmine Sprout product branding and battery capacity, aligned display density with stock values, and adjusted recovery and build-description settings.
 
 [![Contributions](https://contrib.rocks/image?repo=ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout)](https://github.com/ImmanuelRajTheContributor/device_xiaomi_jasmine_sprout/graphs/contributions)
 
