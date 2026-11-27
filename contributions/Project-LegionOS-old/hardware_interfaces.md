@@ -1,6 +1,6 @@
 # Project-LegionOS-old/hardware_interfaces
 
-> Synced Android 11 hardware interfaces through release tag android-11.0.0_r39.
+> Synced Android 11 hardware interface tags r33, r35, r38, and r39 into the project branches.
 
 [![Contributions](https://contrib.rocks/image?repo=Project-LegionOS-old/hardware_interfaces)](https://github.com/Project-LegionOS-old/hardware_interfaces/graphs/contributions)
 
