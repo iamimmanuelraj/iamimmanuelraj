@@ -1,6 +1,6 @@
 # rtCamp/api_playwright_utils
 
-> Added Dependabot configuration and merged automated dependency updates for the project’s JavaScript and Playwright packages.
+> Set up Dependabot and merged automated updates for project dependencies.
 
 [![Contributions](https://contrib.rocks/image?repo=rtCamp/api_playwright_utils)](https://github.com/rtCamp/api_playwright_utils/graphs/contributions)
 
