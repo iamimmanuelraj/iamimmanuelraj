@@ -1,9 +1,7 @@
 # tempp-1/android_device_qcom_common
 
-> Corrected Bluetooth configuration inheritance and conditionally set the advanced scan property for legacy platforms.
+> No commit details were provided.
 
 [![Contributions](https://contrib.rocks/image?repo=tempp-1/android_device_qcom_common)](https://github.com/tempp-1/android_device_qcom_common/graphs/contributions)
 
 ### Recent commits
-- common:bt: Inherit board configs before product configs
-- vendor: telephony: Conditionlly set `advancedscan` prop to legacy platforms
