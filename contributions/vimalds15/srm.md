@@ -1,6 +1,6 @@
 # vimalds15/srm
 
-> Updated site links, section IDs, and icons, including renaming Career to Research and adding a home link.
+> Updated site navigation and footer elements, added home and career/research links, and added IDs and icons for admissions, campus life, and academics.
 
 [![Contributions](https://contrib.rocks/image?repo=vimalds15/srm)](https://github.com/vimalds15/srm/graphs/contributions)
 
